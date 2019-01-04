@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "boy",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Middle English (denoting a male servant): of unknown origin"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "a male child or youth"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the survey showed that both boys and girls smoked regularly"
+                    },
+                    {
+                      "text": "a four-year-old boy"
+                    }
+                  ],
+                  "id": "m_en_gbus0119480.007",
+                  "short_definitions": [
+                    "male child"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a person's son"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she put her little boy to bed"
+                        }
+                      ],
+                      "id": "m_en_gbus0119480.010",
+                      "short_definitions": [
+                        "person's son"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a male child or young man who does a specified job"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a delivery boy"
+                        }
+                      ],
+                      "id": "m_en_gbus0119480.011",
+                      "notes": [
+                        {
+                          "text": "with modifier",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "boy or young man doing specified job"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "boy",
+                      "sense_id": "t_en_gb0001678.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a man, especially a young or relatively young one"
+                  ],
+                  "examples": [
+                    {
+                      "text": "I was the new boy at the office"
+                    }
+                  ],
+                  "id": "m_en_gbus0119480.013",
+                  "notes": [
+                    {
+                      "text": "usually with adjective",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "young man"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "men who mix socially or who belong to a particular group, team, or profession"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he is only going to have two days training with the boys"
+                        },
+                        {
+                          "text": "I hope that our boys will continue to play good quality rugby"
+                        }
+                      ],
+                      "id": "m_en_gbus0119480.014",
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "men in particular group"
+                      ],
+                      "variantForms": [
+                        {
+                          "text": "boys"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a friendly form of address from one man to another, especially from an older man to a young man"
+                      ],
+                      "examples": [
+                        {
+                          "text": "my dear boy, don't say another word!"
+                        }
+                      ],
+                      "id": "m_en_gbus0119480.017",
+                      "registers": [
+                        "dated"
+                      ],
+                      "short_definitions": [
+                        "friendly form of address"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a black male servant or worker (often used as a form of address)."
+                      ],
+                      "id": "m_en_gbus0119480.019",
+                      "registers": [
+                        "dated",
+                        "offensive"
+                      ],
+                      "short_definitions": [
+                        "black male worker"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "servant",
+                          "sense_id": "t_en_gb0013269.001"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a form of address to a male dog"
+                      ],
+                      "examples": [
+                        {
+                          "text": "down boy!"
+                        }
+                      ],
+                      "id": "m_en_gbus0119480.020",
+                      "short_definitions": [
+                        "form of address to male dog"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "guy",
+                      "sense_id": "t_en_gb0006639.001"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/boy_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "b\u0254\u026a"
+            }
+          ],
+          "text": "boy"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "used to express strong feelings, especially of excitement or admiration"
+                  ],
+                  "examples": [
+                    {
+                      "text": "oh boy, that's wonderful!"
+                    }
+                  ],
+                  "id": "m_en_gbus0119480.022",
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "expressing strong feelings"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Interjection",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/boy_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "b\u0254\u026a"
+            }
+          ],
+          "text": "boy"
+        }
+      ],
+      "type": "headword",
+      "word": "boy"
+    }
+  ]
+}

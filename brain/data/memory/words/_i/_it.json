@@ -1,0 +1,436 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "it",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English hit, neuter of he, of Germanic origin; related to Dutch het"
+              ],
+              "homographNumber": "100",
+              "senses": [
+                {
+                  "definitions": [
+                    "used to refer to a thing previously mentioned or easily identified"
+                  ],
+                  "examples": [
+                    {
+                      "text": "this approach is refreshing because it breaks down barriers"
+                    },
+                    {
+                      "text": "a room with two beds in it"
+                    }
+                  ],
+                  "id": "m_en_gbus0525480.006",
+                  "notes": [
+                    {
+                      "text": "third person singular",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "thing previously mentioned"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "referring to an animal or child of unspecified sex"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she was holding the baby, cradling it and smiling into its face"
+                        }
+                      ],
+                      "id": "m_en_gbus0525480.008",
+                      "short_definitions": [
+                        "animal or child of unspecified sex"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "referring to a fact or situation previously mentioned, known, or happening"
+                      ],
+                      "examples": [
+                        {
+                          "text": "stop it, you're hurting me"
+                        }
+                      ],
+                      "id": "m_en_gbus0525480.009",
+                      "short_definitions": [
+                        "fact or situation previously mentioned"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used to identify a person"
+                  ],
+                  "examples": [
+                    {
+                      "text": "it's a boy!"
+                    },
+                    {
+                      "text": "it's me"
+                    }
+                  ],
+                  "id": "m_en_gbus0525480.011",
+                  "notes": [
+                    {
+                      "text": "third person singular",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "used to identify person"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used in the normal subject position in statements about time, distance, or weather"
+                  ],
+                  "examples": [
+                    {
+                      "text": "it's half past five"
+                    },
+                    {
+                      "text": "it was two miles to the island"
+                    },
+                    {
+                      "text": "it's raining"
+                    }
+                  ],
+                  "id": "m_en_gbus0525480.013",
+                  "notes": [
+                    {
+                      "text": "third person singular",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "used in statements about time, weather, etc."
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used in the normal subject or object position when a more specific subject or object is given later in the sentence"
+                  ],
+                  "examples": [
+                    {
+                      "text": "it is impossible to assess the problem"
+                    },
+                    {
+                      "text": "she found it interesting to learn about their strategy"
+                    }
+                  ],
+                  "id": "m_en_gbus0525480.015",
+                  "notes": [
+                    {
+                      "text": "third person singular",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "used in subject position when specific subject is given later"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used to emphasize a following part of a sentence"
+                  ],
+                  "examples": [
+                    {
+                      "text": "it is the child who is the victim"
+                    }
+                  ],
+                  "id": "m_en_gbus0525480.017",
+                  "notes": [
+                    {
+                      "text": "third person singular",
+                      "type": "grammaticalNote"
+                    },
+                    {
+                      "text": "with clause",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "emphasizing following part of sentence"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "the situation or circumstances; things in general"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he would like to see you straight away if it's convenient"
+                    },
+                    {
+                      "text": "no one can stay here\u2014it's too dangerous now"
+                    }
+                  ],
+                  "id": "m_en_gbus0525480.019",
+                  "notes": [
+                    {
+                      "text": "third person singular",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "things in general"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "exactly what is needed or desired"
+                  ],
+                  "examples": [
+                    {
+                      "text": "they thought they were it"
+                    },
+                    {
+                      "text": "you've either got it or you haven't"
+                    }
+                  ],
+                  "id": "m_en_gbus0525480.021",
+                  "notes": [
+                    {
+                      "text": "third person singular",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "exactly what is needed or desired"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "sexual intercourse or sex appeal"
+                  ],
+                  "domains": [
+                    "Sex"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the only thing I knew nothing about was \u2018it\u2019"
+                    }
+                  ],
+                  "id": "m_en_gbus0525480.023",
+                  "notes": [
+                    {
+                      "text": "third person singular",
+                      "type": "grammaticalNote"
+                    },
+                    {
+                      "text": "usually \"\u2018it\u2019\"",
+                      "type": "wordFormNote"
+                    }
+                  ],
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "sex or sex appeal"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "denoting a person or thing that is exceptionally fashionable, popular, or successful at a particular time"
+                  ],
+                  "examples": [
+                    {
+                      "text": "they were Hollywood's It couple"
+                    },
+                    {
+                      "text": "the company is renting out the It bags of the moment for as little as \u00a310 a week"
+                    }
+                  ],
+                  "id": "m_en_gbus0525480.026",
+                  "notes": [
+                    {
+                      "text": "third person singular",
+                      "type": "grammaticalNote"
+                    },
+                    {
+                      "text": "attributive",
+                      "type": "grammaticalNote"
+                    },
+                    {
+                      "text": "\"It\"",
+                      "type": "wordFormNote"
+                    }
+                  ],
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "denoting person or thing that is very fashionable, popular, or successful at particular time"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "(in children's games) the player who has to catch the others."
+                  ],
+                  "id": "m_en_gbus0525480.028",
+                  "notes": [
+                    {
+                      "text": "third person singular",
+                      "type": "grammaticalNote"
+                    },
+                    {
+                      "text": "usually \"\u2018it\u2019\"",
+                      "type": "wordFormNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "player who has to catch others in games"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Pronoun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/it_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u026at"
+            }
+          ],
+          "text": "it"
+        },
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "1930s: abbreviation"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Mass",
+                  "type": "Countability"
+                },
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "200",
+              "senses": [
+                {
+                  "definitions": [
+                    "Italian vermouth"
+                  ],
+                  "domains": [
+                    "Alcoholic"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he poured a gin and it"
+                    }
+                  ],
+                  "id": "m_en_gbus0525490.003",
+                  "regions": [
+                    "British"
+                  ],
+                  "registers": [
+                    "dated",
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "Italian vermouth"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/it_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u026at"
+            }
+          ],
+          "text": "it"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Mass",
+                  "type": "Countability"
+                },
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "300",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    "short for information technology"
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "information_technology",
+                      "text": "information technology",
+                      "type": "abbreviation"
+                    }
+                  ],
+                  "domains": [
+                    "Computing"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the development and use of IT are certain to bring about changes in education"
+                    },
+                    {
+                      "text": "basic IT skills"
+                    }
+                  ],
+                  "id": "m_en_gbus0525470.005",
+                  "short_definitions": [
+                    "information technology"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/i_t_1_gb_1_abbr.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u028c\u026a\u02c8ti\u02d0"
+            }
+          ],
+          "text": "IT"
+        }
+      ],
+      "type": "headword",
+      "word": "it"
+    }
+  ]
+}

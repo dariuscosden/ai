@@ -1,0 +1,604 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "to",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English t\u014d (adverb and preposition), of West Germanic origin; related to Dutch toe and German zu"
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "expressing motion in the direction of (a particular location)"
+                  ],
+                  "examples": [
+                    {
+                      "text": "we're going to a party"
+                    },
+                    {
+                      "text": "walking down to the shops"
+                    },
+                    {
+                      "text": "my first visit to Africa"
+                    }
+                  ],
+                  "id": "m_en_gbus1057910.012",
+                  "short_definitions": [
+                    "expressing motion in direction of"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "expressing location, typically in relation to a specified point of reference"
+                      ],
+                      "examples": [
+                        {
+                          "text": "place the cursor to the left of the first word"
+                        },
+                        {
+                          "text": "forty miles to the south of the site"
+                        }
+                      ],
+                      "id": "m_en_gbus1057910.016",
+                      "short_definitions": [
+                        "expressing location"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "expressing a point reached at the end of a range or after a period of time"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a drop in profits from \u00a3105 m to around \u00a375 m"
+                        },
+                        {
+                          "text": "from 1938 to 1945"
+                        }
+                      ],
+                      "id": "m_en_gbus1057910.017",
+                      "short_definitions": [
+                        "expressing point reached at end of range or after period of time"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(in telling the time) before (the hour specified)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "it's five to ten"
+                        }
+                      ],
+                      "id": "m_en_gbus1057910.018",
+                      "regions": [
+                        "British"
+                      ],
+                      "short_definitions": [
+                        "before"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "approaching or reaching (a particular condition)"
+                  ],
+                  "examples": [
+                    {
+                      "text": "Christopher's expression changed from amazement to joy"
+                    },
+                    {
+                      "text": "she was close to tears"
+                    }
+                  ],
+                  "id": "m_en_gbus1057910.020",
+                  "short_definitions": [
+                    "approaching or reaching"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "expressing the result of a process or action"
+                      ],
+                      "examples": [
+                        {
+                          "text": "smashed to smithereens"
+                        }
+                      ],
+                      "id": "m_en_gbus1057910.021",
+                      "short_definitions": [
+                        "expressing result of process or action"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "governing a phrase expressing someone's reaction to something"
+                      ],
+                      "examples": [
+                        {
+                          "text": "to her astonishment, he smiled"
+                        }
+                      ],
+                      "id": "m_en_gbus1057910.022",
+                      "short_definitions": [
+                        "governing phrase expressing someone's reaction to something"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "towards",
+                      "sense_id": "t_en_gb0015026.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "identifying the person or thing affected by or receiving something"
+                  ],
+                  "examples": [
+                    {
+                      "text": "you were terribly unkind to her"
+                    },
+                    {
+                      "text": "they donated \u00a3400 to the hospice"
+                    },
+                    {
+                      "text": "I am deeply grateful to my parents"
+                    }
+                  ],
+                  "id": "m_en_gbus1057910.024",
+                  "short_definitions": [
+                    "identifying person or thing affected by or receiving something"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "identifying a particular relationship between one person and another"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he's economic adviser to the president"
+                    },
+                    {
+                      "text": "he is married to his cousin Emma"
+                    }
+                  ],
+                  "id": "m_en_gbus1057910.027",
+                  "short_definitions": [
+                    "identifying particular relationship between one person and another"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "used in various phrases to indicate how something is related to something else (often followed by a noun without a determiner)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "made to order"
+                        },
+                        {
+                          "text": "a prelude to disaster"
+                        }
+                      ],
+                      "id": "m_en_gbus1057910.028",
+                      "short_definitions": [
+                        "used in various phrases to indicate how something is related to something else"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "in",
+                          "sense_id": "t_en_gb0007535.006"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "indicating a rate of return on something, for example the distance travelled in exchange for fuel used"
+                      ],
+                      "examples": [
+                        {
+                          "text": "my car only does ten miles to the gallon"
+                        }
+                      ],
+                      "id": "m_en_gbus1057910.029",
+                      "short_definitions": [
+                        "indicating rate of return on something"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "indicating the power (exponent) to which a number is raised"
+                      ],
+                      "domains": [
+                        "Mathematics"
+                      ],
+                      "examples": [
+                        {
+                          "text": "ten to the minus thirty-three"
+                        }
+                      ],
+                      "id": "m_en_gbus1057910.030",
+                      "notes": [
+                        {
+                          "text": "\"to the\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "indicating power exponent to which number is raised"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "indicating that two things are attached or linked"
+                  ],
+                  "examples": [
+                    {
+                      "text": "they are inextricably linked to this island"
+                    },
+                    {
+                      "text": "he had left his dog tied to a drainpipe"
+                    }
+                  ],
+                  "id": "m_en_gbus1057910.032",
+                  "short_definitions": [
+                    "indicating that two things are attached or linked"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "concerning or likely to concern (something)"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a threat to world peace"
+                    },
+                    {
+                      "text": "a reference to Psalm 22:18"
+                    }
+                  ],
+                  "id": "m_en_gbus1057910.034",
+                  "short_definitions": [
+                    "concerning or likely to concern"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used to introduce the second element in a comparison"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the club's nothing to what it once was"
+                    }
+                  ],
+                  "id": "m_en_gbus1057910.036",
+                  "short_definitions": [
+                    "used to introduce second element in comparison"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "placed before a debit entry in accounting."
+                  ],
+                  "domains": [
+                    "Commerce"
+                  ],
+                  "id": "m_en_gbus1057910.038",
+                  "short_definitions": [
+                    "placed before debit entry in accounting"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Preposition",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/to_gb_4.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "t\u028a"
+            },
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/to_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "tu\u02d0"
+            },
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/to_gb_5.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "t\u0259"
+            }
+          ],
+          "text": "to"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Infinitive",
+                  "type": "Non Finiteness"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "used with the base form of a verb to indicate that the verb is in the infinitive."
+                  ],
+                  "id": "m_en_gbus1057910.041",
+                  "short_definitions": [
+                    "used with base form of verb to indicate that verb is in infinitive"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "expressing purpose or intention"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I set out to buy food"
+                        },
+                        {
+                          "text": "I am going to tell you a story"
+                        }
+                      ],
+                      "id": "m_en_gbus1057910.045",
+                      "short_definitions": [
+                        "expressing purpose or intention"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "expressing an outcome or result"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I managed to escape"
+                        },
+                        {
+                          "text": "she was left to die"
+                        }
+                      ],
+                      "id": "m_en_gbus1057910.046",
+                      "short_definitions": [
+                        "expressing outcome or result"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "expressing a cause"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I'm sorry to hear that"
+                        }
+                      ],
+                      "id": "m_en_gbus1057910.047",
+                      "short_definitions": [
+                        "expressing cause"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "indicating a desired or advisable action"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I'd love to go to France this summer"
+                        },
+                        {
+                          "text": "the leaflet explains how to start a course"
+                        }
+                      ],
+                      "id": "m_en_gbus1057910.048",
+                      "short_definitions": [
+                        "indicating desired or advisable action"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "indicating a proposition that is known, believed, or reported about a specified person or thing"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a house that people believed to be haunted"
+                        }
+                      ],
+                      "id": "m_en_gbus1057910.049",
+                      "short_definitions": [
+                        "indicating proposition that is known, believed, or reported about specified person or thing"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "forming a future tense with reference to the immediate future"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he was about to sing"
+                        }
+                      ],
+                      "id": "m_en_gbus1057910.050",
+                      "notes": [
+                        {
+                          "text": "\"about to\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "forming future tense of immediate future"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "after a noun, indicating its function or purpose"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a chair to sit on"
+                        },
+                        {
+                          "text": "something to eat"
+                        }
+                      ],
+                      "id": "m_en_gbus1057910.051",
+                      "short_definitions": [
+                        "after noun, indicating its function or purpose"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "after a phrase containing an ordinal number"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the first person to arrive"
+                        }
+                      ],
+                      "id": "m_en_gbus1057910.052",
+                      "short_definitions": [
+                        "after phrase containing ordinal number"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used without a verb following when the missing verb is clearly understood"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he asked her to come but she said she didn't want to"
+                    }
+                  ],
+                  "id": "m_en_gbus1057910.054",
+                  "short_definitions": [
+                    "used without verb following when missing verb is clearly understood"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Particle",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/to_gb_5.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "t\u0259"
+            },
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/to_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "tu\u02d0"
+            },
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/to_gb_4.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "t\u028a"
+            }
+          ],
+          "text": "to"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "002",
+              "senses": [
+                {
+                  "definitions": [
+                    "so as to be closed or nearly closed"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he pulled the door to behind him"
+                    }
+                  ],
+                  "id": "m_en_gbus1057910.056",
+                  "short_definitions": [
+                    "so as to be closed or nearly closed"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "fast",
+                      "sense_id": "t_en_gb0005497.002"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adverb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/to_gb_4.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "t\u028a"
+            },
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/to_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "tu\u02d0"
+            },
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/to_gb_5.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "t\u0259"
+            }
+          ],
+          "text": "to"
+        }
+      ],
+      "type": "headword",
+      "word": "to"
+    }
+  ]
+}

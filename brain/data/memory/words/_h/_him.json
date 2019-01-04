@@ -1,0 +1,189 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "him",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English, dative singular form of he, h\u0113 \u2018he\u2019 and hit \u2018it\u2019"
+              ],
+              "homographNumber": "000",
+              "notes": [
+                {
+                  "text": "Why do people tell us that it is wrong to say I could never be as good as him (rather than I could never be as good as he)? If they are right, why does he in this context sound so odd? For a discussion of this issue, see personal pronoun",
+                  "type": "editorialNote"
+                }
+              ],
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    "Compare with he"
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "he",
+                      "text": "he",
+                      "type": "see also"
+                    }
+                  ],
+                  "definitions": [
+                    "used as the object of a verb or preposition to refer to a male person or animal previously mentioned or easily identified"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he took the children with him"
+                    },
+                    {
+                      "text": "his wife survived him"
+                    }
+                  ],
+                  "id": "m_en_gbus0469160.006",
+                  "notes": [
+                    {
+                      "text": "third person singular",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "previously mentioned male person or animal"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "referring to a person or animal of unspecified sex"
+                      ],
+                      "examples": [
+                        {
+                          "text": "withdrawing your child from school to educate him at home may seem drastic"
+                        }
+                      ],
+                      "id": "m_en_gbus0469160.008",
+                      "short_definitions": [
+                        "person or animal of unspecified sex"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "used after the verb \u2018to be\u2019 and after \u2018than\u2019 or \u2018as\u2019"
+                      ],
+                      "examples": [
+                        {
+                          "text": "that's him all right"
+                        },
+                        {
+                          "text": "I could never be as good as him"
+                        }
+                      ],
+                      "id": "m_en_gbus0469160.009",
+                      "short_definitions": [
+                        "used after \u2018to be\u2019"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "he"
+                      ],
+                      "examples": [
+                        {
+                          "text": "him was a tall, bow-legged man"
+                        }
+                      ],
+                      "id": "m_en_gbus0469160.010",
+                      "regions": [
+                        "West Indian"
+                      ],
+                      "short_definitions": [
+                        "he"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "himself"
+                  ],
+                  "examples": [
+                    {
+                      "text": "in the depths of him, he too didn't want to go"
+                    }
+                  ],
+                  "id": "m_en_gbus0469160.012",
+                  "notes": [
+                    {
+                      "text": "third person singular",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "regions": [
+                    "North American"
+                  ],
+                  "registers": [
+                    "dialect",
+                    "archaic"
+                  ],
+                  "short_definitions": [
+                    "himself"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Pronoun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/him_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "h\u026am"
+            }
+          ],
+          "text": "him"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Abbreviation",
+                  "type": "Residual"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "Her or His Imperial Majesty."
+                  ],
+                  "domains": [
+                    "Royalty"
+                  ],
+                  "id": "m_en_gbus0469170.002",
+                  "regions": [
+                    "British"
+                  ],
+                  "short_definitions": [
+                    "Her or His Imperial Majesty"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Residual",
+          "text": "HIM"
+        }
+      ],
+      "type": "headword",
+      "word": "him"
+    }
+  ]
+}

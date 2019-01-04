@@ -1,0 +1,1189 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "do",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English d\u014dn, of Germanic origin; related to Dutch doen and German tun, from an Indo-European root shared by Greek tith\u0113mi \u2018I place\u2019 and Latin facere \u2018make, do\u2019"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "100",
+              "senses": [
+                {
+                  "definitions": [
+                    "perform (an action, the precise nature of which is often unspecified)"
+                  ],
+                  "examples": [
+                    {
+                      "text": "she knew what she was doing"
+                    },
+                    {
+                      "text": "Brian was looking at the girl, and had been doing so for most of the hearing"
+                    },
+                    {
+                      "text": "something must be done about the city's traffic"
+                    },
+                    {
+                      "text": "what can I do for you?"
+                    }
+                  ],
+                  "id": "m_en_gbus0286760.015",
+                  "notes": [
+                    {
+                      "text": "with object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "perform action"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "perform (a particular task)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Dad always did the washing up on Sundays"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.021",
+                      "short_definitions": [
+                        "perform task"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "work on (something) to bring it to completion or to a required state"
+                      ],
+                      "examples": [
+                        {
+                          "text": "it takes them longer to do their hair than me"
+                        },
+                        {
+                          "text": "she's the secretary and does the publicity"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.022",
+                      "short_definitions": [
+                        "work on something"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "do",
+                          "sense_id": "t_en_gb0004325.007"
+                        },
+                        {
+                          "entry_id": "do",
+                          "sense_id": "t_en_gb0004325.004"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "do the cleaning for a person or household"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Florrie usually did for the Shermans in the mornings"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.023",
+                      "notes": [
+                        {
+                          "text": "no object",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "regions": [
+                        "British"
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "do cleaning"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "make or have available and provide"
+                      ],
+                      "examples": [
+                        {
+                          "text": "many hotels don't do single rooms at all"
+                        },
+                        {
+                          "text": "he decided to do her a pastel sketch of himself"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.024",
+                      "short_definitions": [
+                        "make available"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "do",
+                          "sense_id": "t_en_gb0004325.005"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "solve; work out"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Joe was doing sums aloud"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.025",
+                      "short_definitions": [
+                        "solve"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "do",
+                          "sense_id": "t_en_gb0004325.010"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "cook (food) to completion or to a specified degree"
+                      ],
+                      "domains": [
+                        "Cooking"
+                      ],
+                      "examples": [
+                        {
+                          "text": "if a knife inserted into the centre comes out clean, then your pie is done"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.026",
+                      "short_definitions": [
+                        "cook food to completion"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(often in questions) work at for a living"
+                      ],
+                      "examples": [
+                        {
+                          "text": "what does she do?"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.027",
+                      "short_definitions": [
+                        "work at for a living"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "do",
+                          "sense_id": "t_en_gb0004325.012"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "learn or study; take as one's subject"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I'm doing English, German, and History"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.028",
+                      "short_definitions": [
+                        "study subject"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "do",
+                          "sense_id": "t_en_gb0004325.011"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "produce or give a performance of (a particular play, opera, etc.)"
+                      ],
+                      "domains": [
+                        "Theatre"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the Royal Shakespeare Company are doing Macbeth next month"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.029",
+                      "short_definitions": [
+                        "give performance of play etc."
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "do",
+                          "sense_id": "t_en_gb0004325.008"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "imitate (a particular person) in order to entertain people"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he not only does Schwarzenegger and Groucho, he becomes them"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.030",
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "imitate for amusement"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "take (a narcotic drug)"
+                      ],
+                      "domains": [
+                        "Narcotics"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he doesn't smoke, drink, or do drugs"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.031",
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "take drug"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "attend to (someone)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the barber said he'd do me next"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.033",
+                      "short_definitions": [
+                        "attend to"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "have sexual intercourse with."
+                      ],
+                      "domains": [
+                        "Sex"
+                      ],
+                      "id": "m_en_gbus0286760.034",
+                      "registers": [
+                        "vulgar slang"
+                      ],
+                      "short_definitions": [
+                        "have sex with"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "have sexual intercourse"
+                      ],
+                      "domains": [
+                        "Sex"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I only ever did it in the missionary position"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.035",
+                      "notes": [
+                        {
+                          "text": "\"do it\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "have sex"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "urinate or defecate."
+                      ],
+                      "id": "m_en_gbus0286760.036",
+                      "notes": [
+                        {
+                          "text": "\"do it\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "urinate or defecate"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "do",
+                      "sense_id": "t_en_gb0004325.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "achieve or complete."
+                  ],
+                  "id": "m_en_gbus0286760.038",
+                  "notes": [
+                    {
+                      "text": "with object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "achieve or complete"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "travel (a specified distance)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "one car I looked at had done 112,000 miles"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.039",
+                      "short_definitions": [
+                        "travel specified distance"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "do",
+                          "sense_id": "t_en_gb0004325.015"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "travel at (a specified speed)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I was speeding, doing seventy-five"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.040",
+                      "short_definitions": [
+                        "travel at specified speed"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "do",
+                          "sense_id": "t_en_gb0004325.014"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "make (a particular journey)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "last time I did Oxford\u2013York return by train it was \u00a350"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.041",
+                      "short_definitions": [
+                        "make journey"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "achieve (a specified sales figure)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "our bestselling album did about a million worldwide"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.042",
+                      "short_definitions": [
+                        "achieve sales"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "visit as a tourist, especially in a superficial or hurried way"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the Americans are allotted only a day to do the Yorkshire Moors"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.043",
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "visit as tourist"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "do",
+                          "sense_id": "t_en_gb0004325.016"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "spend (a specified period of time) in prison or in a particular occupation"
+                      ],
+                      "domains": [
+                        "Penal"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Peter has done thirteen years in the RAF"
+                        },
+                        {
+                          "text": "he did five years for manslaughter"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.044",
+                      "short_definitions": [
+                        "spend time in prison"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "finish"
+                      ],
+                      "examples": [
+                        {
+                          "text": "we've done arguing"
+                        },
+                        {
+                          "text": "you must sit there and wait till I've done"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.045",
+                      "notes": [
+                        {
+                          "text": "no object",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "finish"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "done",
+                          "sense_id": "t_en_gb0004377.001"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "be over"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the special formula continues to beautify your tan when the day is done"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.046",
+                      "notes": [
+                        {
+                          "text": "\"be done\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "be over"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "give up concern for; have finished with"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I should sell the place and be done with it"
+                        },
+                        {
+                          "text": "Steve was not done with her"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.048",
+                      "notes": [
+                        {
+                          "text": "\"be/have done with\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "regions": [
+                        "British"
+                      ],
+                      "short_definitions": [
+                        "have finished with"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "be_done_with",
+                          "sense_id": "t_en_gb0004377.005"
+                        },
+                        {
+                          "entry_id": "have_done_with",
+                          "sense_id": "t_en_gb0004377.008"
+                        },
+                        {
+                          "entry_id": "have_done_with",
+                          "sense_id": "t_en_gb0006818.017"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "act or behave in a specified way"
+                  ],
+                  "examples": [
+                    {
+                      "text": "they are free to do as they please"
+                    },
+                    {
+                      "text": "you did well to bring her back"
+                    }
+                  ],
+                  "id": "m_en_gbus0286760.050",
+                  "notes": [
+                    {
+                      "text": "no object, with adverbial",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "behave in specified way"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "make progress or perform in a specified way; get on or fare"
+                      ],
+                      "examples": [
+                        {
+                          "text": "when a team is doing badly, it's not easy for a new player to settle in"
+                        },
+                        {
+                          "text": "Mrs Walters, how're you doing?"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.051",
+                      "short_definitions": [
+                        "make specified progress"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "do",
+                          "sense_id": "t_en_gb0004325.013"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "have a specified effect on"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the walk will do me good"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.052",
+                      "notes": [
+                        {
+                          "text": "with object and complement",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "have specified effect on"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "result in"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the years of stagnation did a lot of harm to the younger generation"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.053",
+                      "notes": [
+                        {
+                          "text": "with object",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "result in"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "do",
+                      "sense_id": "t_en_gb0004325.002"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "be suitable or acceptable"
+                  ],
+                  "examples": [
+                    {
+                      "text": "if he's anything like you, he'll do"
+                    },
+                    {
+                      "text": "a couple of quid'll do me"
+                    }
+                  ],
+                  "id": "m_en_gbus0286760.055",
+                  "notes": [
+                    {
+                      "text": "no object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "be suitable or acceptable"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "suffice or be usable"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a strip of white cotton about 20 yards long did for a fence"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.056",
+                      "short_definitions": [
+                        "suffice"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "do",
+                      "sense_id": "t_en_gb0004325.003"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "beat up or kill"
+                  ],
+                  "domains": [
+                    "Crime"
+                  ],
+                  "examples": [
+                    {
+                      "text": "one day I'll do him"
+                    }
+                  ],
+                  "id": "m_en_gbus0286760.058",
+                  "notes": [
+                    {
+                      "text": "with object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "beat up or kill"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "be ruined"
+                      ],
+                      "examples": [
+                        {
+                          "text": "once you falter, you're done"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.059",
+                      "notes": [
+                        {
+                          "text": "\"be done\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "be ruined"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "rob (a place)"
+                      ],
+                      "domains": [
+                        "Crime"
+                      ],
+                      "examples": [
+                        {
+                          "text": "this would be an easy place to do and there was plenty of money lying around"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.060",
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "rob place"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "swindle"
+                      ],
+                      "domains": [
+                        "Crime"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a thousand pounds for one set of photos\u2014Jacqui had been done"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.061",
+                      "regions": [
+                        "British"
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "swindle"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "prosecute or convict"
+                  ],
+                  "domains": [
+                    "Crime"
+                  ],
+                  "examples": [
+                    {
+                      "text": "we got done for conspiracy to cause GBH"
+                    }
+                  ],
+                  "id": "m_en_gbus0286760.063",
+                  "notes": [
+                    {
+                      "text": "with object",
+                      "type": "grammaticalNote"
+                    },
+                    {
+                      "text": "usually \"be/get done for\"",
+                      "type": "wordFormNote"
+                    }
+                  ],
+                  "regions": [
+                    "British"
+                  ],
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "prosecute or convict"
+                  ]
+                }
+              ]
+            },
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Auxiliary",
+                  "type": "Verb"
+                },
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "101",
+              "senses": [
+                {
+                  "definitions": [
+                    "used before a verb (except be, can, may, ought, shall, will) in questions and negative statements"
+                  ],
+                  "examples": [
+                    {
+                      "text": "do you have any pets?"
+                    },
+                    {
+                      "text": "I don't smoke"
+                    },
+                    {
+                      "text": "did he see me?"
+                    },
+                    {
+                      "text": "it does not matter"
+                    }
+                  ],
+                  "id": "m_en_gbus0286760.066",
+                  "short_definitions": [
+                    "before verb in questions and negative statements"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "used to make tag questions"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I never seem to say the right thing, do I?"
+                        },
+                        {
+                          "text": "you write poetry, don't you?"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.070",
+                      "short_definitions": [
+                        "in tag questions"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "used in negative commands"
+                      ],
+                      "examples": [
+                        {
+                          "text": "do not forget"
+                        },
+                        {
+                          "text": "don't be silly"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.071",
+                      "short_definitions": [
+                        "in negative commands"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used to refer back to a verb already mentioned"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he looks better than he did before"
+                    },
+                    {
+                      "text": "I paid for my two tickets on the train and did so without complaint"
+                    },
+                    {
+                      "text": "as they get smarter, so do the crooks"
+                    },
+                    {
+                      "text": "you wanted to enjoy yourself, and you did"
+                    }
+                  ],
+                  "id": "m_en_gbus0286760.073",
+                  "short_definitions": [
+                    "referring back to verb"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used to give emphasis to a positive verb"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he did look tired"
+                    },
+                    {
+                      "text": "I do want to act on this"
+                    }
+                  ],
+                  "id": "m_en_gbus0286760.075",
+                  "short_definitions": [
+                    "emphasizing positive verb"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "used in positive commands to give polite encouragement"
+                      ],
+                      "examples": [
+                        {
+                          "text": "do tell me!"
+                        },
+                        {
+                          "text": "do sit down"
+                        }
+                      ],
+                      "id": "m_en_gbus0286760.076",
+                      "short_definitions": [
+                        "in commands giving polite encouragement"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used with inversion of a subject and verb when an adverbial phrase begins a clause for emphasis"
+                  ],
+                  "examples": [
+                    {
+                      "text": "not only did the play close, the theatre closed"
+                    },
+                    {
+                      "text": "only rarely did they succumb"
+                    }
+                  ],
+                  "id": "m_en_gbus0286760.078",
+                  "short_definitions": [
+                    "in adverbial phrase beginning clause for emphasis"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/do_gb_4.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "du\u02d0"
+            }
+          ],
+          "text": "do"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "102",
+              "pronunciations": [
+                {
+                  "audioFile": "http://audio.oxforddictionaries.com/en/mp3/do_gb_4.mp3",
+                  "dialects": [
+                    "British English"
+                  ],
+                  "phoneticNotation": "IPA",
+                  "phoneticSpelling": "du\u02d0"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "a party or other social event"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the soccer club Christmas do"
+                    }
+                  ],
+                  "id": "m_en_gbus0286760.081",
+                  "regions": [
+                    "British"
+                  ],
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "party or social event"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "do",
+                      "sense_id": "t_en_gb0004325.029"
+                    }
+                  ]
+                },
+                {
+                  "crossReferenceMarkers": [
+                    "short for hairdo"
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "hairdo",
+                      "text": "hairdo",
+                      "type": "abbreviation"
+                    }
+                  ],
+                  "examples": [
+                    {
+                      "text": "a bowl-shaped do of perfect silky hair"
+                    }
+                  ],
+                  "id": "m_en_gbus0286760.086",
+                  "regions": [
+                    "North American"
+                  ],
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "hairdo"
+                  ],
+                  "variantForms": [
+                    {
+                      "text": "'do"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "excrement"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the air was rancid with the smell of donkey doo"
+                    },
+                    {
+                      "registers": [
+                        "figurative"
+                      ],
+                      "text": "they'll be the first to come begging for help when the do hits the fan"
+                    }
+                  ],
+                  "id": "m_en_gbus0286760.091",
+                  "notes": [
+                    {
+                      "text": "mass noun",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "excrement"
+                  ],
+                  "variantForms": [
+                    {
+                      "text": "doo"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a swindle or hoax."
+                  ],
+                  "domains": [
+                    "Crime"
+                  ],
+                  "id": "m_en_gbus0286760.094",
+                  "registers": [
+                    "archaic",
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "swindle or hoax"
+                  ]
+                }
+              ]
+            },
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "400",
+              "pronunciations": [
+                {
+                  "audioFile": "http://audio.oxforddictionaries.com/en/mp3/doh_gb_1.mp3",
+                  "dialects": [
+                    "British English"
+                  ],
+                  "phoneticNotation": "IPA",
+                  "phoneticSpelling": "d\u0259\u028a"
+                }
+              ],
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    "variant spelling of doh"
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "doh",
+                      "text": "doh",
+                      "type": "variant spelling"
+                    }
+                  ],
+                  "id": "m_en_gbus0286770.003"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "text": "do"
+        }
+      ],
+      "type": "headword",
+      "word": "do"
+    }
+  ]
+}

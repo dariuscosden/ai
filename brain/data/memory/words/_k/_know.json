@@ -1,0 +1,311 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "know",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "derivatives": [
+            {
+              "id": "knowable",
+              "text": "knowable"
+            },
+            {
+              "id": "knower",
+              "text": "knower"
+            }
+          ],
+          "entries": [
+            {
+              "etymologies": [
+                "Old English cn\u0101wan (earlier gecn\u0101wan) \u2018recognize, identify\u2019, of Germanic origin; from an Indo-European root shared by Latin ( g)noscere, Greek gign\u014dskein, also by can and ken"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "be aware of through observation, inquiry, or information"
+                  ],
+                  "examples": [
+                    {
+                      "text": "I know what I'm doing"
+                    },
+                    {
+                      "text": "most people know that CFCs can damage the ozone layer"
+                    }
+                  ],
+                  "id": "m_en_gbus0553900.012",
+                  "notes": [
+                    {
+                      "text": "with clause",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "be aware of"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "have knowledge or information concerning"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I would write to him if I knew his address"
+                        },
+                        {
+                          "text": "I know of one local who shot himself"
+                        }
+                      ],
+                      "id": "m_en_gbus0553900.018",
+                      "notes": [
+                        {
+                          "text": "with object",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "have knowledge about"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "know",
+                          "sense_id": "t_en_gb0008472.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "be absolutely certain or sure about something"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I knew it!"
+                        },
+                        {
+                          "text": "I just knew it was something I wanted to do"
+                        }
+                      ],
+                      "id": "m_en_gbus0553900.019",
+                      "short_definitions": [
+                        "be absolutely sure about something"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "know",
+                      "sense_id": "t_en_gb0008472.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "have developed a relationship with (someone) through meeting and spending time with them; be familiar or friendly with"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he knew and respected Laura"
+                    }
+                  ],
+                  "id": "m_en_gbus0553900.021",
+                  "notes": [
+                    {
+                      "text": "with object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "be familiar or friendly with"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "have a good command of (a subject or language)."
+                      ],
+                      "id": "m_en_gbus0553900.022",
+                      "short_definitions": [
+                        "have good command of subject or language"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "know",
+                          "sense_id": "t_en_gb0008472.003"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "recognize (someone or something)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Isabel couldn't hear the words clearly but she knew the voice"
+                        }
+                      ],
+                      "id": "m_en_gbus0553900.023",
+                      "short_definitions": [
+                        "recognize"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "be familiar or acquainted with (something)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a little restaurant she knew near Leicester Square"
+                        }
+                      ],
+                      "id": "m_en_gbus0553900.024",
+                      "short_definitions": [
+                        "be familiar or acquainted with"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "have personal experience of (an emotion or situation)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a man who had known better times"
+                        }
+                      ],
+                      "id": "m_en_gbus0553900.025",
+                      "short_definitions": [
+                        "have personal experience of"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "know",
+                          "sense_id": "t_en_gb0008472.005"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "regard or perceive as having a specified characteristic"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the loch is known as a dangerous area for swimming"
+                        }
+                      ],
+                      "id": "m_en_gbus0553900.026",
+                      "notes": [
+                        {
+                          "text": "usually \"be known as\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "regard as having particular characteristic"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "give (someone or something) a particular name or title"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the doctor was universally known as \u2018Hubert\u2019"
+                        }
+                      ],
+                      "id": "m_en_gbus0553900.027",
+                      "notes": [
+                        {
+                          "text": "usually \"be known as\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "give particular name or title to"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "be able to distinguish one person or thing from (another)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "you are convinced you know your own baby from any other in the world"
+                        }
+                      ],
+                      "id": "m_en_gbus0553900.028",
+                      "notes": [
+                        {
+                          "text": "\"know someone/something from\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "be able to distinguish one person from another"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "know",
+                          "sense_id": "t_en_gb0008472.006"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "know",
+                      "sense_id": "t_en_gb0008472.004"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "have sexual intercourse with (someone)."
+                  ],
+                  "domains": [
+                    "Sex"
+                  ],
+                  "id": "m_en_gbus0553900.030",
+                  "notes": [
+                    {
+                      "text": "with object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "registers": [
+                    "archaic"
+                  ],
+                  "short_definitions": [
+                    "have sex with"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/know_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "n\u0259\u028a"
+            }
+          ],
+          "text": "know"
+        }
+      ],
+      "type": "headword",
+      "word": "know"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "look": {
+    "verb": {
+      "Infinitive": "to look",
+      "Present Participle": "looking",
+      "Past Participle": "looked",
+      "Simple Past Continous": {
+        "single": {
+          "I": {
+            "prefix": "was",
+            "verb": "looking"
+          },
+          "You": {
+            "prefix": "have",
+            "verb": "looked"
+          },
+          "He/She/It": {
+            "prefix": "was",
+            "verb": "looking"
+          }
+        },
+        "plural": {
+          "We": {
+            "prefix": "were",
+            "verb": "looking"
+          },
+          "You": {
+            "prefix": "were",
+            "verb": "looking"
+          },
+          "They/Those": {
+            "prefix": "were",
+            "verb": "looking"
+          }
+        }
+      },
+      "Simple Past Conditional": {
+        "single": {
+          "I": {
+            "prefix": "have",
+            "verb": "looked"
+          },
+          "You": {
+            "prefix": "have",
+            "verb": "looked"
+          },
+          "He/She/It": {
+            "prefix": "have",
+            "verb": "looked"
+          }
+        },
+        "plural": {
+          "We": {
+            "prefix": "have",
+            "verb": "looked"
+          },
+          "You": {
+            "prefix": "have",
+            "verb": "looked"
+          },
+          "They/Those": {
+            "prefix": "have",
+            "verb": "looked"
+          }
+        }
+      },
+      "Perfect Past Conditional": {
+        "single": {
+          "I": {
+            "prefix": "would have",
+            "verb": "looked"
+          },
+          "You": {
+            "prefix": "would have",
+            "verb": "looked"
+          },
+          "He/She/It": {
+            "prefix": "has been",
+            "verb": "looking"
+          }
+        },
+        "plural": {
+          "We": {
+            "prefix": "would have",
+            "verb": "looked"
+          },
+          "You": {
+            "prefix": "would have",
+            "verb": "looked"
+          },
+          "They/Those": {
+            "prefix": "would have",
+            "verb": "looked"
+          }
+        }
+      },
+      "Perfect Past Continous": {
+        "single": {
+          "I": {
+            "prefix": "had been",
+            "verb": "looking"
+          },
+          "You": {
+            "prefix": "had been",
+            "verb": "looking"
+          },
+          "He/She/It": {
+            "prefix": "had been",
+            "verb": "looking"
+          }
+        },
+        "plural": {
+          "We": {
+            "prefix": "had been",
+            "verb": "looking"
+          },
+          "You": {
+            "prefix": "had been",
+            "verb": "looking"
+          },
+          "They/Those": {
+            "prefix": "had been",
+            "verb": "looking"
+          }
+        }
+      },
+      "Simple Present Continous": {
+        "single": {
+          "I": {
+            "prefix": "am",
+            "verb": "looking"
+          },
+          "You": {
+            "prefix": "would be",
+            "verb": "looking"
+          },
+          "He/She/It": {
+            "prefix": "is",
+            "verb": "looks"
+          }
+        },
+        "plural": {
+          "We": {
+            "prefix": "are",
+            "verb": "looking"
+          },
+          "You": {
+            "prefix": "are",
+            "verb": "looking"
+          },
+          "They/Those": {
+            "prefix": "are",
+            "verb": "looking"
+          }
+        }
+      },
+      "Perfect Present Continous": {
+        "single": {
+          "I": {
+            "prefix": "have",
+            "verb": "looked"
+          },
+          "You": {
+            "prefix": "have",
+            "verb": "looked"
+          },
+          "He/She/It": {
+            "prefix": "have",
+            "verb": "looked"
+          }
+        },
+        "plural": {
+          "We": {
+            "prefix": "have",
+            "verb": "looked"
+          },
+          "You": {
+            "prefix": "have",
+            "verb": "looked"
+          },
+          "They/Those": {
+            "prefix": "have",
+            "verb": "looked"
+          }
+        }
+      },
+      "Simple Future": {
+        "single": {
+          "I": {
+            "prefix": "will be",
+            "verb": "looking"
+          },
+          "You": {
+            "prefix": "will be",
+            "verb": "looking"
+          },
+          "He/She/It": {
+            "prefix": "will be",
+            "verb": "looking"
+          }
+        },
+        "plural": {
+          "We": {
+            "prefix": "will be",
+            "verb": "looking"
+          },
+          "You": {
+            "prefix": "will be",
+            "verb": "looking"
+          },
+          "They/Those": {
+            "prefix": "will be",
+            "verb": "looking"
+          }
+        }
+      },
+      "Perfect Future": {
+        "single": {
+          "I": {
+            "prefix": "will have been",
+            "verb": "looking"
+          },
+          "You": {
+            "prefix": "will have been",
+            "verb": "looking"
+          },
+          "He/She/It": {
+            "prefix": "will have been",
+            "verb": "looking"
+          }
+        },
+        "plural": {
+          "We": {
+            "prefix": "will have been",
+            "verb": "looking"
+          },
+          "You": {
+            "prefix": "will have been",
+            "verb": "looking"
+          },
+          "They/Those": {
+            "prefix": "will have been",
+            "verb": "looking"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "woman",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "derivatives": [
+            {
+              "id": "womanless",
+              "text": "womanless"
+            },
+            {
+              "id": "womanlike",
+              "text": "womanlike"
+            }
+          ],
+          "entries": [
+            {
+              "etymologies": [
+                "Old English w\u012bfmon, -man (see wife, man), a formation peculiar to English, the ancient word being wife"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "an adult human female"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a jury of seven women and five men"
+                    },
+                    {
+                      "text": "a woman doctor"
+                    }
+                  ],
+                  "id": "m_en_gbus1164800.008",
+                  "short_definitions": [
+                    "adult human female"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a female person associated with a particular place, activity, or occupation"
+                      ],
+                      "examples": [
+                        {
+                          "text": "one of his sophisticated London women"
+                        }
+                      ],
+                      "id": "m_en_gbus1164800.011",
+                      "notes": [
+                        {
+                          "text": "with modifier",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "female person associated with particular place or occupation"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a peremptory form of address to a woman"
+                      ],
+                      "examples": [
+                        {
+                          "text": "don't be daft, woman!"
+                        }
+                      ],
+                      "id": "m_en_gbus1164800.013",
+                      "short_definitions": [
+                        "peremptory form of address to woman"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a female worker or employee."
+                      ],
+                      "id": "m_en_gbus1164800.015",
+                      "short_definitions": [
+                        "female worker or employee"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a female who is paid to clean someone's house and carry out other domestic duties"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a daily woman"
+                        }
+                      ],
+                      "id": "m_en_gbus1164800.016",
+                      "short_definitions": [
+                        "female who is paid to clean someone's house and carry out other domestic duties"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "woman",
+                          "sense_id": "t_en_gb0016349.003"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a man's wife, girlfriend, or lover"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he wondered whether Billy had his woman with him"
+                        }
+                      ],
+                      "id": "m_en_gbus1164800.017",
+                      "short_definitions": [
+                        "man's wife or lover"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "woman",
+                          "sense_id": "t_en_gb0016349.002"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "woman",
+                      "sense_id": "t_en_gb0016349.001"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/woman_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u02c8w\u028am\u0259n"
+            }
+          ],
+          "text": "woman"
+        }
+      ],
+      "type": "headword",
+      "word": "woman"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "eat",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English etan, of Germanic origin; related to Dutch eten and German essen, from an Indo-European root shared by Latin edere and Greek edein"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Transitive",
+                  "type": "Subcategorization"
+                },
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "put (food) into the mouth and chew and swallow it"
+                  ],
+                  "examples": [
+                    {
+                      "text": "eat up all your peas"
+                    },
+                    {
+                      "text": "he was eating a hot dog"
+                    },
+                    {
+                      "text": "she watched her son as he ate"
+                    }
+                  ],
+                  "id": "m_en_gbus0309180.012",
+                  "short_definitions": [
+                    "put food into the mouth"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "have (a meal)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "we ate dinner in a noisy cafe"
+                        }
+                      ],
+                      "id": "m_en_gbus0309180.019",
+                      "short_definitions": [
+                        "have meal"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "eat",
+                          "sense_id": "t_en_gb0004591.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "have a meal in a restaurant"
+                      ],
+                      "domains": [
+                        "Restaurants"
+                      ],
+                      "examples": [
+                        {
+                          "text": "there were plenty of places to eat out in the city centre"
+                        }
+                      ],
+                      "id": "m_en_gbus0309180.020",
+                      "notes": [
+                        {
+                          "text": "no object",
+                          "type": "grammaticalNote"
+                        },
+                        {
+                          "text": "\"eat out\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "have meal in restaurant"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "have a meal at home rather than in a restaurant."
+                      ],
+                      "id": "m_en_gbus0309180.021",
+                      "notes": [
+                        {
+                          "text": "no object",
+                          "type": "grammaticalNote"
+                        },
+                        {
+                          "text": "\"eat in\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "have meal at home"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "perform fellatio or cunnilingus on (someone)."
+                      ],
+                      "domains": [
+                        "Sex"
+                      ],
+                      "id": "m_en_gbus0309180.025",
+                      "regions": [
+                        "US"
+                      ],
+                      "registers": [
+                        "vulgar slang"
+                      ],
+                      "short_definitions": [
+                        "perform fellatio or cunnilingus on someone"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "eat_up",
+                      "sense_id": "t_en_gb0004591.005"
+                    },
+                    {
+                      "entry_id": "eat",
+                      "sense_id": "t_en_gb0004591.001"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/eat_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "i\u02d0t"
+            }
+          ],
+          "text": "eat"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "light food or snacks"
+                  ],
+                  "examples": [
+                    {
+                      "text": "these make great party eats"
+                    }
+                  ],
+                  "id": "m_en_gbus0309180.029",
+                  "notes": [
+                    {
+                      "text": "\"eats\"",
+                      "type": "wordFormNote"
+                    }
+                  ],
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "light food"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "eats",
+                      "sense_id": "t_en_gb0004593.001"
+                    },
+                    {
+                      "entry_id": "food",
+                      "sense_id": "t_en_gb0005872.001"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/eat_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "i\u02d0t"
+            }
+          ],
+          "text": "eat"
+        },
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "from East Africa Tanzania (formerly Tanganyika)"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Abbreviation",
+                  "type": "Residual"
+                }
+              ],
+              "homographNumber": "002",
+              "senses": [
+                {
+                  "definitions": [
+                    "Tanzania (international vehicle registration)."
+                  ],
+                  "domains": [
+                    "Motoring"
+                  ],
+                  "id": "m_en_gbus0309190.002",
+                  "short_definitions": [
+                    "Tanzania"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Residual",
+          "text": "EAT"
+        }
+      ],
+      "type": "headword",
+      "word": "eat"
+    }
+  ]
+}

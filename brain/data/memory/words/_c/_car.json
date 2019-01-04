@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "car",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "derivatives": [
+            {
+              "id": "carful",
+              "text": "carful"
+            }
+          ],
+          "entries": [
+            {
+              "etymologies": [
+                "late Middle English (in the general sense \u2018wheeled vehicle\u2019): from Old Northern French carre, based on Latin carrum, carrus, of Celtic origin"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "a road vehicle, typically with four wheels, powered by an internal combustion engine and able to carry a small number of people"
+                  ],
+                  "examples": [
+                    {
+                      "text": "we're going by car"
+                    },
+                    {
+                      "text": "a car crash"
+                    }
+                  ],
+                  "id": "m_en_gbus0151220.005",
+                  "short_definitions": [
+                    "motor vehicle"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a railway carriage"
+                      ],
+                      "domains": [
+                        "Railways"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the first-class cars"
+                        }
+                      ],
+                      "id": "m_en_gbus0151220.009",
+                      "short_definitions": [
+                        "railway carriage"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "car",
+                          "sense_id": "t_en_gb0002037.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "the passenger compartment of a lift, cableway, or balloon"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he was in the lift when the car stuck"
+                        }
+                      ],
+                      "id": "m_en_gbus0151220.010",
+                      "short_definitions": [
+                        "passenger compartment"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a chariot."
+                      ],
+                      "id": "m_en_gbus0151220.011",
+                      "registers": [
+                        "literary"
+                      ],
+                      "short_definitions": [
+                        "chariot"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "car",
+                      "sense_id": "t_en_gb0002037.001"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/car_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "k\u0251\u02d0"
+            }
+          ],
+          "text": "car"
+        }
+      ],
+      "type": "headword",
+      "word": "car"
+    }
+  ]
+}

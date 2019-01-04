@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "female",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "derivatives": [
+            {
+              "id": "femaleness",
+              "text": "femaleness"
+            }
+          ],
+          "entries": [
+            {
+              "etymologies": [
+                "Middle English: from Old French femelle, from Latin femella, diminutive of femina \u2018a woman\u2019. The change in the ending was due to association with male, but the words male and female are not linked etymologically"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "of or denoting the sex that can bear offspring or produce eggs, distinguished biologically by the production of gametes (ova) which can be fertilized by male gametes"
+                  ],
+                  "domains": [
+                    "Biology"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a herd of female deer"
+                    }
+                  ],
+                  "id": "m_en_gbus0356110.005",
+                  "short_definitions": [
+                    "referring to sex that bears offspring or produces eggs"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "relating to or characteristic of women or female animals"
+                      ],
+                      "examples": [
+                        {
+                          "text": "female names"
+                        },
+                        {
+                          "text": "a female audience"
+                        }
+                      ],
+                      "id": "m_en_gbus0356110.007",
+                      "short_definitions": [
+                        "relating to or characteristic of women"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "female",
+                          "sense_id": "t_en_gb0005568.001"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of a plant or flower) having a pistil but no stamens."
+                      ],
+                      "domains": [
+                        "Botany"
+                      ],
+                      "id": "m_en_gbus0356110.008",
+                      "short_definitions": [
+                        "(plant) having pistil but no stamens"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of parts of machinery, fittings, etc.) manufactured hollow so that a corresponding male part can be inserted."
+                      ],
+                      "domains": [
+                        "Mechanics"
+                      ],
+                      "id": "m_en_gbus0356110.009",
+                      "short_definitions": [
+                        "manufactured hollow to allow insertion of male part"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adjective",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/female_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u02c8fi\u02d0me\u026al"
+            }
+          ],
+          "text": "female"
+        },
+        {
+          "derivatives": [
+            {
+              "id": "femaleness",
+              "text": "femaleness"
+            }
+          ],
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "a female person, animal, or plant."
+                  ],
+                  "domains": [
+                    "Plant"
+                  ],
+                  "id": "m_en_gbus0356110.011",
+                  "short_definitions": [
+                    "female person, animal, or plant"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "female",
+                      "sense_id": "t_en_gb0005568.002"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/female_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u02c8fi\u02d0me\u026al"
+            }
+          ],
+          "text": "female"
+        }
+      ],
+      "type": "headword",
+      "word": "female"
+    }
+  ]
+}

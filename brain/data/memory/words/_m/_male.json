@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "male",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "derivatives": [
+            {
+              "id": "maleness",
+              "text": "maleness"
+            }
+          ],
+          "entries": [
+            {
+              "etymologies": [
+                "late Middle English: from Old French masle, from Latin masculus, from mas \u2018a male\u2019"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "of or denoting the sex that produces gametes, especially spermatozoa, with which a female may be fertilized or inseminated to produce offspring"
+                  ],
+                  "domains": [
+                    "Biology"
+                  ],
+                  "examples": [
+                    {
+                      "text": "male children"
+                    }
+                  ],
+                  "id": "m_en_gbus0610810.005",
+                  "short_definitions": [
+                    "referring to sex that produces gametes"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "relating to or characteristic of men or male animals"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a deep male voice"
+                        }
+                      ],
+                      "id": "m_en_gbus0610810.007",
+                      "short_definitions": [
+                        "characteristic of men or male animals"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "macho",
+                          "sense_id": "t_en_gb0009033.001"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of a plant or flower) bearing stamens but lacking functional pistils."
+                      ],
+                      "domains": [
+                        "Botany"
+                      ],
+                      "id": "m_en_gbus0610810.008",
+                      "short_definitions": [
+                        "having stamens but not functional pistils"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of a fitting or part of machinery) manufactured to fit inside a corresponding female part"
+                      ],
+                      "domains": [
+                        "Civil Engineering"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the valve has standard half-inch threaded male ends"
+                        }
+                      ],
+                      "id": "m_en_gbus0610810.009",
+                      "short_definitions": [
+                        "made to fit inside female fitting or part"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "male",
+                      "sense_id": "t_en_gb0009103.002"
+                    },
+                    {
+                      "entry_id": "male",
+                      "sense_id": "t_en_gb0009103.001"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adjective",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/male_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "me\u026al"
+            }
+          ],
+          "text": "male"
+        },
+        {
+          "derivatives": [
+            {
+              "id": "maleness",
+              "text": "maleness"
+            }
+          ],
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "a male person, plant, or animal"
+                  ],
+                  "domains": [
+                    "Zoology"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the audience consisted of adult males"
+                    }
+                  ],
+                  "id": "m_en_gbus0610810.011",
+                  "short_definitions": [
+                    "male person, plant, or animal"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/male_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "me\u026al"
+            }
+          ],
+          "text": "male"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Proper",
+                  "type": "Properness"
+                },
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "002",
+              "senses": [
+                {
+                  "definitions": [
+                    "the capital of the Maldives; population 111,000 (est. 2007)."
+                  ],
+                  "id": "m_en_gbus0610820.005",
+                  "short_definitions": [
+                    "capital of Maldives"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/male_1_gb_1.mp3",
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u02c8m\u0251\u02d0le\u026a"
+            }
+          ],
+          "text": "Male"
+        }
+      ],
+      "type": "headword",
+      "word": "male"
+    }
+  ]
+}

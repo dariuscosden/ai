@@ -1,0 +1,481 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "cold",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "derivatives": [
+            {
+              "id": "coldish",
+              "text": "coldish"
+            }
+          ],
+          "entries": [
+            {
+              "etymologies": [
+                "Old English cald, of Germanic origin; related to Dutch koud and German kalt, also to Latin gelu \u2018frost\u2019"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "of or at a low or relatively low temperature, especially when compared with the human body"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a sharp, cold wind"
+                    },
+                    {
+                      "text": "it's cold outside"
+                    },
+                    {
+                      "text": "a freezing cold day"
+                    }
+                  ],
+                  "id": "m_en_gbus0198460.006",
+                  "short_definitions": [
+                    "of or at low temperature"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "(of a person) feeling uncomfortably cold"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she was cold, and I put some more wood on the fire"
+                        }
+                      ],
+                      "id": "m_en_gbus0198460.011",
+                      "short_definitions": [
+                        "feeling uncomfortably cold"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "cold",
+                          "sense_id": "t_en_gb0002517.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of food or drink) served or consumed without being heated or after cooling"
+                      ],
+                      "examples": [
+                        {
+                          "text": "serve hot or cold"
+                        },
+                        {
+                          "text": "a cold drink"
+                        }
+                      ],
+                      "id": "m_en_gbus0198460.012",
+                      "short_definitions": [
+                        "not heated"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "feeling or characterized by fear or horror"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a cold shiver of fear"
+                        }
+                      ],
+                      "id": "m_en_gbus0198460.014",
+                      "short_definitions": [
+                        "feeling fear"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "unconscious"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she was out cold"
+                        }
+                      ],
+                      "id": "m_en_gbus0198460.015",
+                      "notes": [
+                        {
+                          "text": "as complement",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "unconscious"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "out_cold",
+                          "sense_id": "t_en_gb0010419.009"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "dead"
+                      ],
+                      "examples": [
+                        {
+                          "text": "lying cold and stiff in a coffin"
+                        }
+                      ],
+                      "id": "m_en_gbus0198460.016",
+                      "short_definitions": [
+                        "dead"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "lifeless",
+                          "sense_id": "t_en_gb0008754.001"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "cold",
+                      "sense_id": "t_en_gb0002517.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "lacking affection or warmth of feeling; unemotional"
+                  ],
+                  "examples": [
+                    {
+                      "text": "cold black eyes"
+                    },
+                    {
+                      "text": "how cold and calculating he was"
+                    }
+                  ],
+                  "id": "m_en_gbus0198460.018",
+                  "short_definitions": [
+                    "unemotional"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "not affected by emotion; objective"
+                      ],
+                      "examples": [
+                        {
+                          "text": "cold statistics"
+                        }
+                      ],
+                      "id": "m_en_gbus0198460.019",
+                      "short_definitions": [
+                        "objective"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "sexually unresponsive; frigid"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Elise was cold and barren"
+                        }
+                      ],
+                      "id": "m_en_gbus0198460.020",
+                      "short_definitions": [
+                        "sexually unresponsive"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "depressing or dispiriting; not suggestive of warmth"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a cold light streamed through the window"
+                        }
+                      ],
+                      "id": "m_en_gbus0198460.021",
+                      "short_definitions": [
+                        "depressing or dispiriting"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of a colour) containing pale blue or grey."
+                      ],
+                      "id": "m_en_gbus0198460.022",
+                      "short_definitions": [
+                        "(of colour) containing pale blue or grey"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "cold",
+                      "sense_id": "t_en_gb0002517.003"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "(of the scent or trail of a hunted person or animal) no longer fresh and easy to follow"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the trail went cold"
+                    }
+                  ],
+                  "id": "m_en_gbus0198460.025",
+                  "short_definitions": [
+                    "(of trail) hard to follow"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "(in children's games) far from finding or guessing what is sought."
+                      ],
+                      "id": "m_en_gbus0198460.026",
+                      "notes": [
+                        {
+                          "text": "predicative",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "far from finding or guessing something"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "without preparation or rehearsal"
+                  ],
+                  "examples": [
+                    {
+                      "text": "they went into the test cold"
+                    }
+                  ],
+                  "id": "m_en_gbus0198460.028",
+                  "notes": [
+                    {
+                      "text": "as complement",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "unawares"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "at one's mercy"
+                      ],
+                      "examples": [
+                        {
+                          "text": "they had him cold"
+                        }
+                      ],
+                      "id": "m_en_gbus0198460.029",
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "at one's mercy"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "off_%28one%27s%29_guard",
+                      "sense_id": "t_en_gb0006589.008"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adjective",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/cold_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "k\u0259\u028ald"
+            }
+          ],
+          "text": "cold"
+        },
+        {
+          "derivatives": [
+            {
+              "id": "coldish",
+              "text": "coldish"
+            }
+          ],
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "a low temperature; cold weather; a cold environment"
+                  ],
+                  "domains": [
+                    "Meteorology"
+                  ],
+                  "examples": [
+                    {
+                      "text": "my teeth chattered with the cold"
+                    },
+                    {
+                      "text": "they nearly died of cold"
+                    }
+                  ],
+                  "id": "m_en_gbus0198460.032",
+                  "notes": [
+                    {
+                      "text": "mass noun",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "low temperature"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a common infection in which the mucous membrane of the nose and throat becomes inflamed, typically causing running at the nose, sneezing, and a sore throat"
+                  ],
+                  "domains": [
+                    "Pathology"
+                  ],
+                  "examples": [
+                    {
+                      "text": "Suzie's got a cold"
+                    },
+                    {
+                      "text": "a cold remedy"
+                    },
+                    {
+                      "text": "a bad cold"
+                    }
+                  ],
+                  "id": "m_en_gbus0198460.035",
+                  "short_definitions": [
+                    "infection"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "chill",
+                      "sense_id": "t_en_gb0002277.002"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/cold_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "k\u0259\u028ald"
+            }
+          ],
+          "text": "cold"
+        },
+        {
+          "derivatives": [
+            {
+              "id": "coldish",
+              "text": "coldish"
+            }
+          ],
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "002",
+              "senses": [
+                {
+                  "definitions": [
+                    "completely; entirely"
+                  ],
+                  "examples": [
+                    {
+                      "text": "we stopped cold behind a turn in the staircase"
+                    }
+                  ],
+                  "id": "m_en_gbus0198460.039",
+                  "regions": [
+                    "North American"
+                  ],
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "completely"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "unawares",
+                      "sense_id": "t_en_gb0015346.001"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adverb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/cold_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "k\u0259\u028ald"
+            }
+          ],
+          "text": "cold"
+        }
+      ],
+      "type": "headword",
+      "word": "cold"
+    }
+  ]
+}

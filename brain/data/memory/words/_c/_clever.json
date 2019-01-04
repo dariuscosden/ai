@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "clever",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Middle English (in the sense \u2018quick to catch hold\u2019, only recorded in this period): perhaps of Dutch or Low German origin, and related to cleave. In the late 16th century the term came to mean (probably through dialect use) \u2018manually skilful\u2019; the sense \u2018possessing mental agility\u2019 dates from the early 18th century"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                },
+                {
+                  "text": "Comparative",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "quick to understand, learn, and devise or apply ideas; intelligent"
+                  ],
+                  "examples": [
+                    {
+                      "text": "how clever of him to think of this!"
+                    },
+                    {
+                      "text": "she was an extremely clever and studious young woman"
+                    }
+                  ],
+                  "id": "m_en_gbus0189460.006",
+                  "short_definitions": [
+                    "intelligent"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "skilled at doing or achieving something; talented"
+                      ],
+                      "examples": [
+                        {
+                          "text": "both Grandma and Mother were clever with their hands"
+                        },
+                        {
+                          "text": "he was very clever at getting what he wanted"
+                        }
+                      ],
+                      "id": "m_en_gbus0189460.010",
+                      "short_definitions": [
+                        "skilled or talented"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "clever",
+                          "sense_id": "t_en_gb0002413.003"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "showing skill and originality; ingenious"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a simple but clever idea for helping people learn computing"
+                        },
+                        {
+                          "text": "he taught the dog to perform some very clever tricks"
+                        }
+                      ],
+                      "id": "m_en_gbus0189460.011",
+                      "short_definitions": [
+                        "ingenious"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "clever",
+                          "sense_id": "t_en_gb0002413.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "sensible; well advised"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Joe had a feeling it wasn't too clever, leaving Dolly alone"
+                        }
+                      ],
+                      "id": "m_en_gbus0189460.012",
+                      "notes": [
+                        {
+                          "text": "usually with negative",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "sensible"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "judicious",
+                          "sense_id": "t_en_gb0008362.001"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "clever",
+                      "sense_id": "t_en_gb0002413.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "healthy or well"
+                  ],
+                  "examples": [
+                    {
+                      "text": "I was up and about by this time though still not too clever"
+                    }
+                  ],
+                  "id": "m_en_gbus0189460.015",
+                  "notes": [
+                    {
+                      "text": "predicative, with negative",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "regions": [
+                    "British"
+                  ],
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "healthy or well"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adjective",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/clever_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u02c8kl\u025bv\u0259"
+            }
+          ],
+          "text": "clever"
+        }
+      ],
+      "type": "headword",
+      "word": "clever"
+    }
+  ]
+}

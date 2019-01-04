@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "very",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Middle English (as an adjective in the sense \u2018real, genuine\u2019): from Old French verai, based on Latin verus \u2018true\u2019"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "in a high degree"
+                  ],
+                  "examples": [
+                    {
+                      "text": "very much so"
+                    },
+                    {
+                      "text": "a very large amount"
+                    },
+                    {
+                      "text": "the river rose very quickly"
+                    }
+                  ],
+                  "id": "m_en_gbus1126250.007",
+                  "short_definitions": [
+                    "in high degree"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "used to emphasize that the following description applies without qualification"
+                      ],
+                      "examples": [
+                        {
+                          "text": "his very own car"
+                        },
+                        {
+                          "text": "the very best quality"
+                        }
+                      ],
+                      "id": "m_en_gbus1126250.008",
+                      "notes": [
+                        {
+                          "text": "with superlative or \"own\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "used to emphasize that following description applies without qualification"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "very",
+                      "sense_id": "t_en_gb0015918.001"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adverb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/very_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u02c8v\u025bri"
+            }
+          ],
+          "text": "very"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "actual; precise (used to emphasize the exact identity of someone or something)"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he might be phoning her at this very moment"
+                    },
+                    {
+                      "text": "those were his very words"
+                    }
+                  ],
+                  "id": "m_en_gbus1126250.011",
+                  "short_definitions": [
+                    "actual"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "real; genuine"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the very God of Heaven"
+                        }
+                      ],
+                      "id": "m_en_gbus1126250.013",
+                      "registers": [
+                        "archaic"
+                      ],
+                      "short_definitions": [
+                        "real"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "real",
+                          "sense_id": "t_en_gb0012134.005"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "very",
+                      "sense_id": "t_en_gb0015918.002"
+                    },
+                    {
+                      "entry_id": "very",
+                      "sense_id": "t_en_gb0015918.003"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "emphasizing an extreme point in time or space"
+                  ],
+                  "examples": [
+                    {
+                      "text": "at the very back of the skull"
+                    },
+                    {
+                      "text": "from the very beginning of the book"
+                    }
+                  ],
+                  "id": "m_en_gbus1126250.015",
+                  "short_definitions": [
+                    "emphasizing extreme point in time or space"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "extreme",
+                      "sense_id": "t_en_gb0005361.005"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "with no addition of anything else; mere"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the very thought of drink made him feel sick"
+                    }
+                  ],
+                  "id": "m_en_gbus1126250.017",
+                  "short_definitions": [
+                    "with no addition of anything else"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "very",
+                      "sense_id": "t_en_gb0015918.004"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adjective",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/very_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u02c8v\u025bri"
+            }
+          ],
+          "text": "very"
+        }
+      ],
+      "type": "headword",
+      "word": "very"
+    }
+  ]
+}

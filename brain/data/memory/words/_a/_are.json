@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "are",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "homographNumber": "100",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    "second person singular present and first, second, third person plural present of be"
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "be",
+                      "text": "be",
+                      "type": "see also"
+                    }
+                  ],
+                  "id": "m_en_gbus0045690.008"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Other",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/are_gb_5.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0251\u02d0"
+            },
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/are_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0259"
+            }
+          ],
+          "text": "are"
+        },
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "late 18th century: from French, from Latin area (see area)"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "200",
+              "senses": [
+                {
+                  "definitions": [
+                    "a metric unit of measurement, equal to 100 square metres."
+                  ],
+                  "domains": [
+                    "Measure"
+                  ],
+                  "id": "m_en_gbus0045700.008",
+                  "registers": [
+                    "historical"
+                  ],
+                  "short_definitions": [
+                    "metric unit of measurement, equal to 100 square metres"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/are_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0259"
+            },
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/are_gb_5.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0251\u02d0"
+            }
+          ],
+          "text": "are"
+        }
+      ],
+      "type": "headword",
+      "word": "are"
+    }
+  ]
+}

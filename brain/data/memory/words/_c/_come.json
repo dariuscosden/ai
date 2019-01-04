@@ -1,0 +1,685 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "come",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English cuman, of Germanic origin; related to Dutch komen and German kommen"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Past Participle",
+                  "type": "Non Finiteness"
+                },
+                {
+                  "text": "Past",
+                  "type": "Tense"
+                },
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "000",
+              "notes": [
+                {
+                  "text": "The use of come followed by and, as in come and see for yourself, dates back to Old English, but is seen by some as incorrect or only suitable for informal English: for more details see and",
+                  "type": "editorialNote"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "move or travel towards or into a place thought of as near or familiar to the speaker"
+                  ],
+                  "examples": [
+                    {
+                      "text": "Jess came into the kitchen"
+                    },
+                    {
+                      "text": "he came rushing out"
+                    },
+                    {
+                      "text": "I came here on holiday with my parents"
+                    }
+                  ],
+                  "id": "m_en_gbus0202180.010",
+                  "notes": [
+                    {
+                      "text": "no object, usually with adverbial of direction",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "move towards speaker"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "arrive at a specified place"
+                      ],
+                      "examples": [
+                        {
+                          "text": "we walked along till we came to a stream"
+                        },
+                        {
+                          "text": "my trunk hasn't come yet"
+                        },
+                        {
+                          "text": "it was very late when she came back"
+                        }
+                      ],
+                      "id": "m_en_gbus0202180.016",
+                      "short_definitions": [
+                        "arrive"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "come",
+                          "sense_id": "t_en_gb0002558.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of a thing) reach or extend to a specified point"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the path comes straight down"
+                        },
+                        {
+                          "text": "women in slim dresses that came all the way to their shoes"
+                        }
+                      ],
+                      "id": "m_en_gbus0202180.017",
+                      "short_definitions": [
+                        "extend to specified point"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "come",
+                          "sense_id": "t_en_gb0002558.004"
+                        },
+                        {
+                          "entry_id": "come",
+                          "sense_id": "t_en_gb0002558.003"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "approach"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she heard the train coming"
+                        },
+                        {
+                          "text": "someone was coming"
+                        }
+                      ],
+                      "id": "m_en_gbus0202180.018",
+                      "notes": [
+                        {
+                          "text": "\"be coming\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "approach"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "on_the_horizon",
+                          "sense_id": "t_en_gb0007115.003"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "travel in order to be with a specified person, to do a specified thing, or to be present at an event"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the police came"
+                        },
+                        {
+                          "text": "the electrician came to mend the cooker"
+                        },
+                        {
+                          "registers": [
+                            "figurative"
+                          ],
+                          "text": "we have come a long way since Aristotle"
+                        },
+                        {
+                          "text": "come and live with me"
+                        }
+                      ],
+                      "id": "m_en_gbus0202180.020",
+                      "short_definitions": [
+                        "travel for particular purpose"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "join someone in participating in a specified activity or course of action"
+                      ],
+                      "examples": [
+                        {
+                          "text": "do you want to come fishing tomorrow?"
+                        }
+                      ],
+                      "id": "m_en_gbus0202180.021",
+                      "notes": [
+                        {
+                          "text": "with present participle",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "join someone in activity"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "make progress; develop"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she asked them how their garden was coming on"
+                        },
+                        {
+                          "text": "he's coming along nicely"
+                        }
+                      ],
+                      "id": "m_en_gbus0202180.022",
+                      "notes": [
+                        {
+                          "text": "\"come along/on\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "make progress"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "come_along",
+                          "sense_id": "t_en_gb0002558.014"
+                        },
+                        {
+                          "entry_id": "come_on",
+                          "sense_id": "t_en_gb0002558.030"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "said to someone when correcting or reassuring someone"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Come, come, child, don't thank me"
+                        }
+                      ],
+                      "id": "m_en_gbus0202180.023",
+                      "notes": [
+                        {
+                          "text": "in imperative",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "said to reassure or urge on"
+                      ],
+                      "variantForms": [
+                        {
+                          "text": "come, come!"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "come",
+                      "sense_id": "t_en_gb0002558.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "occur; happen; take place"
+                  ],
+                  "examples": [
+                    {
+                      "text": "his father waited for a phone call that never came"
+                    },
+                    {
+                      "text": "twilight had not yet come"
+                    },
+                    {
+                      "text": "a chance like this doesn't come along every day"
+                    }
+                  ],
+                  "id": "m_en_gbus0202180.025",
+                  "notes": [
+                    {
+                      "text": "no object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "happen"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "be heard, perceived, or experienced"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a voice came from the kitchen"
+                        },
+                        {
+                          "text": "it came as a great shock"
+                        }
+                      ],
+                      "id": "m_en_gbus0202180.026",
+                      "short_definitions": [
+                        "be heard or experienced"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of a quality) become apparent or noticeable through actions or performance"
+                      ],
+                      "examples": [
+                        {
+                          "text": "as an actor your style and personality must come through"
+                        }
+                      ],
+                      "id": "m_en_gbus0202180.027",
+                      "notes": [
+                        {
+                          "text": "with adverbial",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "become apparent"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "come_across",
+                          "sense_id": "t_en_gb0002558.011"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of a person) appear or sound in a specified way; give a specified impression"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he'd always come across as a decent sort"
+                        }
+                      ],
+                      "id": "m_en_gbus0202180.028",
+                      "notes": [
+                        {
+                          "text": "\"come across\" or British \"over\" or US \"off\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "give specified impression"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "come_across",
+                          "sense_id": "t_en_gb0002558.012"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of a thought or memory) enter one's mind"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the basic idea came to me while reading an article"
+                        },
+                        {
+                          "text": "a passage from a novel came back to Adam"
+                        }
+                      ],
+                      "id": "m_en_gbus0202180.029",
+                      "short_definitions": [
+                        "enter the mind"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "come",
+                      "sense_id": "t_en_gb0002558.006"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "take or occupy a specified position in space, order, or priority"
+                  ],
+                  "examples": [
+                    {
+                      "text": "prisons come well down the list of priorities"
+                    },
+                    {
+                      "text": "I make sure my kids come first"
+                    }
+                  ],
+                  "id": "m_en_gbus0202180.031",
+                  "notes": [
+                    {
+                      "text": "no object, with complement",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "have specified place in order"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "achieve a specified place in a race or contest"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she came second among sixty contestants"
+                        }
+                      ],
+                      "id": "m_en_gbus0202180.032",
+                      "short_definitions": [
+                        "achieve specified place in contest"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "pass into a specified state, especially one of separation or disunion"
+                  ],
+                  "examples": [
+                    {
+                      "text": "his shirt had come undone"
+                    }
+                  ],
+                  "id": "m_en_gbus0202180.034",
+                  "notes": [
+                    {
+                      "text": "no object, with complement",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "pass into specified state"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "reach or be brought to a specified situation or result"
+                      ],
+                      "examples": [
+                        {
+                          "text": "you will come to no harm"
+                        },
+                        {
+                          "text": "staff who come into contact with the public"
+                        },
+                        {
+                          "text": "the vehicle came to rest against a traffic signal"
+                        }
+                      ],
+                      "id": "m_en_gbus0202180.035",
+                      "notes": [
+                        {
+                          "text": "\"come to/into\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "have specified result"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "touch",
+                          "sense_id": "t_en_gb0015010.003"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "eventually reach a certain condition or state of mind"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he had come to realize she was no puppet"
+                        }
+                      ],
+                      "id": "m_en_gbus0202180.036",
+                      "notes": [
+                        {
+                          "text": "with infinitive",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "reach certain state of mind"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "come_apart",
+                      "sense_id": "t_en_gb0002558.016"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "be sold, available, or found in a specified form"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the shirts come in three sizes"
+                    },
+                    {
+                      "text": "the cars come with a variety of extras"
+                    }
+                  ],
+                  "id": "m_en_gbus0202180.038",
+                  "notes": [
+                    {
+                      "text": "no object, with adverbial",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "be available in specified form"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "come",
+                      "sense_id": "t_en_gb0002558.007"
+                    }
+                  ]
+                },
+                {
+                  "crossReferences": [
+                    {
+                      "id": "cum",
+                      "text": "cum",
+                      "type": "variant spelling"
+                    },
+                    {
+                      "id": "cum",
+                      "text": "cum",
+                      "type": "variant spelling"
+                    }
+                  ],
+                  "definitions": [
+                    "have an orgasm."
+                  ],
+                  "domains": [
+                    "Sex"
+                  ],
+                  "id": "m_en_gbus0202180.040",
+                  "notes": [
+                    {
+                      "text": "no object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "have orgasm"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "come",
+                      "sense_id": "t_en_gb0002558.008"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/come_gb_3.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "k\u028cm"
+            }
+          ],
+          "text": "come"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "001",
+              "notes": [
+                {
+                  "text": "The use of come followed by and, as in come and see for yourself, dates back to Old English, but is seen by some as incorrect or only suitable for informal English: for more details see and",
+                  "type": "editorialNote"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "when a specified time is reached or event happens"
+                  ],
+                  "examples": [
+                    {
+                      "text": "I don't think that they'll be far away from honours come the new season"
+                    }
+                  ],
+                  "id": "m_en_gbus0202180.042",
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "when specified thing happens"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Preposition",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/come_gb_3.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "k\u028cm"
+            }
+          ],
+          "text": "come"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Mass",
+                  "type": "Countability"
+                },
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "002",
+              "notes": [
+                {
+                  "text": "The use of come followed by and, as in come and see for yourself, dates back to Old English, but is seen by some as incorrect or only suitable for informal English: for more details see and",
+                  "type": "editorialNote"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "semen ejaculated at an orgasm."
+                  ],
+                  "domains": [
+                    "Sex"
+                  ],
+                  "id": "m_en_gbus0202180.045",
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "semen"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/come_gb_3.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "k\u028cm"
+            }
+          ],
+          "text": "come"
+        }
+      ],
+      "type": "headword",
+      "word": "come"
+    }
+  ]
+}

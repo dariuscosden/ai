@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "my",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Middle English mi (originally before words beginning with any consonant except h-), reduced from min, from Old English m\u012bn (see mine)"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Possessive",
+                  "type": "Referential"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "belonging to or associated with the speaker"
+                  ],
+                  "examples": [
+                    {
+                      "text": "my friend"
+                    },
+                    {
+                      "text": "my name is John"
+                    }
+                  ],
+                  "id": "m_en_gbus0674020.006",
+                  "short_definitions": [
+                    "belonging to speaker"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "used with a name to refer to a member of the speaker's family"
+                      ],
+                      "examples": [
+                        {
+                          "text": "my Johnny, see, he was smart"
+                        }
+                      ],
+                      "id": "m_en_gbus0674020.008",
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "denoting member of speaker's family"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "used with forms of address in affectionate, sympathetic, humorous, or patronizing contexts"
+                      ],
+                      "examples": [
+                        {
+                          "text": "my dear boy"
+                        },
+                        {
+                          "text": "my poor baby"
+                        }
+                      ],
+                      "id": "m_en_gbus0674020.009",
+                      "short_definitions": [
+                        "used with various forms of address"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used in various expressions of surprise"
+                  ],
+                  "examples": [
+                    {
+                      "text": "oh my!"
+                    },
+                    {
+                      "text": "my goodness!"
+                    }
+                  ],
+                  "id": "m_en_gbus0674020.011",
+                  "short_definitions": [
+                    "in expressions of surprise"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Determiner",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/my_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "m\u028c\u026a"
+            }
+          ],
+          "text": "my"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Abbreviation",
+                  "type": "Residual"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "motor yacht"
+                  ],
+                  "domains": [
+                    "Nautical"
+                  ],
+                  "examples": [
+                    {
+                      "text": "MY Fleury"
+                    }
+                  ],
+                  "id": "m_en_gbus0674030.002",
+                  "short_definitions": [
+                    "motor yacht"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Residual",
+          "text": "MY"
+        }
+      ],
+      "type": "headword",
+      "word": "my"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "how",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English h\u016b, of West Germanic origin; related to Dutch hoe, also to who and what"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "100",
+              "senses": [
+                {
+                  "definitions": [
+                    "in what way or manner; by what means"
+                  ],
+                  "examples": [
+                    {
+                      "text": "how does it work?"
+                    },
+                    {
+                      "text": "he showed me how to adjust the focus"
+                    },
+                    {
+                      "text": "he did not know how he ought to behave"
+                    }
+                  ],
+                  "id": "m_en_gbus0483000.006",
+                  "notes": [
+                    {
+                      "text": "usually interrogative adverb",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "in what way"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used to ask about the condition or quality of something"
+                  ],
+                  "examples": [
+                    {
+                      "text": "how did they play?"
+                    },
+                    {
+                      "text": "how was your holiday?"
+                    }
+                  ],
+                  "id": "m_en_gbus0483000.009",
+                  "notes": [
+                    {
+                      "text": "usually interrogative adverb",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "used to ask about condition or quality"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "used to ask about someone's physical or mental state"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I asked how he was doing"
+                        },
+                        {
+                          "text": "how are the children?"
+                        }
+                      ],
+                      "id": "m_en_gbus0483000.010",
+                      "short_definitions": [
+                        "used to ask about someone's health"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used to ask about the extent or degree of something"
+                  ],
+                  "examples": [
+                    {
+                      "text": "how old are you?"
+                    },
+                    {
+                      "text": "I wasn't sure how fast to go"
+                    },
+                    {
+                      "text": "how long will it take?"
+                    }
+                  ],
+                  "id": "m_en_gbus0483000.012",
+                  "notes": [
+                    {
+                      "text": "with adjective or adverb",
+                      "type": "grammaticalNote"
+                    },
+                    {
+                      "text": "usually interrogative adverb",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "used to ask about extent or degree"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "used to express a strong feeling such as surprise about the extent of something"
+                      ],
+                      "examples": [
+                        {
+                          "text": "how kind it was of him"
+                        },
+                        {
+                          "text": "how I wish I had been there!"
+                        }
+                      ],
+                      "id": "m_en_gbus0483000.013",
+                      "short_definitions": [
+                        "used to express strong feeling about extent of something"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "the way in which; that"
+                  ],
+                  "examples": [
+                    {
+                      "text": "she told us how she had lived out of a suitcase for a week"
+                    }
+                  ],
+                  "id": "m_en_gbus0483000.015",
+                  "notes": [
+                    {
+                      "text": "relative adverb",
+                      "type": "grammaticalNote"
+                    },
+                    {
+                      "text": "usually interrogative adverb",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "the way in which"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "in any way in which; however"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I'll do business how I like"
+                        }
+                      ],
+                      "id": "m_en_gbus0483000.016",
+                      "short_definitions": [
+                        "in any way in which"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adverb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/how_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "ha\u028a"
+            }
+          ],
+          "text": "how"
+        },
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "early 19th century: perhaps from Sioux h\u00e1o or Omaha hou"
+              ],
+              "homographNumber": "200",
+              "senses": [
+                {
+                  "definitions": [
+                    "a greeting attributed to North American Indians (used in humorous imitation)."
+                  ],
+                  "domains": [
+                    "Amerindian"
+                  ],
+                  "id": "m_en_gbus0483010.005",
+                  "short_definitions": [
+                    "greeting attributed to North American Indians"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Interjection",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/how_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "ha\u028a"
+            }
+          ],
+          "text": "how"
+        }
+      ],
+      "type": "headword",
+      "word": "how"
+    }
+  ]
+}

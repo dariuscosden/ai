@@ -1,0 +1,697 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "black",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "derivatives": [
+            {
+              "id": "blackly",
+              "text": "blackly"
+            },
+            {
+              "id": "blackish",
+              "text": "blackish"
+            }
+          ],
+          "entries": [
+            {
+              "etymologies": [
+                "Old English bl\u00e6c, of Germanic origin"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "000",
+              "notes": [
+                {
+                  "text": "Black has been used to refer to African peoples and their descendants since at least the late 14th century. Although the word has been in continuous use ever since, other terms have enjoyed prominence too: in the US coloured was the term adopted in preference by emancipated slaves following the American Civil War, and coloured was itself superseded in the US in the early 20th century by Negro as the term preferred by prominent black American campaigners such as Booker T. Washington. In Britain, on the other hand, coloured was the most widely used and accepted term in the 1950s and early 1960s. With the civil rights and Black Power movements of the 1960s, black was adopted by Americans of African origin to signify a sense of racial pride, and it remains the most widely used and generally accepted term in Britain today. In the US African American replaced black in many contexts during the 1980s, but both are now generally acceptable",
+                  "type": "editorialNote"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "of the very darkest colour owing to the absence of or complete absorption of light; the opposite of white"
+                  ],
+                  "examples": [
+                    {
+                      "text": "her long black hair"
+                    },
+                    {
+                      "text": "black smoke"
+                    }
+                  ],
+                  "id": "m_en_gbus0099760.006",
+                  "short_definitions": [
+                    "of darkest colour"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "(of the sky or night) completely dark owing to the sun, moon, or stars not being visible"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the sky was moonless and black"
+                        }
+                      ],
+                      "id": "m_en_gbus0099760.010",
+                      "short_definitions": [
+                        "(of sky) completely dark"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "black",
+                          "sense_id": "t_en_gb0001461.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "deeply stained with dirt"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the walls were black with age and dirt"
+                        }
+                      ],
+                      "id": "m_en_gbus0099760.011",
+                      "short_definitions": [
+                        "deeply stained with dirt"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of a plant or animal) dark in colour as distinguished from a lighter variety"
+                      ],
+                      "domains": [
+                        "Zoology",
+                        "Botany"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Japanese black pine"
+                        }
+                      ],
+                      "id": "m_en_gbus0099760.012",
+                      "short_definitions": [
+                        "(of plant or animal) dark in colour"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "black",
+                          "sense_id": "t_en_gb0001461.001"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of coffee or tea) served without milk"
+                      ],
+                      "domains": [
+                        "Tea",
+                        "Coffee"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Doyle took his coffee black"
+                        },
+                        {
+                          "text": "a mug of black coffee"
+                        }
+                      ],
+                      "id": "m_en_gbus0099760.014",
+                      "short_definitions": [
+                        "without milk"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "of or denoting the suits spades and clubs in a pack of cards."
+                      ],
+                      "domains": [
+                        "Cards"
+                      ],
+                      "id": "m_en_gbus0099760.015",
+                      "short_definitions": [
+                        "denoting spades and clubs"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of a ski run) of the highest level of difficulty, as indicated by black markers positioned along it."
+                      ],
+                      "domains": [
+                        "Skiing"
+                      ],
+                      "id": "m_en_gbus0099760.016",
+                      "short_definitions": [
+                        "(of ski run) most difficult"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "black",
+                      "sense_id": "t_en_gb0001461.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "belonging to or denoting any human group having dark-coloured skin, especially of African or Australian Aboriginal ancestry"
+                  ],
+                  "examples": [
+                    {
+                      "text": "black adolescents of Jamaican descent"
+                    }
+                  ],
+                  "id": "m_en_gbus0099760.018",
+                  "short_definitions": [
+                    "dark-skinned"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "relating to black people"
+                      ],
+                      "examples": [
+                        {
+                          "text": "black culture"
+                        }
+                      ],
+                      "id": "m_en_gbus0099760.020",
+                      "short_definitions": [
+                        "relating to black people"
+                      ]
+                    }
+                  ],
+                  "variantForms": [
+                    {
+                      "text": "Black"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "characterized by tragic or disastrous events; causing despair or pessimism"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the future looks black"
+                    },
+                    {
+                      "text": "five thousand men were killed on the blackest day of the war"
+                    }
+                  ],
+                  "id": "m_en_gbus0099760.022",
+                  "short_definitions": [
+                    "tragic or disastrous"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "(of a person's state of mind) full of gloom or misery; very depressed"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Jean had disappeared and Mary was in a black mood"
+                        }
+                      ],
+                      "id": "m_en_gbus0099760.023",
+                      "short_definitions": [
+                        "very depressed"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "black",
+                          "sense_id": "t_en_gb0001461.005"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of humour) presenting tragic or harrowing situations in comic terms"
+                      ],
+                      "examples": [
+                        {
+                          "text": "\u2018Good place to bury the bodies,\u2019 she joked with black humour"
+                        }
+                      ],
+                      "id": "m_en_gbus0099760.024",
+                      "short_definitions": [
+                        "treating tragic situations humorously"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "black",
+                          "sense_id": "t_en_gb0001461.006"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "full of anger or hatred"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Rory shot her a black look"
+                        }
+                      ],
+                      "id": "m_en_gbus0099760.025",
+                      "short_definitions": [
+                        "full of anger or hatred"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "black",
+                          "sense_id": "t_en_gb0001461.007"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "very evil or wicked"
+                      ],
+                      "examples": [
+                        {
+                          "text": "my soul is steeped in the blackest sin"
+                        }
+                      ],
+                      "id": "m_en_gbus0099760.026",
+                      "registers": [
+                        "archaic"
+                      ],
+                      "short_definitions": [
+                        "evil or wicked"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "black",
+                      "sense_id": "t_en_gb0001461.004"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "denoting a covert military procedure"
+                  ],
+                  "examples": [
+                    {
+                      "text": "clearance for black operations came from the highest political level"
+                    }
+                  ],
+                  "id": "m_en_gbus0099760.028",
+                  "short_definitions": [
+                    "denoting covert military procedure"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "covert",
+                      "sense_id": "t_en_gb0003139.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "(of goods or work) not to be handled or undertaken by trade union members, especially so as to express support for an industrial dispute elsewhere"
+                  ],
+                  "domains": [
+                    "Trade Unionism"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the union declared the ship black"
+                    }
+                  ],
+                  "id": "m_en_gbus0099760.030",
+                  "regions": [
+                    "British"
+                  ],
+                  "registers": [
+                    "dated"
+                  ],
+                  "short_definitions": [
+                    "boycotted by union members"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adjective",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/black_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "blak"
+            }
+          ],
+          "text": "black"
+        },
+        {
+          "derivatives": [
+            {
+              "id": "blackly",
+              "text": "blackly"
+            },
+            {
+              "id": "blackish",
+              "text": "blackish"
+            }
+          ],
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "001",
+              "notes": [
+                {
+                  "text": "Black has been used to refer to African peoples and their descendants since at least the late 14th century. Although the word has been in continuous use ever since, other terms have enjoyed prominence too: in the US coloured was the term adopted in preference by emancipated slaves following the American Civil War, and coloured was itself superseded in the US in the early 20th century by Negro as the term preferred by prominent black American campaigners such as Booker T. Washington. In Britain, on the other hand, coloured was the most widely used and accepted term in the 1950s and early 1960s. With the civil rights and Black Power movements of the 1960s, black was adopted by Americans of African origin to signify a sense of racial pride, and it remains the most widely used and generally accepted term in Britain today. In the US African American replaced black in many contexts during the 1980s, but both are now generally acceptable",
+                  "type": "editorialNote"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "black colour or pigment"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a tray decorated in black and green"
+                    }
+                  ],
+                  "id": "m_en_gbus0099760.033",
+                  "notes": [
+                    {
+                      "text": "mass noun",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "black colour"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "black clothes or material, typically worn as a sign of mourning"
+                      ],
+                      "domains": [
+                        "Clothing"
+                      ],
+                      "examples": [
+                        {
+                          "text": "only one or two of the mourners were in black"
+                        }
+                      ],
+                      "id": "m_en_gbus0099760.035",
+                      "short_definitions": [
+                        "black clothes or material"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "mourning",
+                          "sense_id": "t_en_gb0009717.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "darkness, especially of night or an overcast sky"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the only thing visible in the black was the light of the torch"
+                        }
+                      ],
+                      "id": "m_en_gbus0099760.036",
+                      "short_definitions": [
+                        "darkness"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "the player of the black pieces in chess or draughts"
+                      ],
+                      "domains": [
+                        "Chess"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Black's king's defences are somewhat weakened"
+                        }
+                      ],
+                      "id": "m_en_gbus0099760.037",
+                      "short_definitions": [
+                        "player of black pieces in chess or draughts"
+                      ],
+                      "variantForms": [
+                        {
+                          "text": "Black"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a black thing, in particular the black ball in snooker."
+                      ],
+                      "domains": [
+                        "Billiards"
+                      ],
+                      "id": "m_en_gbus0099760.042",
+                      "notes": [
+                        {
+                          "text": "count noun",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "black thing"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a member of a dark-skinned people, especially one of African or Australian Aboriginal ancestry"
+                  ],
+                  "examples": [
+                    {
+                      "text": "they tend to identify strongly with other blacks"
+                    }
+                  ],
+                  "id": "m_en_gbus0099760.046",
+                  "short_definitions": [
+                    "black person"
+                  ],
+                  "variantForms": [
+                    {
+                      "text": "Black"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "the situation of not owing money to a bank or of making a profit in a business operation"
+                  ],
+                  "examples": [
+                    {
+                      "text": "it is hoped the club will be back in the black by the end of the season"
+                    },
+                    {
+                      "text": "an insurance company operating in the black will be able to pay for further growth"
+                    },
+                    {
+                      "text": "I managed to break even in the first six months\u2014quite a short time for a small business to get into the black"
+                    }
+                  ],
+                  "id": "m_en_gbus0099760.049",
+                  "notes": [
+                    {
+                      "text": "\"the black\"",
+                      "type": "wordFormNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "situation of not owing money to bank or making profit in business operation"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "in_the_black",
+                      "sense_id": "t_en_gb0001461.009"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "blackcurrant cordial"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a rum and black"
+                    }
+                  ],
+                  "id": "m_en_gbus0099760.051",
+                  "regions": [
+                    "British"
+                  ],
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "blackcurrant cordial"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/black_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "blak"
+            }
+          ],
+          "text": "black"
+        },
+        {
+          "derivatives": [
+            {
+              "id": "blackly",
+              "text": "blackly"
+            },
+            {
+              "id": "blackish",
+              "text": "blackish"
+            }
+          ],
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Transitive",
+                  "type": "Subcategorization"
+                },
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "002",
+              "notes": [
+                {
+                  "text": "Black has been used to refer to African peoples and their descendants since at least the late 14th century. Although the word has been in continuous use ever since, other terms have enjoyed prominence too: in the US coloured was the term adopted in preference by emancipated slaves following the American Civil War, and coloured was itself superseded in the US in the early 20th century by Negro as the term preferred by prominent black American campaigners such as Booker T. Washington. In Britain, on the other hand, coloured was the most widely used and accepted term in the 1950s and early 1960s. With the civil rights and Black Power movements of the 1960s, black was adopted by Americans of African origin to signify a sense of racial pride, and it remains the most widely used and generally accepted term in Britain today. In the US African American replaced black in many contexts during the 1980s, but both are now generally acceptable",
+                  "type": "editorialNote"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "make (something) black, especially with polish"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the steps of the house were neatly blacked"
+                    }
+                  ],
+                  "id": "m_en_gbus0099760.054",
+                  "short_definitions": [
+                    "make black"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "make (one's face and other visible parts) black with polish or make-up so as not to be seen at night or to play the role of a black person in a play or film"
+                      ],
+                      "examples": [
+                        {
+                          "text": "white extras blacking up their faces to play Ethiopians"
+                        }
+                      ],
+                      "id": "m_en_gbus0099760.060",
+                      "short_definitions": [
+                        "cover face with black polish"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "black",
+                      "sense_id": "t_en_gb0001461.014"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "refuse to handle (goods), undertake (work), or have dealings with (a person or business) as a way of taking industrial action"
+                  ],
+                  "domains": [
+                    "Trade Unionism"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the union blacked the film because overtime was not being paid"
+                    }
+                  ],
+                  "id": "m_en_gbus0099760.063",
+                  "regions": [
+                    "British"
+                  ],
+                  "registers": [
+                    "dated"
+                  ],
+                  "short_definitions": [
+                    "boycott goods or work"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "black",
+                      "sense_id": "t_en_gb0001461.016"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/black_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "blak"
+            }
+          ],
+          "text": "black"
+        }
+      ],
+      "type": "headword",
+      "word": "black"
+    }
+  ]
+}

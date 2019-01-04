@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "you",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English \u0113ow, accusative and dative of g\u0113 (see ye), of West Germanic origin; related to Dutch u and German euch. During the 14th century you began to replace ye, thou, and thee; by the 17th century it had become the ordinary second person pronoun for any number and case"
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "used to refer to the person or people that the speaker is addressing"
+                  ],
+                  "examples": [
+                    {
+                      "text": "are you listening?"
+                    },
+                    {
+                      "text": "I love you"
+                    }
+                  ],
+                  "id": "m_en_gbus1176740.008",
+                  "notes": [
+                    {
+                      "text": "second person singular or plural",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "used to refer to person or people that speaker is addressing"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "used to refer to the person being addressed together with other people regarded in the same class"
+                      ],
+                      "examples": [
+                        {
+                          "text": "you Americans"
+                        }
+                      ],
+                      "id": "m_en_gbus1176740.010",
+                      "short_definitions": [
+                        "used to refer to person being addressed together with other people regarded in same class"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "used in exclamations to address one or more people"
+                      ],
+                      "examples": [
+                        {
+                          "text": "hey, you!"
+                        },
+                        {
+                          "text": "you fools"
+                        }
+                      ],
+                      "id": "m_en_gbus1176740.011",
+                      "short_definitions": [
+                        "used in exclamations to address one or more people"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "your"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I didn't know that was you nickname"
+                        }
+                      ],
+                      "id": "m_en_gbus1176740.012",
+                      "regions": [
+                        "West Indian"
+                      ],
+                      "short_definitions": [
+                        "your"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used to refer to any person in general"
+                  ],
+                  "examples": [
+                    {
+                      "text": "after a while, you get used to it"
+                    }
+                  ],
+                  "id": "m_en_gbus1176740.014",
+                  "notes": [
+                    {
+                      "text": "second person singular or plural",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "used to refer to any person in general"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Pronoun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/you_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "ju\u02d0"
+            }
+          ],
+          "text": "you"
+        }
+      ],
+      "type": "headword",
+      "word": "you"
+    }
+  ]
+}

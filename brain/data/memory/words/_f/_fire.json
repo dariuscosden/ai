@@ -1,0 +1,649 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "fire",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "derivatives": [
+            {
+              "id": "fireless",
+              "text": "fireless"
+            },
+            {
+              "id": "firer",
+              "text": "firer"
+            }
+          ],
+          "entries": [
+            {
+              "etymologies": [
+                "Old English f\u0233r (noun), f\u0233rian \u2018supply with material for a fire\u2019, of West Germanic origin; related to Dutch vuur and German Feuer"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Mass",
+                  "type": "Countability"
+                },
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "a process in which substances combine chemically with oxygen from the air and typically give out bright light, heat, and smoke; combustion or burning"
+                  ],
+                  "examples": [
+                    {
+                      "text": "his house was destroyed by fire"
+                    }
+                  ],
+                  "id": "m_en_gbus0363890.006",
+                  "short_definitions": [
+                    "combustion or burning"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a destructive burning of something"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a fire at a hotel"
+                        }
+                      ],
+                      "id": "m_en_gbus0363890.008",
+                      "notes": [
+                        {
+                          "text": "count noun",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "destructive burning of something"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "fire",
+                          "sense_id": "t_en_gb0005677.001"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a collection of fuel, especially coal or wood, burnt in a controlled way to provide heat or a means for cooking"
+                      ],
+                      "examples": [
+                        {
+                          "text": "we had a bath in a tin tub by the fire"
+                        }
+                      ],
+                      "id": "m_en_gbus0363890.011",
+                      "notes": [
+                        {
+                          "text": "count noun",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "collection of fuel burnt as source of heat"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a domestic heating appliance that uses electricity or gas as fuel"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she was freezing and keeping the fire low to save money"
+                        }
+                      ],
+                      "id": "m_en_gbus0363890.012",
+                      "notes": [
+                        {
+                          "text": "count noun",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "regions": [
+                        "British"
+                      ],
+                      "short_definitions": [
+                        "domestic heating appliance"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "fire",
+                          "sense_id": "t_en_gb0005677.002"
+                        }
+                      ],
+                      "variantForms": [
+                        {
+                          "text": "electric fire"
+                        },
+                        {
+                          "text": "gas fire"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "one of the four elements in ancient and medieval philosophy and in astrology (considered essential to the nature of the signs Aries, Leo, and Sagittarius)"
+                      ],
+                      "domains": [
+                        "Astrology"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a fire sign"
+                        }
+                      ],
+                      "id": "m_en_gbus0363890.015",
+                      "short_definitions": [
+                        "element in astrology and ancient philosophy"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a burning sensation"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the whisky lit a fire in the back of his throat"
+                    }
+                  ],
+                  "id": "m_en_gbus0363890.017",
+                  "short_definitions": [
+                    "burning sensation"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "fervent or passionate emotion or enthusiasm"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the fire of their religious conviction"
+                        }
+                      ],
+                      "id": "m_en_gbus0363890.018",
+                      "short_definitions": [
+                        "passionate emotion"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "fire",
+                          "sense_id": "t_en_gb0005677.003"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a glowing or luminous quality"
+                      ],
+                      "examples": [
+                        {
+                          "text": "their soft smiles light the air like a star's fire"
+                        }
+                      ],
+                      "id": "m_en_gbus0363890.019",
+                      "registers": [
+                        "literary"
+                      ],
+                      "short_definitions": [
+                        "luminosity or glow"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "the shooting of projectiles from weapons, especially bullets from guns"
+                  ],
+                  "domains": [
+                    "Weapons"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a burst of machine-gun fire"
+                    },
+                    {
+                      "text": "mortar fire"
+                    }
+                  ],
+                  "id": "m_en_gbus0363890.021",
+                  "short_definitions": [
+                    "shooting of bullets etc."
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "strong criticism or antagonism"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he directed his fire against policies promoting American capital flight"
+                        }
+                      ],
+                      "id": "m_en_gbus0363890.022",
+                      "short_definitions": [
+                        "strong criticism"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "fire",
+                          "sense_id": "t_en_gb0005677.005"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "fire",
+                      "sense_id": "t_en_gb0005677.004"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/fire_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u02c8f\u028c\u026a\u0259"
+            }
+          ],
+          "text": "fire"
+        },
+        {
+          "derivatives": [
+            {
+              "id": "fireless",
+              "text": "fireless"
+            },
+            {
+              "id": "firer",
+              "text": "firer"
+            }
+          ],
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Transitive",
+                  "type": "Subcategorization"
+                },
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "discharge a gun or other weapon in order to propel (a bullet or projectile)"
+                  ],
+                  "domains": [
+                    "Weapons"
+                  ],
+                  "examples": [
+                    {
+                      "text": "they fired off a few rounds"
+                    },
+                    {
+                      "text": "he fired a shot at the retreating prisoners"
+                    }
+                  ],
+                  "id": "m_en_gbus0363890.025",
+                  "short_definitions": [
+                    "propel bullet etc. from gun"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "discharge (a gun or other weapon)"
+                      ],
+                      "domains": [
+                        "Weapons"
+                      ],
+                      "examples": [
+                        {
+                          "text": "troops fired on crowds"
+                        },
+                        {
+                          "text": "another gang fired a pistol through the window of a hostel"
+                        }
+                      ],
+                      "id": "m_en_gbus0363890.031",
+                      "short_definitions": [
+                        "discharge gun"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of a gun) be discharged"
+                      ],
+                      "domains": [
+                        "Weapons"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the first gun fired"
+                        }
+                      ],
+                      "id": "m_en_gbus0363890.032",
+                      "notes": [
+                        {
+                          "text": "no object",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "(of gun) be discharged"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "direct (questions or statements, especially unwelcome ones) towards someone in rapid succession"
+                      ],
+                      "examples": [
+                        {
+                          "text": "they fired questions at me for what seemed like ages"
+                        }
+                      ],
+                      "id": "m_en_gbus0363890.033",
+                      "short_definitions": [
+                        "rapidly direct questions at someone"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "hurl",
+                          "sense_id": "t_en_gb0007226.001"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "send a message aggressively"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he fired off a letter informing her that he regarded the matter with the utmost seriousness"
+                        }
+                      ],
+                      "id": "m_en_gbus0363890.034",
+                      "notes": [
+                        {
+                          "text": "\"fire something off\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "send message aggressively"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "fire",
+                      "sense_id": "t_en_gb0005677.010"
+                    },
+                    {
+                      "entry_id": "fire",
+                      "sense_id": "t_en_gb0005677.009"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "dismiss (an employee) from a job"
+                  ],
+                  "examples": [
+                    {
+                      "text": "I had to fire men who've been with me for years"
+                    },
+                    {
+                      "text": "you're fired!"
+                    }
+                  ],
+                  "id": "m_en_gbus0363890.036",
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "dismiss employee from job"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "fire",
+                      "sense_id": "t_en_gb0005677.011"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "supply (a furnace, engine, etc.) with fuel"
+                  ],
+                  "examples": [
+                    {
+                      "text": "liquefied petroleum gas can fire room heaters"
+                    }
+                  ],
+                  "id": "m_en_gbus0363890.038",
+                  "short_definitions": [
+                    "supply furnace or engine with fuel"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "(of an internal combustion engine) undergo ignition of its fuel when started"
+                      ],
+                      "domains": [
+                        "Mechanics"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the engine fired and she pushed her foot down on the accelerator"
+                        }
+                      ],
+                      "id": "m_en_gbus0363890.039",
+                      "notes": [
+                        {
+                          "text": "no object",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "(of engine) be started"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "fire",
+                          "sense_id": "t_en_gb0005677.012"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "start (an engine or other device)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "with a flick of his wrist he fired up the chainsaw"
+                        },
+                        {
+                          "text": "he fired up the laptop to find the address of his hostel"
+                        }
+                      ],
+                      "id": "m_en_gbus0363890.040",
+                      "notes": [
+                        {
+                          "text": "usually \"fire something up\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "start device"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "start",
+                          "sense_id": "t_en_gb0014052.006"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "set fire to"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I fired the straw"
+                        }
+                      ],
+                      "id": "m_en_gbus0363890.041",
+                      "registers": [
+                        "archaic"
+                      ],
+                      "short_definitions": [
+                        "set fire to"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "fuel",
+                      "sense_id": "t_en_gb0006129.005"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "stimulate or excite (the imagination or an emotion)"
+                  ],
+                  "examples": [
+                    {
+                      "text": "India fired my imagination"
+                    }
+                  ],
+                  "id": "m_en_gbus0363890.043",
+                  "short_definitions": [
+                    "stimulate or excite imagination or emotion"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "fill (someone) with enthusiasm"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he was fired up for last season's FA Cup final"
+                        }
+                      ],
+                      "id": "m_en_gbus0363890.044",
+                      "short_definitions": [
+                        "fill with enthusiasm"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "fire_up",
+                          "sense_id": "t_en_gb0005677.015"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "show sudden anger"
+                      ],
+                      "examples": [
+                        {
+                          "text": "If I were to hear anyone speak slightingly of you, I should fire up in a moment"
+                        }
+                      ],
+                      "id": "m_en_gbus0363890.045",
+                      "notes": [
+                        {
+                          "text": "no object",
+                          "type": "grammaticalNote"
+                        },
+                        {
+                          "text": "\"fire up\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "registers": [
+                        "archaic"
+                      ],
+                      "short_definitions": [
+                        "show sudden anger"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "fire_up",
+                          "sense_id": "t_en_gb0005677.016"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "fire",
+                      "sense_id": "t_en_gb0005677.014"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "bake or dry (pottery, bricks, etc.) in a kiln"
+                  ],
+                  "domains": [
+                    "Pottery"
+                  ],
+                  "examples": [
+                    {
+                      "text": "methane gas is being used to fire bricks at a nearby factory"
+                    }
+                  ],
+                  "id": "m_en_gbus0363890.047",
+                  "short_definitions": [
+                    "bake or dry in kiln"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/fire_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u02c8f\u028c\u026a\u0259"
+            }
+          ],
+          "text": "fire"
+        }
+      ],
+      "type": "headword",
+      "word": "fire"
+    }
+  ]
+}

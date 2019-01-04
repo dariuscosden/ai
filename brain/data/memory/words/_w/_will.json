@@ -1,0 +1,479 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "will",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English wyllan, of Germanic origin; related to Dutch willen, German wollen, from an Indo-European root shared by Latin velle \u2018will, wish\u2019"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Modal",
+                  "type": "Event Modality"
+                },
+                {
+                  "text": "Auxiliary",
+                  "type": "Verb"
+                },
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                },
+                {
+                  "text": "Third",
+                  "type": "Person"
+                },
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "100",
+              "notes": [
+                {
+                  "text": "On the differences in use between will and shall, see shall",
+                  "type": "editorialNote"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "expressing the future tense"
+                  ],
+                  "examples": [
+                    {
+                      "text": "you will regret it when you are older"
+                    }
+                  ],
+                  "id": "m_en_gbus1159190.015",
+                  "short_definitions": [
+                    "expressing future tense"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "expressing a strong intention or assertion about the future"
+                      ],
+                      "examples": [
+                        {
+                          "text": "come what may, I will succeed"
+                        }
+                      ],
+                      "id": "m_en_gbus1159190.017",
+                      "short_definitions": [
+                        "expressing strong intention or assertion about future"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "expressing inevitable events"
+                  ],
+                  "examples": [
+                    {
+                      "text": "accidents will happen"
+                    }
+                  ],
+                  "id": "m_en_gbus1159190.019",
+                  "short_definitions": [
+                    "expressing inevitable events"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "will",
+                      "sense_id": "t_en_gb0016274.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "expressing a request"
+                  ],
+                  "examples": [
+                    {
+                      "text": "will you stop here, please"
+                    }
+                  ],
+                  "id": "m_en_gbus1159190.021",
+                  "short_definitions": [
+                    "expressing request"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "expressing desire, consent, or willingness"
+                      ],
+                      "examples": [
+                        {
+                          "text": "will you have a cognac?"
+                        }
+                      ],
+                      "id": "m_en_gbus1159190.022",
+                      "short_definitions": [
+                        "expressing desire or willingness"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "expressing facts about ability or capacity"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a rock so light that it will float on water"
+                    },
+                    {
+                      "text": "your tank will hold about 26 gallons"
+                    }
+                  ],
+                  "id": "m_en_gbus1159190.024",
+                  "short_definitions": [
+                    "expressing facts about ability or capacity"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "expressing habitual behaviour"
+                  ],
+                  "examples": [
+                    {
+                      "text": "she will dance for hours"
+                    }
+                  ],
+                  "id": "m_en_gbus1159190.026",
+                  "short_definitions": [
+                    "expressing habitual behaviour"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "(pronounced stressing \u2018will\u2019) indicating annoyance about the habitual behaviour described"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he will keep intruding"
+                        }
+                      ],
+                      "id": "m_en_gbus1159190.027",
+                      "short_definitions": [
+                        "indicating annoyance about habitual behaviour described"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "expressing probability or expectation about something in the present"
+                  ],
+                  "examples": [
+                    {
+                      "text": "they will be miles away by now"
+                    }
+                  ],
+                  "id": "m_en_gbus1159190.029",
+                  "short_definitions": [
+                    "expressing probability or expectation about something in present"
+                  ]
+                }
+              ]
+            },
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Transitive",
+                  "type": "Subcategorization"
+                },
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                },
+                {
+                  "text": "Third",
+                  "type": "Person"
+                },
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "201",
+              "senses": [
+                {
+                  "definitions": [
+                    "intend, desire, or wish (something) to happen"
+                  ],
+                  "examples": [
+                    {
+                      "text": "their friendship flourished particularly because Adams willed it"
+                    }
+                  ],
+                  "id": "m_en_gbus1159200.017",
+                  "registers": [
+                    "literary",
+                    "formal"
+                  ],
+                  "short_definitions": [
+                    "intend, desire, or wish something to happen"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "make or try to make (someone) do something or (something) happen by the exercise of mental powers"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she stared into the fog, willing it to clear"
+                        },
+                        {
+                          "text": "reluctantly he willed himself to turn and go back"
+                        }
+                      ],
+                      "id": "m_en_gbus1159200.023",
+                      "notes": [
+                        {
+                          "text": "with object and infinitive",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "make or try to make someone do something or something happen by exercise of mental powers"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "will",
+                      "sense_id": "t_en_gb0016275.008"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "bequeath something to (someone) by the terms of one's will"
+                  ],
+                  "domains": [
+                    "Law"
+                  ],
+                  "examples": [
+                    {
+                      "text": "his father willed the farm to Mr Timms"
+                    }
+                  ],
+                  "id": "m_en_gbus1159200.025",
+                  "notes": [
+                    {
+                      "text": "\"will something to\"",
+                      "type": "wordFormNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "bequeath something to someone by terms of one's will"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "leave specified instructions in one's will"
+                      ],
+                      "domains": [
+                        "Law"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he willed that his body should be given to the hospital"
+                        }
+                      ],
+                      "id": "m_en_gbus1159200.026",
+                      "notes": [
+                        {
+                          "text": "with clause",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "leave specified instructions in one's will"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "will",
+                      "sense_id": "t_en_gb0016275.009"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/will_1_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "w\u026al"
+            }
+          ],
+          "text": "will"
+        },
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English willa (noun), willian (verb), of Germanic origin; related to Dutch wil, German Wille (nouns), also to will and the adverb well"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "200",
+              "senses": [
+                {
+                  "definitions": [
+                    "the faculty by which a person decides on and initiates action"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a battle of wills between children and their parents"
+                    },
+                    {
+                      "text": "she has an iron will"
+                    },
+                    {
+                      "text": "an act of will"
+                    }
+                  ],
+                  "id": "m_en_gbus1159200.006",
+                  "short_definitions": [
+                    "faculty by which person decides on and initiates action"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "control deliberately exerted to do something or to restrain one's own impulses"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a stupendous effort of will"
+                        }
+                      ],
+                      "id": "m_en_gbus1159200.009",
+                      "notes": [
+                        {
+                          "text": "mass noun",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "control exerted to do something or to restrain impulses"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a deliberate or fixed desire or intention"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the will to live"
+                        },
+                        {
+                          "text": "Jane had not wanted them to stay against their will"
+                        }
+                      ],
+                      "id": "m_en_gbus1159200.011",
+                      "short_definitions": [
+                        "deliberate or fixed desire or intention"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "will",
+                          "sense_id": "t_en_gb0016275.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "the thing that one desires or ordains"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Jane tells St. John that she could marry him if she only knew it was God's will"
+                        }
+                      ],
+                      "id": "m_en_gbus1159200.012",
+                      "short_definitions": [
+                        "thing that one desires or ordains"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "will",
+                          "sense_id": "t_en_gb0016275.003"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "will",
+                      "sense_id": "t_en_gb0016275.001"
+                    },
+                    {
+                      "entry_id": "will",
+                      "sense_id": "t_en_gb0016275.004"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a legal document containing instructions as to what should be done with one's money and property after one's death."
+                  ],
+                  "domains": [
+                    "Law"
+                  ],
+                  "id": "m_en_gbus1159200.014",
+                  "short_definitions": [
+                    "legal document containing instructions as to what should be done with one's money and property after one's death"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "will",
+                      "sense_id": "t_en_gb0016275.005"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/will_1_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "w\u026al"
+            }
+          ],
+          "text": "will"
+        }
+      ],
+      "type": "headword",
+      "word": "will"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "input_string": "is the clever boy very cool?",
+  "subject": {
+    "string": "the clever boy",
+    "determiners": [
+      "_the"
+    ],
+    "modifiers": [
+      "_clever"
+    ],
+    "noun": "_boy"
+  },
+  "predicate": {
+    "string": "is ",
+    "verb": "_is"
+  },
+  "response_string": "You have asked me a question. You're asking me if the clever boy is ."
+}

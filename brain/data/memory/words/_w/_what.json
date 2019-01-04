@@ -1,0 +1,304 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "what",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English hw\u00e6t, of Germanic origin; related to Dutch wat and German was, from an Indo-European root shared by Latin quod"
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "asking for information specifying something"
+                  ],
+                  "examples": [
+                    {
+                      "text": "what is your name?"
+                    },
+                    {
+                      "text": "I'm not sure what you mean"
+                    }
+                  ],
+                  "id": "m_en_gbus1152520.008",
+                  "notes": [
+                    {
+                      "text": "interrogative pronoun",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "asking for information specifying something"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "asking for repetition of something not heard or confirmation of something not understood"
+                      ],
+                      "examples": [
+                        {
+                          "text": "what? I can't hear you"
+                        },
+                        {
+                          "text": "you did what?"
+                        }
+                      ],
+                      "id": "m_en_gbus1152520.010",
+                      "short_definitions": [
+                        "asking for repetition of something not heard or confirmation of something not understood"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "as",
+                      "sense_id": "t_en_gb0000849.003"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "the thing or things that (used in specifying something)"
+                  ],
+                  "examples": [
+                    {
+                      "text": "what we need is a commitment"
+                    }
+                  ],
+                  "id": "m_en_gbus1152520.012",
+                  "notes": [
+                    {
+                      "text": "relative pronoun",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "thing or things that"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "(referring to the whole of an amount) whatever"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I want to do what I can to make a difference"
+                        }
+                      ],
+                      "id": "m_en_gbus1152520.013",
+                      "short_definitions": [
+                        "whatever"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "(in exclamations) emphasizing something surprising or remarkable"
+                  ],
+                  "examples": [
+                    {
+                      "text": "what some people do for a crust!"
+                    }
+                  ],
+                  "id": "m_en_gbus1152520.016",
+                  "short_definitions": [
+                    "emphasizing something surprising or remarkable"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "pardon",
+                      "sense_id": "t_en_gb0010666.005"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Pronoun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/what_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "w\u0252t"
+            }
+          ],
+          "text": "what"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "asking for information specifying something"
+                  ],
+                  "examples": [
+                    {
+                      "text": "do you know what excuse he gave?"
+                    },
+                    {
+                      "text": "what time is it?"
+                    }
+                  ],
+                  "id": "m_en_gbus1152520.019",
+                  "notes": [
+                    {
+                      "text": "interrogative determiner",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "asking for information specifying something"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "(referring to the whole of an amount) whatever"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he had been robbed of what little money he had"
+                    }
+                  ],
+                  "id": "m_en_gbus1152520.022",
+                  "notes": [
+                    {
+                      "text": "relative determiner",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "whatever"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "(in exclamations) how great or remarkable"
+                  ],
+                  "examples": [
+                    {
+                      "text": "what a fool she was"
+                    },
+                    {
+                      "text": "what luck!"
+                    }
+                  ],
+                  "id": "m_en_gbus1152520.024",
+                  "short_definitions": [
+                    "how great or remarkable"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Determiner",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/what_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "w\u0252t"
+            }
+          ],
+          "text": "what"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Interrogative",
+                  "type": "Referential"
+                },
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "002",
+              "senses": [
+                {
+                  "definitions": [
+                    "to what extent?"
+                  ],
+                  "examples": [
+                    {
+                      "text": "what does it matter?"
+                    }
+                  ],
+                  "id": "m_en_gbus1152520.027",
+                  "short_definitions": [
+                    "to what extent ?"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used to indicate an estimate or approximation"
+                  ],
+                  "examples": [
+                    {
+                      "text": "see you, what, about four?"
+                    }
+                  ],
+                  "id": "m_en_gbus1152520.030",
+                  "short_definitions": [
+                    "used to indicate estimate or approximation"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used for emphasis or to invite agreement"
+                  ],
+                  "examples": [
+                    {
+                      "text": "pretty poor show, what?"
+                    }
+                  ],
+                  "id": "m_en_gbus1152520.032",
+                  "registers": [
+                    "dated",
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "used for emphasis or to invite agreement"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adverb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/what_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "w\u0252t"
+            }
+          ],
+          "text": "what"
+        }
+      ],
+      "type": "headword",
+      "word": "what"
+    }
+  ]
+}
