@@ -12,8 +12,8 @@ def sanitize_input(string):
 
 
 # returns words from string
-def return_words_from_input_string(input_string):
-    string_words = input_string.split(" ")
+def return_words_from_input(input):
+    string_words = input.split(" ")
     words = []
     question = False
     exclamation = False

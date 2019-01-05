@@ -5,3 +5,13 @@ body {
 p {
   line-height: 2em;
 }
+
+/* global */
+
+.chatbox {
+  min-height: 100vh;
+}
+
+.mainAiImage {
+  width: 200px;
+}
