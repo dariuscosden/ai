@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "seem",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Middle English (also in the sense \u2018suit, befit, be appropriate\u2019): from Old Norse s\u0153ma \u2018to honour\u2019, from s\u0153mr \u2018fitting\u2019"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Intransitive",
+                  "type": "Subcategorization"
+                },
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "give the impression of being something or having a particular quality"
+                  ],
+                  "examples": [
+                    {
+                      "text": "there seems to be plenty to eat"
+                    },
+                    {
+                      "text": "it seemed a dismal town"
+                    },
+                    {
+                      "text": "it seemed that he was determined to oppose her"
+                    },
+                    {
+                      "text": "Dawn seemed annoyed"
+                    }
+                  ],
+                  "id": "m_en_gbus0917760.006",
+                  "short_definitions": [
+                    "give impression of being something or having particular quality"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "used to make a statement less forceful"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I seem to remember giving you very precise instructions"
+                        }
+                      ],
+                      "id": "m_en_gbus0917760.012",
+                      "notes": [
+                        {
+                          "text": "with infinitive",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "used to make statement less forceful"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "used to suggest in a cautious or polite way that something is the case"
+                      ],
+                      "examples": [
+                        {
+                          "text": "it would seem that he has been fooling us all"
+                        }
+                      ],
+                      "id": "m_en_gbus0917760.013",
+                      "notes": [
+                        {
+                          "text": "with clause",
+                          "type": "grammaticalNote"
+                        },
+                        {
+                          "text": "\"it seems\" or \"it would seem\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "used to suggest in cautious or polite way that something is case"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "seem",
+                      "sense_id": "t_en_gb0013141.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "be unable to do something, despite having tried"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he couldn't seem to remember his lines"
+                    }
+                  ],
+                  "id": "m_en_gbus0917760.015",
+                  "notes": [
+                    {
+                      "text": "\"cannot seem to do something\"",
+                      "type": "wordFormNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "be unable to do something, despite having tried"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/seem_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "si\u02d0m"
+            }
+          ],
+          "text": "seem"
+        }
+      ],
+      "type": "headword",
+      "word": "seem"
+    }
+  ]
+}

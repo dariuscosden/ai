@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "turned",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "(of an ankle) twisted or sprained"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the threat of a turned ankle was something they cared nothing about"
+                    }
+                  ],
+                  "id": "m_en_gbus1189076.005",
+                  "short_definitions": [
+                    "twisted or sprained"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "(of earth) ploughed or dug, so as to bring the underparts to the surface"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the smell of turned earth and burning leaves"
+                    }
+                  ],
+                  "id": "m_en_gbus1189076.007",
+                  "short_definitions": [
+                    "ploughed or dug"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "(of a wooden object) shaped on a lathe"
+                  ],
+                  "domains": [
+                    "Carpentry"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a small table with turned legs made from poplar"
+                    }
+                  ],
+                  "id": "m_en_gbus1189076.009",
+                  "short_definitions": [
+                    "shaped on lathe"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "(of a phrase or verse) expressed in a specified manner"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the carefully turned words of great writers"
+                    }
+                  ],
+                  "id": "m_en_gbus1189076.011",
+                  "short_definitions": [
+                    "(of phrase or verse) expressed in specified manner"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "(of a type or letter) printed or set upside down"
+                  ],
+                  "domains": [
+                    "Printing"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a possible turned letter in cunning/cunuing"
+                    }
+                  ],
+                  "id": "m_en_gbus1189076.013",
+                  "short_definitions": [
+                    "printed or set upside down"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adjective",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/turned_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "t\u0259\u02d0nd"
+            }
+          ],
+          "text": "turned"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    ""
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "turn",
+                      "text": "turn",
+                      "type": "see also"
+                    }
+                  ],
+                  "id": "m_en_gbus1083170.007"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Other",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gave_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261e\u026av"
+            }
+          ]
+        }
+      ],
+      "type": "headword",
+      "word": "turned"
+    }
+  ]
+}

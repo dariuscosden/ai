@@ -19,20 +19,26 @@
               "homographNumber": "000",
               "senses": [
                 {
-                  "definitions": ["an act of leaving a place; a departure"],
+                  "definitions": [
+                    "an act of leaving a place; a departure"
+                  ],
                   "examples": [
                     {
                       "text": "don't lose track of your child's comings and goings"
                     }
                   ],
                   "id": "m_en_gbus0420900.006",
-                  "short_definitions": ["act of leaving"]
+                  "short_definitions": [
+                    "act of leaving"
+                  ]
                 },
                 {
                   "definitions": [
                     "the condition of the ground viewed in terms of suitability for horse racing, riding, or walking"
                   ],
-                  "domains": ["Racing"],
+                  "domains": [
+                    "Racing"
+                  ],
                   "examples": [
                     {
                       "text": "the going was ideal here, with short turf and a level surface"
@@ -45,7 +51,9 @@
                       "type": "grammaticalNote"
                     }
                   ],
-                  "short_definitions": ["condition of ground"],
+                  "short_definitions": [
+                    "condition of ground"
+                  ],
                   "subsenses": [
                     {
                       "definitions": [
@@ -83,7 +91,9 @@
                         }
                       ],
                       "id": "m_en_gbus0420900.013",
-                      "short_definitions": ["conditions for endeavour"]
+                      "short_definitions": [
+                        "conditions for endeavour"
+                      ]
                     }
                   ]
                 }
@@ -95,7 +105,9 @@
           "pronunciations": [
             {
               "audioFile": "http://audio.oxforddictionaries.com/en/mp3/going_gb_1.mp3",
-              "dialects": ["British English"],
+              "dialects": [
+                "British English"
+              ],
               "phoneticNotation": "IPA",
               "phoneticSpelling": "\u02c8\u0261\u0259\u028a\u026a\u014b"
             }
@@ -114,7 +126,9 @@
               "homographNumber": "001",
               "senses": [
                 {
-                  "definitions": ["existing or available; to be had"],
+                  "definitions": [
+                    "existing or available; to be had"
+                  ],
                   "examples": [
                     {
                       "text": "he asked if there were any other jobs going"
@@ -127,8 +141,12 @@
                       "type": "grammaticalNote"
                     }
                   ],
-                  "regions": ["British"],
-                  "short_definitions": ["to be had"],
+                  "regions": [
+                    "British"
+                  ],
+                  "short_definitions": [
+                    "to be had"
+                  ],
                   "thesaurusLinks": [
                     {
                       "entry_id": "lucrative",
@@ -152,7 +170,9 @@
                       "type": "grammaticalNote"
                     }
                   ],
-                  "short_definitions": ["(of price) accepted or usual"],
+                  "short_definitions": [
+                    "(of price) accepted or usual"
+                  ],
                   "thesaurusLinks": [
                     {
                       "entry_id": "current",
@@ -168,12 +188,48 @@
           "pronunciations": [
             {
               "audioFile": "http://audio.oxforddictionaries.com/en/mp3/going_gb_1.mp3",
-              "dialects": ["British English"],
+              "dialects": [
+                "British English"
+              ],
               "phoneticNotation": "IPA",
               "phoneticSpelling": "\u02c8\u0261\u0259\u028a\u026a\u014b"
             }
           ],
           "text": "going"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    ""
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "go",
+                      "text": "go",
+                      "type": "see also"
+                    }
+                  ],
+                  "id": "m_en_gbus0419260.020"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Other",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gave_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261e\u026av"
+            }
+          ]
         }
       ],
       "type": "headword",

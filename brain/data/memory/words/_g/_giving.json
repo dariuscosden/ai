@@ -34,14 +34,42 @@
           "pronunciations": [
             {
               "audioFile": "http://audio.oxforddictionaries.com/en/mp3/giving_gb_1.mp3",
-              "dialects": [
-                "British English"
-              ],
+              "dialects": ["British English"],
               "phoneticNotation": "IPA",
               "phoneticSpelling": "\u02c8\u0261\u026av\u026a\u014b"
             }
           ],
           "text": "giving"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [""],
+                  "crossReferences": [
+                    {
+                      "id": "give",
+                      "text": "give",
+                      "type": "see also"
+                    }
+                  ],
+                  "id": "m_en_gbus0415220.014"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Other",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gave_gb_2.mp3",
+              "dialects": ["British English"],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261e\u026av"
+            }
+          ]
         }
       ],
       "type": "headword",

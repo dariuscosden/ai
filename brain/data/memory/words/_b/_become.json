@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "become",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English becuman \u2018come to a place, come (to be or do something)\u2019 (see be-, come), of Germanic origin; related to Dutch bekomen and German bekommen \u2018get, receive\u2019"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Past",
+                  "type": "Tense"
+                },
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                },
+                {
+                  "text": "Past Participle",
+                  "type": "Non Finiteness"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "begin to be"
+                  ],
+                  "examples": [
+                    {
+                      "text": "it is becoming clear that we are in a new situation"
+                    },
+                    {
+                      "text": "she became angry and sulked all day"
+                    }
+                  ],
+                  "id": "m_en_gbus0082180.011",
+                  "notes": [
+                    {
+                      "text": "no object, with complement",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "begin to be"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "grow to be; develop into"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the child will become an adult"
+                        }
+                      ],
+                      "id": "m_en_gbus0082180.017",
+                      "short_definitions": [
+                        "grow to be"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "become",
+                          "sense_id": "t_en_gb0001263.001"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of a person) qualify or be accepted as"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she wanted to become a doctor"
+                        }
+                      ],
+                      "id": "m_en_gbus0082180.018",
+                      "short_definitions": [
+                        "qualify or be accepted as"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "become",
+                          "sense_id": "t_en_gb0001263.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(in questions) happen to"
+                      ],
+                      "examples": [
+                        {
+                          "text": "what would become of her now?"
+                        }
+                      ],
+                      "id": "m_en_gbus0082180.019",
+                      "notes": [
+                        {
+                          "text": "\"become of\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "happen to"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "become_of",
+                          "sense_id": "t_en_gb0001263.005"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "shade",
+                      "sense_id": "t_en_gb0013311.013"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "(of clothing) look good on or suit (someone)"
+                  ],
+                  "examples": [
+                    {
+                      "text": "mourning regalia became her"
+                    }
+                  ],
+                  "id": "m_en_gbus0082180.021",
+                  "notes": [
+                    {
+                      "text": "with object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "suit someone"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "be appropriate to (someone)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "minor celebrity status did not become Potter"
+                        }
+                      ],
+                      "id": "m_en_gbus0082180.022",
+                      "short_definitions": [
+                        "be appropriate to someone"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "become",
+                          "sense_id": "t_en_gb0001263.004"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "become",
+                      "sense_id": "t_en_gb0001263.003"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/become_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "b\u026a\u02c8k\u028cm"
+            }
+          ],
+          "text": "become"
+        }
+      ],
+      "type": "headword",
+      "word": "become"
+    }
+  ]
+}

@@ -64,6 +64,60 @@ def create_word_file(word, words_dir, json_word):
     file.write(json_word)
     file.close()
 
+# creates a regular conjugated verb file
+def get_regular_verb_conjugated_json(word, words_dir, infinitive, infinitive_id):
+
+    # sets json_word
+    json_word = {
+        "metadata": {
+            "provider": "Oxford University Press"
+        },
+        "results": [
+            {
+            "lexicalEntries": [
+                {
+                "entries": [
+                    {
+                    "homographNumber": "000",
+                    "senses": [
+                        {
+                        "crossReferenceMarkers": [
+                            ""
+                        ],
+                        "crossReferences": [
+                            {
+                            "id": "{}".format(infinitive),
+                            "text": "{}".format(infinitive),
+                            "type": "see also"
+                            }
+                        ],
+                        "id": "{}".format(infinitive_id)
+                        }
+                    ]
+                    }
+                ],
+                "language": "en",
+                "lexicalCategory": "Other",
+                "pronunciations": [
+                    {
+                    "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gave_gb_2.mp3",
+                    "dialects": [
+                        "British English"
+                    ],
+                    "phoneticNotation": "IPA",
+                    "phoneticSpelling": "\u0261e\u026av"
+                    }
+                ]
+                }
+            ]
+            }
+        ]
+        }
+
+    return json_word
+
+                
+
 
 # gets word from oxford
 def save_word_to_memory(word, words_dir):
@@ -111,37 +165,13 @@ def save_word_to_memory(word, words_dir):
                 # sets data in json
                 data = request.json()
 
+                infinitive_id = data['results'][0]['lexicalEntries'][0]['entries'][0]['senses'][0]['id']
+
                 # sets json_word
                 json_word = json.dumps(data, indent=2)
 
                 # creates a pseudo word_file to keep track of learnt words
-                pseudo_json = {
-                    "metadata": {
-                        "provider": "Oxford University Press"
-                    },
-                    "results": [{
-                        "id": "{}".format(word.strip('_')),
-                        "language": "en",
-                        "lexicalEntries": [
-                            {
-                                "entries": [
-                                    {
-                                        "senses": [
-                                            {
-                                                "crossReferences": [
-                                                    {
-                                                        "id": "{}".format(infinitive)
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ]
-                    }]
-                }
-                pseudo_json = json.dumps(pseudo_json, indent=2)
+                pseudo_json = json.dumps(get_regular_verb_conjugated_json(word, words_dir, infinitive, infinitive_id), indent=2)
 
                 # creates a pseudo word file
                 create_word_file(word, words_dir, pseudo_json)
@@ -166,12 +196,12 @@ def save_word_to_memory(word, words_dir):
 
                     # checks for other -> verb
                     try:
-                        cross_reference = le['entries'][0]['senses'][0][
+                        infinitive = le['entries'][0]['senses'][0][
                             'crossReferences'][0]['id']
 
                         # queries oxford with the infinitive instead
                         request = requests.get(
-                            url + cross_reference,
+                            url + infinitive,
                             headers={
                                 'app_id': app_id,
                                 'app_key': app_key
@@ -188,8 +218,9 @@ def save_word_to_memory(word, words_dir):
                             json_verb = json.dumps(verb_data, indent=2)
 
                             # creates a file for the verb as well (doesn't interfere with original word_file creation)
-                            create_word_file('_' + cross_reference, words_dir,
+                            create_word_file('_' + infinitive, words_dir,
                                              json_verb)
+
 
                     except KeyError:
                         pass
@@ -217,6 +248,22 @@ def save_word_to_memory(word, words_dir):
 
                     # creates a file for the verb as well (doesn't interfere with original word_file creation)
                     create_word_file('_' + infinitive, words_dir, json_verb)
+
+                    # sets the infinitive_id
+                    infinitive_id = verb_data['results'][0]['lexicalEntries'][0]['entries'][0]['senses'][0]['id']
+
+                    # creates a pseudo word_file to keep track of learnt words
+                    pseudo_json = get_regular_verb_conjugated_json(word, words_dir, infinitive, infinitive_id)
+                    pseudo_json = pseudo_json['results'][0]['lexicalEntries'][0]
+
+                    # appends the infinitive to the lexicalEntries
+                    lexicalEntries.append(pseudo_json)
+
+            # sets json_word
+            json_word = json.dumps(data, indent=2)
+
+            # creates the word file
+            create_word_file(word, words_dir, json_word)
 
         return True
 
