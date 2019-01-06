@@ -1,0 +1,879 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "make",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "derivatives": [
+            {
+              "id": "makeable",
+              "text": "makeable"
+            }
+          ],
+          "entries": [
+            {
+              "etymologies": [
+                "Old English macian, of West Germanic origin, from a base meaning \u2018fitting\u2019; related to match"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Transitive",
+                  "type": "Subcategorization"
+                },
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "form (something) by putting parts together or combining substances; create"
+                  ],
+                  "examples": [
+                    {
+                      "text": "cricket bats are made of willow"
+                    },
+                    {
+                      "text": "my grandmother made a dress for me"
+                    }
+                  ],
+                  "id": "m_en_gbus0609800.009",
+                  "short_definitions": [
+                    "form something"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "alter something so that it forms (something else)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "buffalo's milk can be made into cheese"
+                        }
+                      ],
+                      "id": "m_en_gbus0609800.015",
+                      "notes": [
+                        {
+                          "text": "\"make something into\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "alter something"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "make",
+                          "sense_id": "t_en_gb0009088.010"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "compose or draw up (something written or abstract)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "make a list of all the points you can think of"
+                        }
+                      ],
+                      "id": "m_en_gbus0609800.016",
+                      "short_definitions": [
+                        "draw up something written"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "make",
+                          "sense_id": "t_en_gb0009088.006"
+                        },
+                        {
+                          "entry_id": "make",
+                          "sense_id": "t_en_gb0009088.010"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "prepare (a dish, drink, or meal)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she was making lunch for Lucy and Francis"
+                        },
+                        {
+                          "text": "I'll make us both a cup of tea"
+                        }
+                      ],
+                      "id": "m_en_gbus0609800.017",
+                      "short_definitions": [
+                        "prepare meal or drink"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "make",
+                          "sense_id": "t_en_gb0009088.009"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "arrange bedclothes tidily on (a bed) ready for use"
+                      ],
+                      "examples": [
+                        {
+                          "text": "after breakfast you'd have until 8.25 to make your bed"
+                        }
+                      ],
+                      "id": "m_en_gbus0609800.018",
+                      "short_definitions": [
+                        "tidy bed"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "arrange and light materials for (a fire)."
+                      ],
+                      "id": "m_en_gbus0609800.019",
+                      "short_definitions": [
+                        "arrange materials for fire"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "complete or close (a circuit)."
+                      ],
+                      "domains": [
+                        "Electrical"
+                      ],
+                      "id": "m_en_gbus0609800.020",
+                      "short_definitions": [
+                        "complete or close circuit"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "make",
+                      "sense_id": "t_en_gb0009088.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "cause (something) to exist or come about; bring about"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the drips had made a pool on the floor"
+                    }
+                  ],
+                  "id": "m_en_gbus0609800.022",
+                  "short_definitions": [
+                    "bring something about"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "cause to become or seem"
+                      ],
+                      "examples": [
+                        {
+                          "text": "decorative features make brickwork more interesting"
+                        },
+                        {
+                          "text": "the best way to disarm your critics is to make them laugh"
+                        }
+                      ],
+                      "id": "m_en_gbus0609800.023",
+                      "notes": [
+                        {
+                          "text": "with object and complement or infinitive",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "cause to become"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "carry out, perform, or produce (a specified action or sound)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "anyone can make a mistake"
+                        }
+                      ],
+                      "id": "m_en_gbus0609800.024",
+                      "short_definitions": [
+                        "carry out action"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "make",
+                          "sense_id": "t_en_gb0009088.007"
+                        },
+                        {
+                          "entry_id": "make",
+                          "sense_id": "t_en_gb0009088.015"
+                        },
+                        {
+                          "entry_id": "make",
+                          "sense_id": "t_en_gb0009088.004"
+                        },
+                        {
+                          "entry_id": "make",
+                          "sense_id": "t_en_gb0009088.003"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(in soccer) enable a teammate to score (a goal) by one's play."
+                      ],
+                      "domains": [
+                        "Soccer"
+                      ],
+                      "id": "m_en_gbus0609800.025",
+                      "short_definitions": [
+                        "enable teammate to score"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "communicate or express (an idea, request, or requirement)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "there are two more points to make"
+                        },
+                        {
+                          "text": "make him an offer he can't refuse"
+                        }
+                      ],
+                      "id": "m_en_gbus0609800.026",
+                      "short_definitions": [
+                        "communicate idea"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "make",
+                          "sense_id": "t_en_gb0009088.015"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "enter into a contract of (marriage)"
+                      ],
+                      "domains": [
+                        "Marriage"
+                      ],
+                      "examples": [
+                        {
+                          "text": "as many sailors do, he made a foolish marriage"
+                        }
+                      ],
+                      "id": "m_en_gbus0609800.028",
+                      "registers": [
+                        "archaic"
+                      ],
+                      "short_definitions": [
+                        "enter into marriage arrangement"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "appoint or designate (someone) to a position"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he was made a fellow of the Royal Institute"
+                        }
+                      ],
+                      "id": "m_en_gbus0609800.029",
+                      "notes": [
+                        {
+                          "text": "with object and complement",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "appoint someone to job"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "make",
+                          "sense_id": "t_en_gb0009088.005"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "represent or cause to appear in a specified way"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the issue price makes them good value"
+                        }
+                      ],
+                      "id": "m_en_gbus0609800.030",
+                      "notes": [
+                        {
+                          "text": "with object and complement",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "represent in certain way"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "make",
+                          "sense_id": "t_en_gb0009088.016"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "cause to be successful"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the work which made Wordsworth's reputation"
+                        }
+                      ],
+                      "id": "m_en_gbus0609800.031",
+                      "short_definitions": [
+                        "cause to be successful"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "make",
+                      "sense_id": "t_en_gb0009088.003"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "compel (someone) to do something"
+                  ],
+                  "examples": [
+                    {
+                      "text": "she bought me a brandy and made me drink it"
+                    }
+                  ],
+                  "id": "m_en_gbus0609800.033",
+                  "notes": [
+                    {
+                      "text": "with object and infinitive",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "force someone to do something"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "make",
+                      "sense_id": "t_en_gb0009088.002"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "constitute; amount to"
+                  ],
+                  "examples": [
+                    {
+                      "text": "they made an unusual duo"
+                    }
+                  ],
+                  "id": "m_en_gbus0609800.035",
+                  "short_definitions": [
+                    "constitute"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "be suitable for or likely to develop into"
+                      ],
+                      "examples": [
+                        {
+                          "text": "this fern makes a good houseplant"
+                        }
+                      ],
+                      "id": "m_en_gbus0609800.036",
+                      "short_definitions": [
+                        "be suitable for"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "make",
+                          "sense_id": "t_en_gb0009088.016"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "consider to be; estimate as"
+                      ],
+                      "examples": [
+                        {
+                          "text": "How many are there? I make it sixteen"
+                        }
+                      ],
+                      "id": "m_en_gbus0609800.037",
+                      "short_definitions": [
+                        "consider to be"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "make",
+                          "sense_id": "t_en_gb0009088.012"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "agree or decide on (a specified arrangement)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "let's make it 7.30"
+                        }
+                      ],
+                      "id": "m_en_gbus0609800.038",
+                      "short_definitions": [
+                        "decide on"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "make",
+                          "sense_id": "t_en_gb0009088.014"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "make",
+                      "sense_id": "t_en_gb0009088.016"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "gain or earn (money or profit)"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he'd made a lot of money out of hardware"
+                    }
+                  ],
+                  "id": "m_en_gbus0609800.040",
+                  "short_definitions": [
+                    "gain money"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "score (a specified number of runs)"
+                      ],
+                      "domains": [
+                        "Cricket"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he made a century"
+                        }
+                      ],
+                      "id": "m_en_gbus0609800.041",
+                      "short_definitions": [
+                        "score runs"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "pay_off%2Fsettle_old_scores",
+                          "sense_id": "t_en_gb0013010.010"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "make",
+                      "sense_id": "t_en_gb0009088.008"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "manage to arrive at (a place) within a specified time or catch (a train or other form of transport)"
+                  ],
+                  "examples": [
+                    {
+                      "text": "we've got a lot to do if you're going to make the shuttle"
+                    },
+                    {
+                      "text": "they didn't always make it on time"
+                    }
+                  ],
+                  "id": "m_en_gbus0609800.043",
+                  "short_definitions": [
+                    "arrive at place or catch transport"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "become successful"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he waited confidently for his band to make it"
+                        }
+                      ],
+                      "id": "m_en_gbus0609800.044",
+                      "notes": [
+                        {
+                          "text": "\"make it\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "become successful"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "make_it",
+                          "sense_id": "t_en_gb0009088.028"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "succeed in reaching safety or in surviving"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the pilot didn't make it\u2014his neck's broken"
+                        }
+                      ],
+                      "id": "m_en_gbus0609800.045",
+                      "notes": [
+                        {
+                          "text": "\"make it\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "succeed in surviving"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "make_it",
+                          "sense_id": "t_en_gb0009088.029"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "achieve a place in"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Australia should make the final"
+                        }
+                      ],
+                      "id": "m_en_gbus0609800.046",
+                      "short_definitions": [
+                        "achieve place in"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "make",
+                          "sense_id": "t_en_gb0009088.017"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "achieve the rank of"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he wasn't going to make captain"
+                        }
+                      ],
+                      "id": "m_en_gbus0609800.047",
+                      "short_definitions": [
+                        "achieve rank of"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "make_it",
+                          "sense_id": "t_en_gb0009088.028"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "make",
+                      "sense_id": "t_en_gb0009088.018"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "prepare to go in a particular direction"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he struggled to his feet and made towards the car"
+                    }
+                  ],
+                  "id": "m_en_gbus0609800.049",
+                  "notes": [
+                    {
+                      "text": "no object, with adverbial of direction",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "prepare to go in particular direction"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "act as if one is about to perform an action"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she made as if to leave the room"
+                        }
+                      ],
+                      "id": "m_en_gbus0609800.050",
+                      "notes": [
+                        {
+                          "text": "with infinitive",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "act as if about to do something"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "make_as_if%2Fthough",
+                          "sense_id": "t_en_gb0009088.019"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "make_for",
+                      "sense_id": "t_en_gb0009088.025"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "induce (someone) to have sexual intercourse with one"
+                  ],
+                  "domains": [
+                    "Sex"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he had been trying to make Cynthia for two years now"
+                    }
+                  ],
+                  "id": "m_en_gbus0609800.052",
+                  "regions": [
+                    "North American"
+                  ],
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "induce someone to have sexual intercourse"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "(in bridge, whist, etc.) win (a trick)."
+                  ],
+                  "domains": [
+                    "Bridge"
+                  ],
+                  "id": "m_en_gbus0609800.054",
+                  "short_definitions": [
+                    "win trick"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "win a trick with (a card)."
+                      ],
+                      "domains": [
+                        "Bridge"
+                      ],
+                      "id": "m_en_gbus0609800.055",
+                      "short_definitions": [
+                        "win trick with card"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "win the number of tricks that fulfils (a contract)."
+                      ],
+                      "domains": [
+                        "Bridge"
+                      ],
+                      "id": "m_en_gbus0609800.056",
+                      "short_definitions": [
+                        "win number of tricks"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "shuffle (cards) for dealing."
+                      ],
+                      "domains": [
+                        "Cards"
+                      ],
+                      "id": "m_en_gbus0609800.057",
+                      "short_definitions": [
+                        "shuffle cards"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "(of the tide) begin to flow or ebb."
+                  ],
+                  "domains": [
+                    "Nautical"
+                  ],
+                  "id": "m_en_gbus0609800.059",
+                  "notes": [
+                    {
+                      "text": "no object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "(of tide) begin to flow or ebb"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/make_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "me\u026ak"
+            }
+          ],
+          "text": "make"
+        },
+        {
+          "derivatives": [
+            {
+              "id": "makeable",
+              "text": "makeable"
+            }
+          ],
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "the manufacturer or trade name of a product"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the make, model, and year of his car"
+                    }
+                  ],
+                  "id": "m_en_gbus0609800.062",
+                  "short_definitions": [
+                    "manufacturer or trade name"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "the structure or composition of something."
+                      ],
+                      "id": "m_en_gbus0609800.065",
+                      "short_definitions": [
+                        "structure or composition"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "make",
+                      "sense_id": "t_en_gb0009088.052"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "the making of electrical contact."
+                  ],
+                  "domains": [
+                    "Electrical"
+                  ],
+                  "id": "m_en_gbus0609800.067",
+                  "short_definitions": [
+                    "making of electrical contact"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/make_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "me\u026ak"
+            }
+          ],
+          "text": "make"
+        }
+      ],
+      "type": "headword",
+      "word": "make"
+    }
+  ]
+}

@@ -1,0 +1,938 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "give",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English giefan, gefan, of Germanic origin; related to Dutch geven and German geben"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "freely transfer the possession of (something) to (someone)"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he gave the papers back"
+                    },
+                    {
+                      "text": "the cheque given to the jeweller proved worthless"
+                    },
+                    {
+                      "text": "she gave him presents and clothes"
+                    }
+                  ],
+                  "id": "m_en_gbus0415220.014",
+                  "notes": [
+                    {
+                      "text": "with two objects",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "transfer possession of something to"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "administer (medicine)"
+                      ],
+                      "domains": [
+                        "Medicine"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she was given antibiotics"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.020",
+                      "short_definitions": [
+                        "administer medicine"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "hand over (an amount) in payment; pay"
+                      ],
+                      "examples": [
+                        {
+                          "text": "how much did you give for that?"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.021",
+                      "notes": [
+                        {
+                          "text": "with object",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "pay"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "stump_something_up",
+                          "sense_id": "t_en_gb0014277.004"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "used hyperbolically to express how greatly one wants to have or do something"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I'd give anything for a cup of tea"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.022",
+                      "notes": [
+                        {
+                          "text": "with object",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "expressing how greatly one wants something"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "give",
+                          "sense_id": "t_en_gb0006347.004"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "commit or entrust"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a baby given into their care by the accident of her birth"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.023",
+                      "notes": [
+                        {
+                          "text": "with object",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "commit or entrust"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "give",
+                          "sense_id": "t_en_gb0006347.003"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "freely set aside or devote for a purpose"
+                      ],
+                      "examples": [
+                        {
+                          "text": "committees who give so generously of their time and effort"
+                        },
+                        {
+                          "text": "all who have given thought to the matter agree"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.024",
+                      "notes": [
+                        {
+                          "text": "with object",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "freely set aside for purpose"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "give",
+                          "sense_id": "t_en_gb0006347.001"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of a man) sanction the marriage of (his daughter) to someone"
+                      ],
+                      "domains": [
+                        "Marriage"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he gave her in marriage to a noble"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.025",
+                      "notes": [
+                        {
+                          "text": "with object",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "registers": [
+                        "dated"
+                      ],
+                      "short_definitions": [
+                        "sanction marriage of daughter"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of a woman) consent to have sexual intercourse with (a man)"
+                      ],
+                      "domains": [
+                        "Sex"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she gave herself to the king in order to obtain the pardon of her father"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.026",
+                      "notes": [
+                        {
+                          "text": "\"give oneself to\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "registers": [
+                        "dated"
+                      ],
+                      "short_definitions": [
+                        "consent to have sex with"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "used to present a speaker or entertainer or when making a toast"
+                      ],
+                      "examples": [
+                        {
+                          "text": "for your entertainment this evening I give you \u2026 Mister Albert DeNero!"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.027",
+                      "short_definitions": [
+                        "used to present speaker or entertainer or when making toast"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "give",
+                      "sense_id": "t_en_gb0006347.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "cause or allow (someone or something) to have or experience (something); provide with"
+                  ],
+                  "examples": [
+                    {
+                      "text": "you gave me such a fright"
+                    },
+                    {
+                      "text": "this leaflet gives our opening times"
+                    }
+                  ],
+                  "id": "m_en_gbus0415220.029",
+                  "notes": [
+                    {
+                      "text": "with two objects",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "cause someone or something to have"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "provide (love or other emotional support) to"
+                      ],
+                      "examples": [
+                        {
+                          "text": "his parents gave him the encouragement he needed to succeed"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.030",
+                      "short_definitions": [
+                        "provide love or support to"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "give",
+                          "sense_id": "t_en_gb0006347.001"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "sentence (someone) to (a specified penalty)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "for the first offence I was given a fine"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.031",
+                      "short_definitions": [
+                        "sentence someone to penalty"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "give",
+                          "sense_id": "t_en_gb0006347.012"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "allot (a score) to"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I gave it five out of ten"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.032",
+                      "short_definitions": [
+                        "allot score to"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "allow (someone) to have (a specified amount of time) for an activity or undertaking"
+                      ],
+                      "examples": [
+                        {
+                          "text": "give me a second to bring the car around"
+                        },
+                        {
+                          "text": "I'll give you until tomorrow morning"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.033",
+                      "short_definitions": [
+                        "allow someone to have specified amount of time for activity or undertaking"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "pass on (an illness or infection) to (someone)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I hope I don't give you my cold"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.034",
+                      "short_definitions": [
+                        "pass on illness to"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "pass (a message) to (someone)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "give my love to all the girls"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.035",
+                      "short_definitions": [
+                        "pass message to"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "give",
+                          "sense_id": "t_en_gb0006347.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "make a connection to allow (someone) to speak to (someone else) on the telephone"
+                      ],
+                      "examples": [
+                        {
+                          "text": "give me the police"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.036",
+                      "notes": [
+                        {
+                          "text": "usually in imperative",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "connect someone to another by telephone"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "give",
+                      "sense_id": "t_en_gb0006347.007"
+                    },
+                    {
+                      "entry_id": "give",
+                      "sense_id": "t_en_gb0006347.012"
+                    },
+                    {
+                      "entry_id": "give",
+                      "sense_id": "t_en_gb0006347.005"
+                    },
+                    {
+                      "entry_id": "give",
+                      "sense_id": "t_en_gb0006347.006"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "carry out or perform (a specified action)"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he gave the counter a polish"
+                    },
+                    {
+                      "text": "I gave a bow"
+                    }
+                  ],
+                  "id": "m_en_gbus0415220.038",
+                  "notes": [
+                    {
+                      "text": "with object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "carry out specified action"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "produce (a sound)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he gave a gasp"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.039",
+                      "short_definitions": [
+                        "produce sound"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "give",
+                          "sense_id": "t_en_gb0006347.011"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "present (an appearance or impression)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he gave no sign of life"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.040",
+                      "short_definitions": [
+                        "present appearance"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "give",
+                          "sense_id": "t_en_gb0006347.006"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "provide (a party or social meal) as host or hostess"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Kate gave him a leaving party"
+                        },
+                        {
+                          "text": "a dinner given in honour of an American diplomat"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.041",
+                      "short_definitions": [
+                        "provide party as host or hostess"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "give",
+                          "sense_id": "t_en_gb0006347.009"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "give",
+                      "sense_id": "t_en_gb0006347.010"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "yield as a product or result"
+                  ],
+                  "examples": [
+                    {
+                      "text": "milk is sometimes added to give a richer cheese"
+                    }
+                  ],
+                  "id": "m_en_gbus0415220.043",
+                  "notes": [
+                    {
+                      "text": "with object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "yield as product or result"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "emit odour, vapour, or similar substances"
+                      ],
+                      "examples": [
+                        {
+                          "text": "some solvents give off toxic fumes"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.044",
+                      "notes": [
+                        {
+                          "text": "\"give something off/out/forth\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "emit odour etc."
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "give_something_off%2Fout",
+                          "sense_id": "t_en_gb0006347.017"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "give",
+                      "sense_id": "t_en_gb0006347.008"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "concede (something) as valid or deserved in respect of (someone)"
+                  ],
+                  "examples": [
+                    {
+                      "text": "give him his due"
+                    }
+                  ],
+                  "id": "m_en_gbus0415220.046",
+                  "notes": [
+                    {
+                      "text": "with object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "concede as valid in respect of"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "place a specified value on (something)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he never gave anything for French painting"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.047",
+                      "notes": [
+                        {
+                          "text": "\"give something for\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "place specified value on"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of an umpire or referee) declare whether or not (a player) is out or offside"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Gooch was given out, caught behind"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.048",
+                      "notes": [
+                        {
+                          "text": "with object and complement",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "declare whether or not player is out"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "adjudicate that (a goal) has been legitimately scored"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the referee gave the goal"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.049",
+                      "short_definitions": [
+                        "adjudicate that goal is legitimate"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "give",
+                          "sense_id": "t_en_gb0006347.005"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "state or put forward (information or argument)"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he did not give his name"
+                    }
+                  ],
+                  "id": "m_en_gbus0415220.051",
+                  "notes": [
+                    {
+                      "text": "with object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "state or put forward information"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "pledge or offer as a guarantee"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I give you my word"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.052",
+                      "short_definitions": [
+                        "pledge as guarantee"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "say to (someone) as an excuse or inappropriate answer"
+                      ],
+                      "examples": [
+                        {
+                          "text": "don't give me any of your backchat"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.053",
+                      "notes": [
+                        {
+                          "text": "with two objects, usually with negative",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "say to someone as excuse"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "give",
+                          "sense_id": "t_en_gb0006347.012"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "deliver (a judgement) authoritatively"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I gave my verdict"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.054",
+                      "short_definitions": [
+                        "deliver judgement authoritatively"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "predict that (an activity or relationship) will last no longer than (a specified time)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "this is a place that will not improve with time\u2014I give it three weeks"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.055",
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "predict how long something will last"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "tell what one knows"
+                      ],
+                      "examples": [
+                        {
+                          "text": "okay, give\u2014what's that all about?"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.056",
+                      "notes": [
+                        {
+                          "text": "no object",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "tell what one knows"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "give_someone%2Fsomething_away",
+                      "sense_id": "t_en_gb0006347.014"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "alter in shape under pressure rather than resist or break"
+                  ],
+                  "examples": [
+                    {
+                      "text": "that chair doesn't give"
+                    }
+                  ],
+                  "id": "m_en_gbus0415220.058",
+                  "notes": [
+                    {
+                      "text": "no object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "alter in shape under pressure"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "yield or give way to pressure"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the heavy door didn't give until the fifth push"
+                        },
+                        {
+                          "registers": [
+                            "figurative"
+                          ],
+                          "text": "when two people who don't get on are thrust together, something's got to give"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.059",
+                      "short_definitions": [
+                        "yield or give way to pressure"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "give",
+                          "sense_id": "t_en_gb0006347.013"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "concede defeat; surrender"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I give!"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.060",
+                      "notes": [
+                        {
+                          "text": "no object",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "regions": [
+                        "North American"
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "concede defeat"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "give",
+                      "sense_id": "t_en_gb0006347.013"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/give_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261\u026av"
+            }
+          ],
+          "text": "give"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Mass",
+                  "type": "Countability"
+                },
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "capacity to bend or alter in shape under pressure"
+                  ],
+                  "examples": [
+                    {
+                      "text": "plastic pots that have enough give to accommodate the vigorous roots"
+                    }
+                  ],
+                  "id": "m_en_gbus0415220.062",
+                  "short_definitions": [
+                    "capacity to give under pressure"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "ability to adapt; flexibility"
+                      ],
+                      "examples": [
+                        {
+                          "text": "there is no give at all in the British position"
+                        }
+                      ],
+                      "id": "m_en_gbus0415220.064",
+                      "short_definitions": [
+                        "ability to adapt"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "give",
+                      "sense_id": "t_en_gb0006347.023"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/give_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261\u026av"
+            }
+          ],
+          "text": "give"
+        }
+      ],
+      "type": "headword",
+      "word": "give"
+    }
+  ]
+}

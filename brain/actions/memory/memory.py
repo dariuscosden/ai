@@ -1,4 +1,5 @@
 import os, json, copy, requests
+import pattern.en
 
 # can compute how many chances there are for each len of subject
 
@@ -6,21 +7,25 @@ import os, json, copy, requests
 # any word that's not a '.', ',', 'preposition', noun?, 'conjunction' is part of the predicate
 # humans do it this way
 
+# if you use the relationships between the words with mathematical operations and since we have them segmented by subject, definition, predicate, etc.. it is mathematically predictable
+
 
 # checks if word is already in memory
-def check_if_word_in_memory(word, words_dir, verbs_dir):
+def check_if_word_in_memory(word, infinitive, words_dir):
     _w = word[:2]
     file_name = word + '.json'
+    infinitive_name = '_' + infinitive + '.json'
 
-    # checks if word file exists
-    file_path = os.path.join(words_dir, _w, file_name)
-    if os.path.isfile(file_path):
-        return True
+    # assigns paths
+    word_path = os.path.join(words_dir, _w, file_name)
+    infinitive_path = os.path.join(words_dir, _w, infinitive_name)
 
-    # check if verb file exists
-    file_path = os.path.join(verbs_dir, _w, file_name)
-    if os.path.isfile(file_path):
-        return True
+    # check if word_path exists
+    if os.path.isfile(word_path):
+
+        # checks if infinitive_path also exists
+        if os.path.isfile(infinitive_path):
+            return True
 
     return False
 
@@ -36,57 +41,6 @@ def return_json_word_path(word, words_dir):
         return file_path
     else:
         return None
-
-
-# checks if the verb is regular
-def check_if_verb(word):
-
-    # sets default to false
-    infinitive = False
-
-    return infinitive
-
-
-# creates a verb file
-def create_verb_file(word, verbs_dir):
-
-    # starting letter
-    _w = word[:2]
-
-    # _w dir
-    verb_dir = os.path.join(verbs_dir, _w)
-
-    # makes letter directory if it doesn't exist
-    if not os.path.isdir(verb_dir):
-        os.mkdir(verb_dir)
-
-    # setting the file_path
-    file_path = os.path.join(verb_dir, '{}.json'.format(word))
-
-    # checking if file already exists
-    if not os.path.isfile(file_path):
-
-        response = requests.get(
-            "https://ceneezer-conjugate-v1.p.rapidapi.com/?mode=conjugate&verb={}"
-            .format(word.lower().strip('_')),
-            headers={
-                "X-RapidAPI-Key":
-                "fneO3dRIhBmshxGkZdYouEDCAb2pp1zexlWjsn0RF5A4lEyKUd"
-            })
-
-        if response.status_code == 200:
-
-            # getting json data
-            data = response.json()[0]
-
-            # creating file
-            file = open(file_path, 'w')
-            file.write(json.dumps(data, indent=2))
-            file.close()
-
-            return file_path
-
-    return None
 
 
 # creates a word file
@@ -112,10 +66,14 @@ def create_word_file(word, words_dir, json_word):
 
 
 # gets word from oxford
-def save_word_to_memory(word, words_dir, verbs_dir):
+def save_word_to_memory(word, words_dir):
+
+    # used to check if the word is a conjugated verb
+    infinitive = pattern.en.conjugate(word.strip('_'), tense="INFINITIVE")
+    infinitive_found = False
 
     # checks if word is in memory
-    if check_if_word_in_memory(word, words_dir, verbs_dir):
+    if check_if_word_in_memory(word, infinitive, words_dir):
         print('I have already learnt the word \"{}\"'.format(word))
     else:
         print('Currently learning the word \"{}\"'.format(word))
@@ -135,30 +93,130 @@ def save_word_to_memory(word, words_dir, verbs_dir):
 
         # if it can't find it in oxford, it might be a regular verb
         if request.status_code == 404:
-            create_verb_file(word, verbs_dir)
-            return
 
-        # creates json
-        data = request.json()
-        json_word = json.dumps(data, indent=2)
+            # tries to query oxford again with the infinitive
+            request = requests.get(
+                url + infinitive,
+                headers={
+                    'app_id': app_id,
+                    'app_key': app_key
+                })
 
-        # checks if word is a verb
-        word_type = data['results'][0]['lexicalEntries'][0]['lexicalCategory']
+            # checks if request was successful
+            if request.status_code == 404:
+                print('I wasn\t able to understand "{}"'.format(word))
+                return
 
-        # creates verb file
-        if word_type == 'Verb':
-            create_verb_file(word, verbs_dir)
+            else:
+                # sets data in json
+                data = request.json()
 
-        # checks for irregular verb from oxford
-        elif word_type == 'Other':
-            cross_reference = '_' + data['results'][0]['lexicalEntries'][0][
-                'entries'][0]['senses'][0]['crossReferences'][0]['id']
+                # sets json_word
+                json_word = json.dumps(data, indent=2)
 
-            # creates verb file
-            if cross_reference:
-                create_verb_file(word, verbs_dir)
+                # creates a pseudo word_file to keep track of learnt words
+                pseudo_json = {
+                    "metadata": {
+                        "provider": "Oxford University Press"
+                    },
+                    "results": [{
+                        "id": "{}".format(word.strip('_')),
+                        "language": "en",
+                        "lexicalEntries": [
+                            {
+                                "entries": [
+                                    {
+                                        "senses": [
+                                            {
+                                                "crossReferences": [
+                                                    {
+                                                        "id": "{}".format(infinitive)
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }]
+                }
+                pseudo_json = json.dumps(pseudo_json, indent=2)
 
-        create_word_file(word, words_dir, json_word)
+                # creates a pseudo word file
+                create_word_file(word, words_dir, pseudo_json)
+
+                # creates a word file for the infinitive
+                create_word_file('_' + infinitive, words_dir, json_word)
+
+        else:
+
+            # sets data in json
+            data = request.json()
+
+            # assigns lexicalEntries variable
+            lexicalEntries = data['results'][0]['lexicalEntries']
+
+            # runs through each lexicalEntry to catch a potential verb
+            for le in lexicalEntries:
+
+                # checks if it's a verb
+                if le['lexicalCategory'] == 'Other' or le[
+                        'lexicalCategory'] == 'Verb':
+
+                    # checks for other -> verb
+                    try:
+                        cross_reference = le['entries'][0]['senses'][0][
+                            'crossReferences'][0]['id']
+
+                        # queries oxford with the infinitive instead
+                        request = requests.get(
+                            url + cross_reference,
+                            headers={
+                                'app_id': app_id,
+                                'app_key': app_key
+                            })
+
+                        # if infinitive verb was found
+                        if request.status_code != 404:
+
+                            # sets the infinitive_found to true
+                            infinitive_found = True
+
+                            # updates data in json
+                            verb_data = request.json()
+                            json_verb = json.dumps(verb_data, indent=2)
+
+                            # creates a file for the verb as well (doesn't interfere with original word_file creation)
+                            create_word_file('_' + cross_reference, words_dir,
+                                             json_verb)
+
+                    except KeyError:
+                        pass
+
+            # if the infinitive still hasn't been found
+            if not infinitive_found:
+
+                # tries to query oxford again with the infinitive
+                request = requests.get(
+                    url + infinitive,
+                    headers={
+                        'app_id': app_id,
+                        'app_key': app_key
+                    })
+
+                # checks if request was successful
+                if request.status_code != 404:
+
+                    # sets the infinitive_found to true
+                    infinitive_found = True
+
+                    # updates data in json
+                    verb_data = request.json()
+                    json_verb = json.dumps(verb_data, indent=2)
+
+                    # creates a file for the verb as well (doesn't interfere with original word_file creation)
+                    create_word_file('_' + infinitive, words_dir, json_verb)
 
         return True
 

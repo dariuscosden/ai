@@ -1,0 +1,474 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "find",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "derivatives": [
+            {
+              "id": "findable",
+              "text": "findable"
+            }
+          ],
+          "entries": [
+            {
+              "etymologies": [
+                "Old English findan, of Germanic origin; related to Dutch vinden and German finden"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Transitive",
+                  "type": "Subcategorization"
+                },
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "discover or perceive by chance or unexpectedly"
+                  ],
+                  "examples": [
+                    {
+                      "text": "Lindsey looked up to find Niall watching her"
+                    },
+                    {
+                      "text": "the remains of a headless body had been found"
+                    }
+                  ],
+                  "id": "m_en_gbus0362680.009",
+                  "short_definitions": [
+                    "discover by chance or unexpectedly"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "discover after a deliberate search"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the sailor and his crew were found safe and well last night"
+                        },
+                        {
+                          "text": "I can't find my keys"
+                        }
+                      ],
+                      "id": "m_en_gbus0362680.015",
+                      "short_definitions": [
+                        "discover after deliberate search"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "find",
+                          "sense_id": "t_en_gb0005666.003"
+                        },
+                        {
+                          "entry_id": "find",
+                          "sense_id": "t_en_gb0005666.001"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "discover oneself to be in a particular situation"
+                      ],
+                      "examples": [
+                        {
+                          "text": "phobia sufferers often find themselves virtual prisoners in their own home"
+                        }
+                      ],
+                      "id": "m_en_gbus0362680.016",
+                      "notes": [
+                        {
+                          "text": "\"find oneself\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "discover oneself to be in certain situation"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "succeed in obtaining (something)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he's still struggling to find the money for the trip"
+                        }
+                      ],
+                      "id": "m_en_gbus0362680.017",
+                      "short_definitions": [
+                        "succeed in obtaining"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "find",
+                          "sense_id": "t_en_gb0005666.004"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "summon up (a quality, especially courage) with an effort"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I found the courage to speak"
+                        }
+                      ],
+                      "id": "m_en_gbus0362680.018",
+                      "short_definitions": [
+                        "summon up courage etc."
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "find",
+                          "sense_id": "t_en_gb0005666.005"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of hunters or hounds) discover game, especially a fox"
+                      ],
+                      "domains": [
+                        "Hunting"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Lady Montego heard the new halloo\u2014they had found"
+                        }
+                      ],
+                      "id": "m_en_gbus0362680.020",
+                      "notes": [
+                        {
+                          "text": "no object",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "(of hounds etc.) discover game"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "find",
+                      "sense_id": "t_en_gb0005666.007"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "identify (something) as being present"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a rare species found only in the Italian Alps"
+                    },
+                    {
+                      "text": "vitamin B12 is found in dairy products"
+                    }
+                  ],
+                  "id": "m_en_gbus0362680.022",
+                  "short_definitions": [
+                    "recognize or discover to be present"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "discover or experience to be the case"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the majority of staff find the magazine to be informative and useful"
+                        },
+                        {
+                          "text": "she found that none of the local nursery schools had an available slot"
+                        }
+                      ],
+                      "id": "m_en_gbus0362680.023",
+                      "short_definitions": [
+                        "become aware of"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "ascertain by study, calculation, or inquiry"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the class are encouraged to find their own solutions to problems"
+                        }
+                      ],
+                      "id": "m_en_gbus0362680.024",
+                      "short_definitions": [
+                        "ascertain by study, inquiry etc."
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "find",
+                          "sense_id": "t_en_gb0005666.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "discover the fundamental truths about one's own character and identity."
+                      ],
+                      "id": "m_en_gbus0362680.025",
+                      "notes": [
+                        {
+                          "text": "\"find oneself\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "discover fundamental truths about oneself"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "experience or regard (something) in a specified way"
+                      ],
+                      "examples": [
+                        {
+                          "text": "both men found it difficult to put ideas into words"
+                        }
+                      ],
+                      "id": "m_en_gbus0362680.026",
+                      "notes": [
+                        {
+                          "text": "with object and complement",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "perceive to be the case"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "find",
+                          "sense_id": "t_en_gb0005666.008"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of a court) officially declare to be the case"
+                      ],
+                      "domains": [
+                        "Law"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the court found that a police lab expert had fabricated evidence"
+                        },
+                        {
+                          "text": "he was found guilty of speeding"
+                        }
+                      ],
+                      "id": "m_en_gbus0362680.027",
+                      "short_definitions": [
+                        "(of court) declare to be the case"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "find",
+                          "sense_id": "t_en_gb0005666.009"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "find",
+                      "sense_id": "t_en_gb0005666.006"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "reach or arrive at by a natural or normal process"
+                  ],
+                  "examples": [
+                    {
+                      "text": "water finds its own level"
+                    }
+                  ],
+                  "id": "m_en_gbus0362680.029",
+                  "short_definitions": [
+                    "reach or arrive at"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "reach one's destination, typically without first knowing how to get there"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she'll never find her way to the house on her own"
+                        }
+                      ],
+                      "id": "m_en_gbus0362680.030",
+                      "notes": [
+                        {
+                          "text": "\"find one's way\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "reach one's destination"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of a letter) reach (someone)."
+                      ],
+                      "id": "m_en_gbus0362680.032",
+                      "short_definitions": [
+                        "(of letter) reach someone"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "reach the understanding or conscience of"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the books of which I have been speaking found me and taught me"
+                        }
+                      ],
+                      "id": "m_en_gbus0362680.033",
+                      "registers": [
+                        "archaic"
+                      ],
+                      "short_definitions": [
+                        "reach understanding or conscience of"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/find_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "f\u028c\u026and"
+            }
+          ],
+          "text": "find"
+        },
+        {
+          "derivatives": [
+            {
+              "id": "findable",
+              "text": "findable"
+            }
+          ],
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "a discovery of something valuable, typically something of archaeological interest"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he made his most spectacular finds in the Valley of the Kings"
+                    }
+                  ],
+                  "id": "m_en_gbus0362680.035",
+                  "short_definitions": [
+                    "discovery of value"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a person who is discovered to be useful or interesting in some way"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Ted had turned out to be a real find"
+                        }
+                      ],
+                      "id": "m_en_gbus0362680.038",
+                      "short_definitions": [
+                        "useful or interesting person"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "treasure",
+                          "sense_id": "t_en_gb0015123.003"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "the finding of a fox."
+                      ],
+                      "domains": [
+                        "Hunting"
+                      ],
+                      "id": "m_en_gbus0362680.039",
+                      "short_definitions": [
+                        "finding of fox"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "find",
+                      "sense_id": "t_en_gb0005666.013"
+                    },
+                    {
+                      "entry_id": "find",
+                      "sense_id": "t_en_gb0005666.012"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/find_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "f\u028c\u026and"
+            }
+          ],
+          "text": "find"
+        }
+      ],
+      "type": "headword",
+      "word": "find"
+    }
+  ]
+}

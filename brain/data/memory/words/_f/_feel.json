@@ -1,0 +1,564 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "feel",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English f\u0113lan, of West Germanic origin; related to Dutch voelen and German f\u00fchlen"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Transitive",
+                  "type": "Subcategorization"
+                },
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "be aware of (a person or object) through touching or being touched"
+                  ],
+                  "examples": [
+                    {
+                      "text": "she felt someone touch her shoulder"
+                    },
+                    {
+                      "text": "you can feel the soft grass beneath your feet"
+                    }
+                  ],
+                  "id": "m_en_gbus0355300.009",
+                  "short_definitions": [
+                    "be aware of through touching"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "be aware of (something happening) through physical sensation"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she felt the ground give way beneath her"
+                        }
+                      ],
+                      "id": "m_en_gbus0355300.015",
+                      "short_definitions": [
+                        "be aware of through physical sensation"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "examine or search by touch"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he touched her head and felt her hair"
+                        },
+                        {
+                          "text": "he felt around for the matches"
+                        }
+                      ],
+                      "id": "m_en_gbus0355300.016",
+                      "short_definitions": [
+                        "examine or search by touch"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "feel",
+                          "sense_id": "t_en_gb0005554.001"
+                        },
+                        {
+                          "entry_id": "feel",
+                          "sense_id": "t_en_gb0005554.005"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "be capable of sensation"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the dead cannot feel"
+                        }
+                      ],
+                      "id": "m_en_gbus0355300.017",
+                      "notes": [
+                        {
+                          "text": "no object",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "be capable of sensation"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "give a sensation of a particular physical quality when touched"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the wool feels soft"
+                        }
+                      ],
+                      "id": "m_en_gbus0355300.018",
+                      "notes": [
+                        {
+                          "text": "no object, with complement",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "give particular sensation when touched"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "feel",
+                          "sense_id": "t_en_gb0005554.008"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "investigate something cautiously"
+                      ],
+                      "examples": [
+                        {
+                          "text": "they want to feel out the situation"
+                        }
+                      ],
+                      "id": "m_en_gbus0355300.019",
+                      "notes": [
+                        {
+                          "text": "\"feel something out\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "investigate cautiously"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "fondle someone surreptitiously and without their consent, for one's own sexual stimulation."
+                      ],
+                      "domains": [
+                        "Sex"
+                      ],
+                      "id": "m_en_gbus0355300.020",
+                      "notes": [
+                        {
+                          "text": "\"feel someone up\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "fondle surreptitiously"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "fondle",
+                          "sense_id": "t_en_gb0005870.001"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "feel",
+                      "sense_id": "t_en_gb0005554.002"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "experience (an emotion or sensation)"
+                  ],
+                  "examples": [
+                    {
+                      "text": "she started to feel really sick"
+                    },
+                    {
+                      "text": "it felt odd to be alone again"
+                    },
+                    {
+                      "text": "we feel very strongly about freedom of expression"
+                    },
+                    {
+                      "text": "I felt a sense of excitement"
+                    }
+                  ],
+                  "id": "m_en_gbus0355300.022",
+                  "short_definitions": [
+                    "experience emotion or sensation"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "consider oneself to be in a particular state or exhibiting particular qualities"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she felt such a fool"
+                        },
+                        {
+                          "text": "he doesn't feel obliged to visit every weekend"
+                        }
+                      ],
+                      "id": "m_en_gbus0355300.023",
+                      "notes": [
+                        {
+                          "text": "no object, with complement",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "consider oneself"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "count",
+                          "sense_id": "t_en_gb0003098.004"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "have the strength and energy to do or deal with"
+                      ],
+                      "examples": [
+                        {
+                          "text": "after the accident she didn't feel up to driving"
+                        }
+                      ],
+                      "id": "m_en_gbus0355300.024",
+                      "notes": [
+                        {
+                          "text": "no object",
+                          "type": "grammaticalNote"
+                        },
+                        {
+                          "text": "\"feel up to\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "have strength or energy for"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "be healthy and well"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Ruth was not quite feeling herself"
+                        }
+                      ],
+                      "id": "m_en_gbus0355300.025",
+                      "notes": [
+                        {
+                          "text": "usually with negative",
+                          "type": "grammaticalNote"
+                        },
+                        {
+                          "text": "\"feel oneself\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "be healthy"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "be strongly affected by"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he didn't feel the loss of his mother so keenly"
+                        },
+                        {
+                          "text": "investors who have felt the effects of the recession"
+                        }
+                      ],
+                      "id": "m_en_gbus0355300.026",
+                      "short_definitions": [
+                        "be emotionally affected by"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "have compassion for"
+                      ],
+                      "examples": [
+                        {
+                          "text": "poor woman\u2014I do feel for her"
+                        }
+                      ],
+                      "id": "m_en_gbus0355300.028",
+                      "notes": [
+                        {
+                          "text": "no object",
+                          "type": "grammaticalNote"
+                        },
+                        {
+                          "text": "\"feel for\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "have compassion for"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "feel_for",
+                          "sense_id": "t_en_gb0005554.009"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "feel",
+                      "sense_id": "t_en_gb0005554.003"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "have a belief or impression, especially without an identifiable reason"
+                  ],
+                  "examples": [
+                    {
+                      "text": "she felt that the woman positively disliked her"
+                    }
+                  ],
+                  "id": "m_en_gbus0355300.030",
+                  "notes": [
+                    {
+                      "text": "with clause",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "have belief or impression"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "hold an opinion"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I felt I could make a useful contribution"
+                        }
+                      ],
+                      "id": "m_en_gbus0355300.031",
+                      "short_definitions": [
+                        "hold opinion"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "feel",
+                          "sense_id": "t_en_gb0005554.006"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "feel",
+                      "sense_id": "t_en_gb0005554.007"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/feel_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "fi\u02d0l"
+            }
+          ],
+          "text": "feel"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "an act of touching something to examine it."
+                  ],
+                  "id": "m_en_gbus0355300.034",
+                  "notes": [
+                    {
+                      "text": "usually in singular",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "act of touching"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "the sense of touch"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he worked by feel rather than using his eyes"
+                        }
+                      ],
+                      "id": "m_en_gbus0355300.037",
+                      "notes": [
+                        {
+                          "text": "mass noun",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "sense of touch"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "feel",
+                          "sense_id": "t_en_gb0005554.011"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a sensation given by an object or material when touched"
+                  ],
+                  "examples": [
+                    {
+                      "text": "nylon cloth with a cotton feel"
+                    }
+                  ],
+                  "id": "m_en_gbus0355300.040",
+                  "notes": [
+                    {
+                      "text": "usually in singular",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "sensation given by object when touched"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "the impression given by something"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a cafe with a cosmopolitan feel"
+                        }
+                      ],
+                      "id": "m_en_gbus0355300.041",
+                      "short_definitions": [
+                        "impression given by something"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "feel",
+                          "sense_id": "t_en_gb0005554.013"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "feel",
+                      "sense_id": "t_en_gb0005554.012"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "feelings of heightened emotion"
+                  ],
+                  "examples": [
+                    {
+                      "text": "fans will undoubtedly get the feels when they see how things haven't changed"
+                    },
+                    {
+                      "text": "I cry at everything, even the types of movies you wouldn't expect to give you all the feels"
+                    }
+                  ],
+                  "id": "m_en_gbus0355300.043",
+                  "notes": [
+                    {
+                      "text": "usually in singular",
+                      "type": "grammaticalNote"
+                    },
+                    {
+                      "text": "\"feels\"",
+                      "type": "wordFormNote"
+                    }
+                  ],
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "state of heightened emotion"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/feel_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "fi\u02d0l"
+            }
+          ],
+          "text": "feel"
+        }
+      ],
+      "type": "headword",
+      "word": "feel"
+    }
+  ]
+}
