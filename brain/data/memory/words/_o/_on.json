@@ -1,0 +1,726 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "on",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English on, an, of Germanic origin; related to Dutch aan and German an, from an Indo-European root shared by Greek ana"
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "physically in contact with and supported by (a surface)"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a sign on the front gate"
+                    },
+                    {
+                      "text": "on the table was a water jug"
+                    },
+                    {
+                      "text": "she was lying on the floor"
+                    }
+                  ],
+                  "id": "m_en_gbus0718570.008",
+                  "short_definitions": [
+                    "in contact with and supported by"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "located somewhere in the general surface area of (a place)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the house on the corner"
+                        },
+                        {
+                          "text": "an internment camp on the island"
+                        }
+                      ],
+                      "id": "m_en_gbus0718570.010",
+                      "short_definitions": [
+                        "located in general area of"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "on",
+                          "sense_id": "t_en_gb0010294.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "as a result of accidental physical contact with"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he banged his head on a beam"
+                        }
+                      ],
+                      "id": "m_en_gbus0718570.011",
+                      "short_definitions": [
+                        "as result of accidental contact with"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "supported by (a part of the body)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he was lying on his back"
+                        }
+                      ],
+                      "id": "m_en_gbus0718570.012",
+                      "short_definitions": [
+                        "supported by part of body"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "on",
+                          "sense_id": "t_en_gb0010294.001"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "on to"
+                      ],
+                      "examples": [
+                        {
+                          "text": "put it on the table"
+                        }
+                      ],
+                      "id": "m_en_gbus0718570.013",
+                      "short_definitions": [
+                        "on to"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "on",
+                          "sense_id": "t_en_gb0010294.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "in the possession of; being carried by"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she only had a few pounds on her"
+                        }
+                      ],
+                      "id": "m_en_gbus0718570.014",
+                      "short_definitions": [
+                        "in possession of"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "forming a distinctive or marked part of the surface of"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a scratch on her arm"
+                    },
+                    {
+                      "text": "a smile on her face"
+                    }
+                  ],
+                  "id": "m_en_gbus0718570.016",
+                  "short_definitions": [
+                    "forming distinctive part of"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "having (the thing mentioned) as a topic; about"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a book on careers"
+                    }
+                  ],
+                  "id": "m_en_gbus0718570.018",
+                  "short_definitions": [
+                    "about"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "having (the thing mentioned) as a basis"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a constitution modelled on America's"
+                        }
+                      ],
+                      "id": "m_en_gbus0718570.019",
+                      "short_definitions": [
+                        "having as basis"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "about",
+                      "sense_id": "t_en_gb0000059.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "as a member of (a committee, jury, or other body)"
+                  ],
+                  "examples": [
+                    {
+                      "text": "they would be allowed to serve on committees"
+                    }
+                  ],
+                  "id": "m_en_gbus0718570.021",
+                  "short_definitions": [
+                    "as member of"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "having (the thing mentioned) as a target, aim, or focus"
+                  ],
+                  "examples": [
+                    {
+                      "text": "thousands marching on Washington"
+                    },
+                    {
+                      "text": "five air raids on Schweinfurt"
+                    },
+                    {
+                      "text": "her eyes were fixed on his dark profile"
+                    }
+                  ],
+                  "id": "m_en_gbus0718570.023",
+                  "short_definitions": [
+                    "having as target"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "(often followed by a noun without a determiner) having (the thing mentioned) as a medium for transmitting or storing information"
+                  ],
+                  "examples": [
+                    {
+                      "text": "stored on the client's own computer"
+                    },
+                    {
+                      "text": "put your ideas down on paper"
+                    }
+                  ],
+                  "id": "m_en_gbus0718570.026",
+                  "short_definitions": [
+                    "having as medium"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "being broadcast by (a radio or television channel)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a new twelve-part TV series on Channel 4"
+                        }
+                      ],
+                      "id": "m_en_gbus0718570.027",
+                      "short_definitions": [
+                        "being broadcast by"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "in the course of (a journey)"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he was on his way to see his mother"
+                    }
+                  ],
+                  "id": "m_en_gbus0718570.029",
+                  "short_definitions": [
+                    "in course of journey"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "while travelling in (a public vehicle)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "John got some sleep on the plane"
+                        }
+                      ],
+                      "id": "m_en_gbus0718570.030",
+                      "short_definitions": [
+                        "while travelling in"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "on to (a public vehicle) with the intention of travelling in it"
+                      ],
+                      "examples": [
+                        {
+                          "text": "we got on the train"
+                        }
+                      ],
+                      "id": "m_en_gbus0718570.031",
+                      "short_definitions": [
+                        "on to vehicle"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "indicating the day or part of a day during which an event takes place"
+                  ],
+                  "examples": [
+                    {
+                      "text": "on a very hot evening in July"
+                    },
+                    {
+                      "text": "reported on September 26"
+                    }
+                  ],
+                  "id": "m_en_gbus0718570.033",
+                  "short_definitions": [
+                    "indicating day during which event happens"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "at the time of"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she was booed on arriving home"
+                        }
+                      ],
+                      "id": "m_en_gbus0718570.034",
+                      "short_definitions": [
+                        "at time of"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "engaged in"
+                  ],
+                  "examples": [
+                    {
+                      "text": "his attendant was out on errands"
+                    }
+                  ],
+                  "id": "m_en_gbus0718570.036",
+                  "short_definitions": [
+                    "engaged in"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "regularly taking (a drug or medicine)"
+                  ],
+                  "domains": [
+                    "Medicine"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he is on morphine to relieve the pain"
+                    }
+                  ],
+                  "id": "m_en_gbus0718570.038",
+                  "short_definitions": [
+                    "regularly taking drug or medicine"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "paid for by"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the drinks are on me"
+                    }
+                  ],
+                  "id": "m_en_gbus0718570.040",
+                  "short_definitions": [
+                    "paid for by"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "added to"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a few pence on the electricity bill is nothing compared with your security"
+                    }
+                  ],
+                  "id": "m_en_gbus0718570.042",
+                  "short_definitions": [
+                    "added to"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Preposition",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/on_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0252n"
+            }
+          ],
+          "text": "on"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "physically in contact with and supported by a surface"
+                  ],
+                  "examples": [
+                    {
+                      "text": "make sure the lid is on"
+                    }
+                  ],
+                  "id": "m_en_gbus0718570.045",
+                  "short_definitions": [
+                    "in contact with surface"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "(of clothing) being worn by a person"
+                      ],
+                      "examples": [
+                        {
+                          "text": "sitting with her coat on"
+                        }
+                      ],
+                      "id": "m_en_gbus0718570.047",
+                      "short_definitions": [
+                        "being worn"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "indicating continuation of a movement or action"
+                  ],
+                  "examples": [
+                    {
+                      "text": "and so on"
+                    },
+                    {
+                      "text": "she burbled on"
+                    },
+                    {
+                      "text": "he drove on"
+                    }
+                  ],
+                  "id": "m_en_gbus0718570.049",
+                  "short_definitions": [
+                    "indicating continuation of action"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "further forward; in an advanced state"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I'll see you later on"
+                        },
+                        {
+                          "text": "time's getting on"
+                        }
+                      ],
+                      "id": "m_en_gbus0718570.050",
+                      "short_definitions": [
+                        "further forward"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "forward",
+                          "sense_id": "t_en_gb0005992.003"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "on",
+                      "sense_id": "t_en_gb0010294.004"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "(of an event) taking place or being presented"
+                  ],
+                  "examples": [
+                    {
+                      "text": "what's on at the May Festival"
+                    },
+                    {
+                      "text": "there's a good film on this afternoon"
+                    }
+                  ],
+                  "id": "m_en_gbus0718570.052",
+                  "short_definitions": [
+                    "taking place"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "due to take place as planned"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the match is still on"
+                        }
+                      ],
+                      "id": "m_en_gbus0718570.053",
+                      "short_definitions": [
+                        "due to take place as planned"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "(of an electrical appliance or power supply) functioning"
+                  ],
+                  "examples": [
+                    {
+                      "text": "they always left the lights on"
+                    }
+                  ],
+                  "id": "m_en_gbus0718570.055",
+                  "short_definitions": [
+                    "functioning"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "on",
+                      "sense_id": "t_en_gb0010294.003"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "(of a performer) on stage."
+                  ],
+                  "domains": [
+                    "Theatre"
+                  ],
+                  "id": "m_en_gbus0718570.057",
+                  "short_definitions": [
+                    "on stage"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "(of an employee) working; on duty."
+                      ],
+                      "id": "m_en_gbus0718570.058",
+                      "short_definitions": [
+                        "on duty"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adverb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/on_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0252n"
+            }
+          ],
+          "text": "on"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "002",
+              "senses": [
+                {
+                  "definitions": [
+                    "the leg side."
+                  ],
+                  "domains": [
+                    "Cricket"
+                  ],
+                  "id": "m_en_gbus0718570.060",
+                  "short_definitions": [
+                    "leg side"
+                  ],
+                  "variantForms": [
+                    {
+                      "text": "on side"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/on_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0252n"
+            }
+          ],
+          "text": "on"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Abbreviation",
+                  "type": "Residual"
+                }
+              ],
+              "homographNumber": "400",
+              "senses": [
+                {
+                  "definitions": [
+                    "Ontario (in official postal use)."
+                  ],
+                  "domains": [
+                    "Postal"
+                  ],
+                  "id": "m_en_gbus0718590.002",
+                  "short_definitions": [
+                    "Ontario"
+                  ]
+                }
+              ]
+            },
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Abbreviation",
+                  "type": "Residual"
+                }
+              ],
+              "homographNumber": "500",
+              "senses": [
+                {
+                  "definitions": [
+                    "Old Norse."
+                  ],
+                  "domains": [
+                    "Language"
+                  ],
+                  "id": "m_en_gbus0718600.002",
+                  "short_definitions": [
+                    "Old Norse"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Residual",
+          "text": "ON"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    ""
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "on",
+                      "text": "on",
+                      "type": "see also"
+                    }
+                  ],
+                  "id": "m_en_gbus0718570.008"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gave_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261e\u026av"
+            }
+          ]
+        }
+      ],
+      "type": "headword",
+      "word": "on"
+    }
+  ]
+}

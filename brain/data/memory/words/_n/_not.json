@@ -1,0 +1,350 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "not",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Middle English: contraction of the adverb nought"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "used with an auxiliary verb or \u2018be\u2019 to form the negative"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he would not say"
+                    },
+                    {
+                      "text": "didn't you tell me?"
+                    },
+                    {
+                      "text": "she isn't there"
+                    }
+                  ],
+                  "id": "m_en_gbus0702220.006",
+                  "short_definitions": [
+                    "used to form negative with auxiliary verbs"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "used in some constructions with other verbs"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he has been warned not to touch"
+                        },
+                        {
+                          "text": "the pain of not knowing"
+                        },
+                        {
+                          "text": "she not only wrote the text but also researched the photographs"
+                        }
+                      ],
+                      "id": "m_en_gbus0702220.009",
+                      "short_definitions": [
+                        "used with other verbs"
+                      ]
+                    }
+                  ],
+                  "variantForms": [
+                    {
+                      "text": "n't"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used as a short substitute for a negative clause"
+                  ],
+                  "examples": [
+                    {
+                      "text": "\u2018Don't you keep in touch?\u2019 \u2018I'm afraid not\u2019"
+                    },
+                    {
+                      "text": "they wouldn't know if I was telling the truth or not"
+                    },
+                    {
+                      "text": "maybe I'll regret it, but I hope not"
+                    }
+                  ],
+                  "id": "m_en_gbus0702220.011",
+                  "short_definitions": [
+                    "used as substitute for negative clause"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used to express the negative of other words"
+                  ],
+                  "examples": [
+                    {
+                      "text": "not a single attempt was made"
+                    },
+                    {
+                      "text": "\u2018How was it?\u2019 \u2018Not so bad.\u2019"
+                    },
+                    {
+                      "text": "treating the symptoms and not the cause"
+                    }
+                  ],
+                  "id": "m_en_gbus0702220.013",
+                  "short_definitions": [
+                    "expressing negative of other words"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "used with a quantifier to exclude a person or part of a group"
+                      ],
+                      "examples": [
+                        {
+                          "text": "not all the poems are serious"
+                        }
+                      ],
+                      "id": "m_en_gbus0702220.014",
+                      "short_definitions": [
+                        "used with quantifier to exclude member of group"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "no more than (used to indicate a surprisingly small quantity)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the brakes went on not ten feet from him"
+                        }
+                      ],
+                      "id": "m_en_gbus0702220.015",
+                      "short_definitions": [
+                        "no more than"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used in understatements to suggest that the opposite of a following word or phrase is true"
+                  ],
+                  "examples": [
+                    {
+                      "text": "not a million miles away"
+                    },
+                    {
+                      "text": "the not too distant future"
+                    }
+                  ],
+                  "id": "m_en_gbus0702220.017",
+                  "short_definitions": [
+                    "suggesting that the opposite of a following phrase is true"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "following and emphatically negating a statement"
+                      ],
+                      "examples": [
+                        {
+                          "text": "that sounds like quality entertainment\u2014not"
+                        }
+                      ],
+                      "id": "m_en_gbus0702220.018",
+                      "registers": [
+                        "humorous",
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "following and negating statement"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "unwilling",
+                      "sense_id": "t_en_gb0015724.002"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adverb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/not_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "n\u0252t"
+            }
+          ],
+          "text": "not"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "a Boolean operator with only one variable that has the value one when the variable is zero and vice versa."
+                  ],
+                  "domains": [
+                    "Computing"
+                  ],
+                  "id": "m_en_gbus0702220.020",
+                  "notes": [
+                    {
+                      "text": "often \"NOT\"",
+                      "type": "wordFormNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "Boolean operator"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a circuit which produces an output signal only when there is not a signal on its input."
+                      ],
+                      "domains": [
+                        "Electronics"
+                      ],
+                      "id": "m_en_gbus0702220.023",
+                      "short_definitions": [
+                        "circuit"
+                      ],
+                      "variantForms": [
+                        {
+                          "text": "not gate"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/not_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "n\u0252t"
+            }
+          ],
+          "text": "not"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "002",
+              "senses": [
+                {
+                  "definitions": [
+                    "(of paper) not hot-pressed, and having a slightly textured surface."
+                  ],
+                  "domains": [
+                    "Art"
+                  ],
+                  "id": "m_en_gbus0702220.029",
+                  "short_definitions": [
+                    "denoting kind of paper"
+                  ]
+                }
+              ],
+              "variantForms": [
+                {
+                  "text": "Not"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adjective",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/not_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "n\u0252t"
+            }
+          ],
+          "text": "not"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    ""
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "not",
+                      "text": "not",
+                      "type": "see also"
+                    }
+                  ],
+                  "id": "m_en_gbus0702220.006"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gave_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261e\u026av"
+            }
+          ]
+        }
+      ],
+      "type": "headword",
+      "word": "not"
+    }
+  ]
+}

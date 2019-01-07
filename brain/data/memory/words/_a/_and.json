@@ -1,0 +1,408 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "and",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English and, ond, of Germanic origin; related to Dutch en and German und"
+              ],
+              "homographNumber": "000",
+              "notes": [
+                {
+                  "text": "It is still widely taught and believed that conjunctions such as and (and also but and because) should not be used to start a sentence, the argument being that a sentence starting with and expresses an incomplete thought and is therefore incorrect. Writers down the centuries have readily ignored this advice, however, using and to start a sentence, typically for rhetorical effect, as in the following example: What are the government's chances of winning in court? And what are the consequences? A small number of verbs, notably try, come, and go can be followed by and with another verb, as in sentences like we're going to try and explain it to them or why don't you come and see the film? The structures in these verbs correspond to the use of the infinitive to, as in we're going to try to explain it to them or why don't you come to see the film? Since these structures are grammatically odd\u2014for example, the use is normally only idiomatic with the infinitive of the verb and not with other forms (i.e. it is not possible to say I tried and explained it to them)\u2014they are regarded as wrong by some traditionalists. However, these uses are extremely common and can certainly be regarded as part of standard English. For information about whether it is more correct to say both the boys and the girls or both the boys and girls, see both",
+                  "type": "editorialNote"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "used to connect words of the same part of speech, clauses, or sentences, that are to be taken jointly"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a hundred and fifty"
+                    },
+                    {
+                      "text": "bread and butter"
+                    },
+                    {
+                      "text": "they can read and write"
+                    }
+                  ],
+                  "id": "m_en_gbus0031920.013",
+                  "short_definitions": [
+                    "used to connect words of same part of speech, clauses, or sentences"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "used to connect two clauses when the second refers to something that happens after the first"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he turned round and walked out"
+                        }
+                      ],
+                      "id": "m_en_gbus0031920.017",
+                      "short_definitions": [
+                        "used to connect two clauses when second refers to something that happens after first"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "used to connect two clauses, the second of which refers to something that results from the first"
+                      ],
+                      "examples": [
+                        {
+                          "text": "there was a flash flood and by the next morning the town was under water"
+                        }
+                      ],
+                      "id": "m_en_gbus0031920.018",
+                      "short_definitions": [
+                        "used to connect two clauses, second of which refers to something that results from first"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "connecting two identical comparatives, to emphasize a progressive change"
+                      ],
+                      "examples": [
+                        {
+                          "text": "getting better and better"
+                        }
+                      ],
+                      "id": "m_en_gbus0031920.019",
+                      "short_definitions": [
+                        "connecting two identical comparatives, to emphasize progressive change"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "connecting two identical words, implying great duration or great extent"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I cried and cried"
+                        }
+                      ],
+                      "id": "m_en_gbus0031920.020",
+                      "short_definitions": [
+                        "connecting two identical words, implying great duration"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "used to connect two identical words to indicate that things of the same name or class have different qualities"
+                      ],
+                      "examples": [
+                        {
+                          "text": "all human conduct is determined or caused\u2014but there are causes and causes"
+                        }
+                      ],
+                      "id": "m_en_gbus0031920.021",
+                      "short_definitions": [
+                        "used to connect two identical words to indicate that things of same name or class have different qualities"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "used to connect two numbers to indicate that they are being added together"
+                      ],
+                      "examples": [
+                        {
+                          "text": "six and four makes ten"
+                        }
+                      ],
+                      "id": "m_en_gbus0031920.022",
+                      "short_definitions": [
+                        "used to connect two numbers to indicate that they are being added together"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "plus",
+                          "sense_id": "t_en_gb0011223.001"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "used to connect two numbers, implying succession"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a line of men marching two and two"
+                        }
+                      ],
+                      "id": "m_en_gbus0031920.023",
+                      "registers": [
+                        "archaic"
+                      ],
+                      "short_definitions": [
+                        "used to connect two numbers, implying succession"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "and",
+                      "sense_id": "t_en_gb0000578.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used to introduce an additional comment or interjection"
+                  ],
+                  "examples": [
+                    {
+                      "text": "if it came to a choice\u2014and this was the worst thing\u2014she would turn her back on her parents"
+                    }
+                  ],
+                  "id": "m_en_gbus0031920.025",
+                  "short_definitions": [
+                    "used to introduce additional comment or interjection"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "used to introduce a question in connection with what someone else has just said"
+                      ],
+                      "examples": [
+                        {
+                          "text": "\u2018I found the letter in her bag.\u2019 \u2018And did you steam it open?\u2019"
+                        }
+                      ],
+                      "id": "m_en_gbus0031920.026",
+                      "short_definitions": [
+                        "used to introduce question in connection with what someone else has just said"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "used to introduce a statement about a new topic"
+                      ],
+                      "examples": [
+                        {
+                          "text": "and now to the dessert"
+                        }
+                      ],
+                      "id": "m_en_gbus0031920.027",
+                      "short_definitions": [
+                        "used to introduce statement about new topic"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "plus",
+                      "sense_id": "t_en_gb0011223.002"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used after some verbs and before another verb to indicate intention, instead of \u2018to\u2019"
+                  ],
+                  "examples": [
+                    {
+                      "text": "I would try and do what he said"
+                    }
+                  ],
+                  "id": "m_en_gbus0031920.029",
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "used after some verbs and before another verb to indicate intention, instead of 'to'"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Conjunction",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/and_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0259nd"
+            },
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/and_1_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "and"
+            },
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/and_gb_3.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "(\u0259)n"
+            }
+          ],
+          "text": "and"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "001",
+              "notes": [
+                {
+                  "text": "It is still widely taught and believed that conjunctions such as and (and also but and because) should not be used to start a sentence, the argument being that a sentence starting with and expresses an incomplete thought and is therefore incorrect. Writers down the centuries have readily ignored this advice, however, using and to start a sentence, typically for rhetorical effect, as in the following example: What are the government's chances of winning in court? And what are the consequences? A small number of verbs, notably try, come, and go can be followed by and with another verb, as in sentences like we're going to try and explain it to them or why don't you come and see the film? The structures in these verbs correspond to the use of the infinitive to, as in we're going to try to explain it to them or why don't you come to see the film? Since these structures are grammatically odd\u2014for example, the use is normally only idiomatic with the infinitive of the verb and not with other forms (i.e. it is not possible to say I tried and explained it to them)\u2014they are regarded as wrong by some traditionalists. However, these uses are extremely common and can certainly be regarded as part of standard English. For information about whether it is more correct to say both the boys and the girls or both the boys and girls, see both",
+                  "type": "editorialNote"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "a Boolean operator which gives the value one if and only if all the operands are one, and otherwise has a value of zero."
+                  ],
+                  "domains": [
+                    "Computing"
+                  ],
+                  "id": "m_en_gbus0031920.032",
+                  "short_definitions": [
+                    "Boolean operator which gives value one if and only if all operands are one, and otherwise has value of zero"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a circuit which produces an output signal only when signals are received simultaneously through all input connections."
+                      ],
+                      "domains": [
+                        "Electronics"
+                      ],
+                      "id": "m_en_gbus0031920.038",
+                      "short_definitions": [
+                        "circuit which produces output signal only when signals are received simultaneously through all input connections"
+                      ],
+                      "variantForms": [
+                        {
+                          "text": "AND gate"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "variantForms": [
+                {
+                  "text": "AND"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/and_1_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "and"
+            },
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/and_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0259nd"
+            },
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/and_gb_3.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "(\u0259)n"
+            }
+          ],
+          "text": "and"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Abbreviation",
+                  "type": "Residual"
+                }
+              ],
+              "homographNumber": "002",
+              "senses": [
+                {
+                  "definitions": [
+                    "Andorra (international vehicle registration)."
+                  ],
+                  "domains": [
+                    "Motoring"
+                  ],
+                  "id": "m_en_gbus0031930.002",
+                  "short_definitions": [
+                    "Andorra"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Residual",
+          "text": "AND"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    ""
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "and",
+                      "text": "and",
+                      "type": "see also"
+                    }
+                  ],
+                  "id": "m_en_gbus0031920.013"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gave_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261e\u026av"
+            }
+          ]
+        }
+      ],
+      "type": "headword",
+      "word": "and"
+    }
+  ]
+}

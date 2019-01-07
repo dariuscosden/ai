@@ -1,0 +1,288 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "road",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "derivatives": [
+            {
+              "id": "roadless",
+              "text": "roadless"
+            }
+          ],
+          "entries": [
+            {
+              "etymologies": [
+                "Old English r\u0101d \u2018journey on horseback\u2019, \u2018foray\u2019; of Germanic origin; related to the verb ride"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "a wide way leading from one place to another, especially one with a specially prepared surface which vehicles can use"
+                  ],
+                  "domains": [
+                    "Roads"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a country road"
+                    },
+                    {
+                      "text": "the shipment of freight by road"
+                    },
+                    {
+                      "text": "a road accident"
+                    },
+                    {
+                      "text": "they live at 15 Park Road"
+                    }
+                  ],
+                  "id": "m_en_gbus0876770.006",
+                  "short_definitions": [
+                    "wide way leading from one place to another"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "the part of a road intended for vehicles, especially in contrast to a verge or pavement"
+                      ],
+                      "domains": [
+                        "Roads"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Clara had to walk in the road to avoid black plastic rubbish sacks"
+                        }
+                      ],
+                      "id": "m_en_gbus0876770.009",
+                      "short_definitions": [
+                        "part of road intended for vehicles"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a regular trade route for a particular commodity"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the Silk Road across Asia to the West"
+                        }
+                      ],
+                      "id": "m_en_gbus0876770.011",
+                      "notes": [
+                        {
+                          "text": "with modifier",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "registers": [
+                        "historical"
+                      ],
+                      "short_definitions": [
+                        "regular trade route for particular commodity"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "an underground passage or gallery in a mine"
+                      ],
+                      "domains": [
+                        "Mining"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he had to work in a road about six feet wide"
+                        }
+                      ],
+                      "id": "m_en_gbus0876770.012",
+                      "short_definitions": [
+                        "underground passage or gallery in mine"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a railroad."
+                      ],
+                      "domains": [
+                        "Railways"
+                      ],
+                      "id": "m_en_gbus0876770.013",
+                      "regions": [
+                        "North American"
+                      ],
+                      "short_definitions": [
+                        "railroad"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a railway track, especially as clear (or otherwise) for a train to proceed"
+                      ],
+                      "domains": [
+                        "Railways"
+                      ],
+                      "examples": [
+                        {
+                          "text": "they waited for a clear road at Hellifield Junction"
+                        }
+                      ],
+                      "id": "m_en_gbus0876770.014",
+                      "regions": [
+                        "British"
+                      ],
+                      "short_definitions": [
+                        "railway track"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "road",
+                      "sense_id": "t_en_gb0012681.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a series of events or a course of action that will lead to a particular outcome"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he's well on the road to recovery"
+                    }
+                  ],
+                  "id": "m_en_gbus0876770.016",
+                  "short_definitions": [
+                    "series of events or course of action that will lead to particular outcome"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a particular course or direction taken or followed"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the low road of apathy and alienation"
+                        }
+                      ],
+                      "id": "m_en_gbus0876770.017",
+                      "short_definitions": [
+                        "particular course or direction taken or followed"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "road",
+                          "sense_id": "t_en_gb0012681.002"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "crossReferences": [
+                    {
+                      "id": "roadstead",
+                      "text": "roadstead",
+                      "type": "another term for"
+                    }
+                  ],
+                  "definitions": [
+                    "a partly sheltered stretch of water near the shore in which ships can ride at anchor"
+                  ],
+                  "domains": [
+                    "Nautical"
+                  ],
+                  "examples": [
+                    {
+                      "text": "Boston Roads"
+                    }
+                  ],
+                  "id": "m_en_gbus0876770.019",
+                  "notes": [
+                    {
+                      "text": "often in place names",
+                      "type": "grammaticalNote"
+                    },
+                    {
+                      "text": "usually \"roads\"",
+                      "type": "wordFormNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "partly sheltered stretch of water near shore in which ships can ride at anchor"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "haven",
+                      "sense_id": "t_en_gb0006819.001"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/road_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "r\u0259\u028ad"
+            }
+          ],
+          "text": "road"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    ""
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "road",
+                      "text": "road",
+                      "type": "see also"
+                    }
+                  ],
+                  "id": "m_en_gbus0876770.006"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gave_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261e\u026av"
+            }
+          ]
+        }
+      ],
+      "type": "headword",
+      "word": "road"
+    }
+  ]
+}

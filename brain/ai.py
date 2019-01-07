@@ -1,8 +1,9 @@
 from flask import current_app as app
 from flask import Response, request
 import json, os
-from .actions.memory import memory
 from .actions.input import input
+from .actions.memory import memory
+from .actions.compute import compute
 
 # directories
 current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -21,13 +22,14 @@ def listen():
     # sanitizes the input
     user_input = input.sanitize_input(user_input)
 
-    # converts to words
+    # converts string to word list
     words = input.return_words_from_input(user_input)
 
-    # gets word data and creates a file
+    # gets word data and creates a file for each word
     for index, word in enumerate(words):
         memory.save_word_to_memory(word, words_dir)
 
-    print(words)
+    # computes the word tree
+    subject, predicate = compute.compute_word_tree(words, words_dir)
 
     return Response(status=200)

@@ -1,0 +1,760 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "house",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "derivatives": [
+            {
+              "id": "houseful",
+              "text": "houseful"
+            },
+            {
+              "id": "houseless",
+              "text": "houseless"
+            }
+          ],
+          "entries": [
+            {
+              "etymologies": [
+                "Old English h\u016bs (noun), h\u016bsian (verb), of Germanic origin; related to Dutch huis, German Haus (nouns), and Dutch huizen, German hausen (verbs)"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "a building for human habitation, especially one that consists of a ground floor and one or more upper storeys"
+                  ],
+                  "examples": [
+                    {
+                      "text": "house prices"
+                    },
+                    {
+                      "text": "a house of Cotswold stone"
+                    }
+                  ],
+                  "id": "m_en_gbus0481790.010",
+                  "short_definitions": [
+                    "building for human habitation"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "the people living in a house; a household"
+                      ],
+                      "examples": [
+                        {
+                          "text": "make yourself scarce before you wake the whole house"
+                        }
+                      ],
+                      "id": "m_en_gbus0481790.013",
+                      "short_definitions": [
+                        "people living in house"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "house",
+                          "sense_id": "t_en_gb0007161.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a noble, royal, or wealthy family or lineage; a dynasty"
+                      ],
+                      "domains": [
+                        "Royalty"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the power and prestige of the House of Stewart"
+                        }
+                      ],
+                      "id": "m_en_gbus0481790.014",
+                      "short_definitions": [
+                        "noble family"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "house",
+                          "sense_id": "t_en_gb0007161.003"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a dwelling that is one of several in a building."
+                      ],
+                      "id": "m_en_gbus0481790.016",
+                      "regions": [
+                        "Scottish"
+                      ],
+                      "short_definitions": [
+                        "dwelling within building"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a building in which animals live or in which things are kept"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a hen house"
+                        }
+                      ],
+                      "id": "m_en_gbus0481790.017",
+                      "notes": [
+                        {
+                          "text": "with modifier",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "building where animals live"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "house",
+                      "sense_id": "t_en_gb0007161.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a building in which people meet for a particular activity"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a house of prayer"
+                    }
+                  ],
+                  "id": "m_en_gbus0481790.019",
+                  "short_definitions": [
+                    "building for particular activity"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a firm or institution"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a publishing house"
+                        }
+                      ],
+                      "id": "m_en_gbus0481790.020",
+                      "short_definitions": [
+                        "firm or institution"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "house",
+                          "sense_id": "t_en_gb0007161.004"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "the Stock Exchange."
+                      ],
+                      "domains": [
+                        "Stock Exchange"
+                      ],
+                      "id": "m_en_gbus0481790.021",
+                      "notes": [
+                        {
+                          "text": "\"the House\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "regions": [
+                        "British"
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "Stock Exchange"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a restaurant or inn"
+                      ],
+                      "domains": [
+                        "Restaurants"
+                      ],
+                      "examples": [
+                        {
+                          "text": "help yourself to a drink, compliments of the house!"
+                        },
+                        {
+                          "text": "a carafe of house wine"
+                        }
+                      ],
+                      "id": "m_en_gbus0481790.026",
+                      "short_definitions": [
+                        "restaurant or inn"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "house",
+                          "sense_id": "t_en_gb0007161.007"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a brothel."
+                      ],
+                      "domains": [
+                        "Sex"
+                      ],
+                      "id": "m_en_gbus0481790.029",
+                      "registers": [
+                        "dated"
+                      ],
+                      "short_definitions": [
+                        "brothel"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "bordello",
+                          "sense_id": "t_en_gb0001626.001"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a theatre"
+                      ],
+                      "domains": [
+                        "Theatre"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a hundred musicians performed in front of a full house"
+                        }
+                      ],
+                      "id": "m_en_gbus0481790.030",
+                      "short_definitions": [
+                        "theatre"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "house",
+                          "sense_id": "t_en_gb0007161.006"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a performance in a theatre or cinema"
+                      ],
+                      "domains": [
+                        "Theatre"
+                      ],
+                      "examples": [
+                        {
+                          "text": "tickets for the first house"
+                        }
+                      ],
+                      "id": "m_en_gbus0481790.031",
+                      "regions": [
+                        "British"
+                      ],
+                      "short_definitions": [
+                        "theatre or cinema performance"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "performance",
+                          "sense_id": "t_en_gb0010901.001"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a religious community that occupies a particular building"
+                  ],
+                  "domains": [
+                    "Religion"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the Cistercian house at Clairvaux"
+                    }
+                  ],
+                  "id": "m_en_gbus0481790.033",
+                  "short_definitions": [
+                    "religious community"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a residential building for pupils at a boarding school"
+                      ],
+                      "domains": [
+                        "Education"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a house of 45 boarders"
+                        },
+                        {
+                          "text": "a house prefect"
+                        }
+                      ],
+                      "id": "m_en_gbus0481790.034",
+                      "short_definitions": [
+                        "residential building at boarding school"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "each of a number of groups into which pupils at a day school are divided for games or competition."
+                      ],
+                      "domains": [
+                        "Education"
+                      ],
+                      "id": "m_en_gbus0481790.035",
+                      "regions": [
+                        "British"
+                      ],
+                      "short_definitions": [
+                        "division of school pupils"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a college of a university."
+                      ],
+                      "domains": [
+                        "University"
+                      ],
+                      "id": "m_en_gbus0481790.036",
+                      "regions": [
+                        "British"
+                      ],
+                      "registers": [
+                        "formal"
+                      ],
+                      "short_definitions": [
+                        "university college"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a legislative or deliberative assembly"
+                  ],
+                  "domains": [
+                    "Parliament"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the sixty-member National Council, the country's upper house"
+                    }
+                  ],
+                  "id": "m_en_gbus0481790.041",
+                  "short_definitions": [
+                    "legislative or deliberative assembly"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "(in the UK) the House of Commons or Lords; (in the US) the House of Representatives"
+                      ],
+                      "domains": [
+                        "Parliament"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the government commanded an overall majority in the House"
+                        }
+                      ],
+                      "id": "m_en_gbus0481790.042",
+                      "notes": [
+                        {
+                          "text": "\"the House\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "House of Commons or Lords"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "used in formal debates that mimic the procedures of a legislative assembly"
+                      ],
+                      "domains": [
+                        "Politics"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a debate on the motion \u2018This house would legalize cannabis\u2019"
+                        }
+                      ],
+                      "id": "m_en_gbus0481790.044",
+                      "short_definitions": [
+                        "used in debates"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "house",
+                          "sense_id": "t_en_gb0007161.006"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "house",
+                      "sense_id": "t_en_gb0007161.005"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a style of electronic dance music typically having sparse, repetitive vocals and a fast beat"
+                  ],
+                  "domains": [
+                    "Popular Music"
+                  ],
+                  "examples": [
+                    {
+                      "text": "DJs specializing in techno, garage, and house"
+                    }
+                  ],
+                  "id": "m_en_gbus0481790.046",
+                  "notes": [
+                    {
+                      "text": "mass noun",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "dance music"
+                  ],
+                  "variantForms": [
+                    {
+                      "text": "house music"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a twelfth division of the celestial sphere, based on the positions of the ascendant and midheaven at a given time and place, and determined by any of a number of methods."
+                  ],
+                  "domains": [
+                    "Astrology"
+                  ],
+                  "id": "m_en_gbus0481790.049",
+                  "short_definitions": [
+                    "twelfth division of celestial sphere"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a twelfth division of the celestial sphere represented as a sector on an astrological chart, used in allocating elements of character and circumstance to different spheres of human life."
+                      ],
+                      "domains": [
+                        "Astrology"
+                      ],
+                      "id": "m_en_gbus0481790.050",
+                      "short_definitions": [
+                        "sector on astrological chart"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "crossReferenceMarkers": [
+                    "old-fashioned term for bingo"
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "bingo",
+                      "text": "bingo",
+                      "type": "another term for"
+                    }
+                  ],
+                  "id": "m_en_gbus0481790.052",
+                  "notes": [
+                    {
+                      "text": "mass noun",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "regions": [
+                    "British"
+                  ],
+                  "short_definitions": [
+                    "bingo"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "used by a bingo player to announce that they have won."
+                      ],
+                      "domains": [
+                        "Games"
+                      ],
+                      "id": "m_en_gbus0481790.053",
+                      "notes": [
+                        {
+                          "text": "as exclamation",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "bingo player's exclamation"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/house_gb_4.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "ha\u028as"
+            }
+          ],
+          "text": "house"
+        },
+        {
+          "derivatives": [
+            {
+              "id": "houseful",
+              "text": "houseful"
+            },
+            {
+              "id": "houseless",
+              "text": "houseless"
+            }
+          ],
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "(of an animal or plant) kept in, frequenting, or infesting buildings."
+                  ],
+                  "id": "m_en_gbus0481790.060",
+                  "notes": [
+                    {
+                      "text": "attributive",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "kept in or frequenting buildings"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "relating to a firm, institution, or society"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a house journal"
+                    }
+                  ],
+                  "id": "m_en_gbus0481790.063",
+                  "notes": [
+                    {
+                      "text": "attributive",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "relating to firm or institution"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "(of a band or group) resident or regularly performing in a club or other venue"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the house band"
+                        }
+                      ],
+                      "id": "m_en_gbus0481790.064",
+                      "short_definitions": [
+                        "(of band) resident at venue"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adjective",
+          "text": "house"
+        },
+        {
+          "derivatives": [
+            {
+              "id": "houseless",
+              "text": "houseless"
+            },
+            {
+              "id": "houseful",
+              "text": "houseful"
+            }
+          ],
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Transitive",
+                  "type": "Subcategorization"
+                },
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "002",
+              "senses": [
+                {
+                  "definitions": [
+                    "provide with shelter or accommodation"
+                  ],
+                  "examples": [
+                    {
+                      "text": "they converted a disused cinema to house twelve employees"
+                    }
+                  ],
+                  "id": "m_en_gbus0481790.074",
+                  "short_definitions": [
+                    "provide with shelter or accommodation"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "house",
+                      "sense_id": "t_en_gb0007161.009"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "provide space for; contain or accommodate"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the museum houses a collection of Roman sculpture"
+                    }
+                  ],
+                  "id": "m_en_gbus0481790.081",
+                  "short_definitions": [
+                    "provide space for"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "fix (something) in a socket or mortise."
+                      ],
+                      "id": "m_en_gbus0481790.083",
+                      "short_definitions": [
+                        "fix in socket or mortise"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "house",
+                      "sense_id": "t_en_gb0007161.010"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/house_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "ha\u028az"
+            }
+          ],
+          "text": "house"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    ""
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "house",
+                      "text": "house",
+                      "type": "see also"
+                    }
+                  ],
+                  "id": "m_en_gbus0481790.010"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gave_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261e\u026av"
+            }
+          ]
+        }
+      ],
+      "type": "headword",
+      "word": "house"
+    }
+  ]
+}

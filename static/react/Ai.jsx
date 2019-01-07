@@ -37,7 +37,7 @@ class Ai extends React.Component {
             <img className="mainAiImage" src="../../dist/img/ai.svg" />
           </div>
           <form onSubmit={this.submitInput}>
-            <input id="input" type="text" className="w100 m25b-s" />
+            <textarea id="input" className="w100 m25b-s" />
             <input type="submit" value="submit" />
           </form>
         </div>

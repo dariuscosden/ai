@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "really",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "in actual fact, as opposed to what is said or imagined to be true or possible"
+                  ],
+                  "examples": [
+                    {
+                      "text": "so what really happened?"
+                    },
+                    {
+                      "text": "they're not really my aunt and uncle"
+                    },
+                    {
+                      "text": "really, there are only three options"
+                    }
+                  ],
+                  "id": "m_en_gbus0849140.006",
+                  "short_definitions": [
+                    "as opposed to what is said or imagined to be true or possible"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "used to emphasize a statement or opinion"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I'm sorry, Ruth, I really am"
+                        },
+                        {
+                          "text": "I really want to go"
+                        }
+                      ],
+                      "id": "m_en_gbus0849140.008",
+                      "short_definitions": [
+                        "used to emphasize statement or opinion"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "really",
+                          "sense_id": "t_en_gb0012140.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "seriously (used in questions and exclamations with an implied negative answer)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "do you really expect me to believe that?"
+                        }
+                      ],
+                      "id": "m_en_gbus0849140.009",
+                      "short_definitions": [
+                        "seriously"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "sincerely",
+                          "sense_id": "t_en_gb0013502.001"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "really",
+                      "sense_id": "t_en_gb0012140.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "very; thoroughly"
+                  ],
+                  "examples": [
+                    {
+                      "text": "I think she's really great"
+                    },
+                    {
+                      "text": "a really cold day"
+                    }
+                  ],
+                  "id": "m_en_gbus0849140.011",
+                  "notes": [
+                    {
+                      "text": "as submodifier",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "very"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "really",
+                      "sense_id": "t_en_gb0012140.002"
+                    },
+                    {
+                      "entry_id": "really",
+                      "sense_id": "t_en_gb0012140.003"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adverb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/really_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u02c8r\u026a\u0259li"
+            }
+          ],
+          "text": "really"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "used to express interest, surprise, or doubt"
+                  ],
+                  "examples": [
+                    {
+                      "text": "\u2018I've been working hard.\u2019 \u2018Really?\u2019"
+                    }
+                  ],
+                  "id": "m_en_gbus0849140.015",
+                  "short_definitions": [
+                    "used to express interest or doubt"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "used to express mild protest"
+                      ],
+                      "examples": [
+                        {
+                          "text": "really, Marjorie, you do jump to conclusions!"
+                        }
+                      ],
+                      "id": "m_en_gbus0849140.017",
+                      "short_definitions": [
+                        "used to express mild protest"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "used to express agreement"
+                      ],
+                      "examples": [
+                        {
+                          "text": "\u2018It's a nightmare finding somewhere to live in this town.\u2019 \u2018Yeah, really.\u2019"
+                        }
+                      ],
+                      "id": "m_en_gbus0849140.018",
+                      "regions": [
+                        "US"
+                      ],
+                      "short_definitions": [
+                        "used to express agreement"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "really",
+                      "sense_id": "t_en_gb0012140.005"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Interjection",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/really_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u02c8r\u026a\u0259li"
+            }
+          ],
+          "text": "really"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    ""
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "really",
+                      "text": "really",
+                      "type": "see also"
+                    }
+                  ],
+                  "id": "m_en_gbus0849140.006"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gave_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261e\u026av"
+            }
+          ]
+        }
+      ],
+      "type": "headword",
+      "word": "really"
+    }
+  ]
+}

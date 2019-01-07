@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "who",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English hw\u0101, of Germanic origin; related to Dutch wie and German wer"
+              ],
+              "homographNumber": "000",
+              "notes": [
+                {
+                  "text": "On the use of who and that in relative clauses see that",
+                  "type": "editorialNote"
+                },
+                {
+                  "text": "A continuing debate in English usage is the question of when to use who and when to use whom. According to formal grammar, who forms the subjective case and so should be used in subject position in a sentence, as in who decided this? The form whom, on the other hand, forms the objective case and so should be used in object position in a sentence, as in whom do you think we should support?; to whom do you wish to speak? Although there are some speakers who still use who and whom according to the rules of formal grammar as stated here, there are many more who rarely use whom at all; its use has retreated steadily and is now largely restricted to formal contexts. The normal practice in modern English is to use who instead of whom (and, where applicable, to put the preposition at the end of the sentence): who do you wish to speak to?; who do you think we should support? Such uses are today broadly accepted in standard English.",
+                  "type": "editorialNote"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "what or which person or people"
+                  ],
+                  "examples": [
+                    {
+                      "text": "I wonder who that letter was from"
+                    },
+                    {
+                      "text": "who is that woman?"
+                    }
+                  ],
+                  "id": "m_en_gbus1156600.007",
+                  "notes": [
+                    {
+                      "text": "interrogative pronoun",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "what or which person or people"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used to introduce a clause giving further information about a person or people previously mentioned"
+                  ],
+                  "examples": [
+                    {
+                      "text": "Joan Fontaine plays the mouse who married the playboy"
+                    }
+                  ],
+                  "id": "m_en_gbus1156600.011",
+                  "notes": [
+                    {
+                      "text": "relative pronoun",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "used to introduce clause giving further information about person"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "the person that; whoever"
+                      ],
+                      "examples": [
+                        {
+                          "text": "who holds the sea, perforce doth hold the land"
+                        }
+                      ],
+                      "id": "m_en_gbus1156600.012",
+                      "registers": [
+                        "archaic"
+                      ],
+                      "short_definitions": [
+                        "person that"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Pronoun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/who_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "hu\u02d0"
+            },
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/who_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "h\u028a"
+            }
+          ],
+          "text": "who"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Abbreviation",
+                  "type": "Residual"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "World Health Organization."
+                  ],
+                  "id": "m_en_gbus1156620.003",
+                  "short_definitions": [
+                    "World Health Organization"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Residual",
+          "text": "WHO"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    ""
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "who",
+                      "text": "who",
+                      "type": "see also"
+                    }
+                  ],
+                  "id": "m_en_gbus1156600.007"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gave_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261e\u026av"
+            }
+          ]
+        }
+      ],
+      "type": "headword",
+      "word": "who"
+    }
+  ]
+}

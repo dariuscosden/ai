@@ -1,3 +1,7 @@
+import re
+from ..memory import known_words
+
+
 # sanitizes the string before passing it on
 def sanitize_input(string):
 
@@ -13,26 +17,28 @@ def sanitize_input(string):
 
 # returns words from string
 def return_words_from_input(input):
-    string_words = input.split(" ")
     words = []
     question = False
     exclamation = False
 
-    # handles '?' and '!'
-    for word in string_words:
-        if "?" in word:
-            word = word.replace('?', '')
-            question = True
-        if "!" in word:
-            word = word.replace('!', '')
-            exclamation = True
-        words.append('_' + word)
+    # starts building the words list
+    string_words = re.split('(\W+)', input)
 
-    # checks for question mark
-    if question:
-        words.append('?')
-    if exclamation:
-        words.append('!')
+    # iterates through each item in the list
+    for word_index, word in enumerate(string_words):
+
+        # removes any empty spaces
+        if word == ' ' or word == '':
+            continue
+
+        # removes any extra space
+        word = word.strip(' ')
+
+        # appends to the words list
+        if word in known_words.punctuation_symbols:
+            words.append(word)
+        else:
+            words.append('_' + word)
 
     print('I generated the following words list: {}\n'.format(words))
 

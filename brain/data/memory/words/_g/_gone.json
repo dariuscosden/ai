@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "gone",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Past",
+                  "type": "Tense"
+                },
+                {
+                  "text": "Past Participle",
+                  "type": "Non Finiteness"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    "past participle of go"
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "go",
+                      "text": "go",
+                      "type": "see also"
+                    }
+                  ],
+                  "id": "m_en_gbus0422630.005",
+                  "short_definitions": [
+                    "past participle of go"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gone_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261\u0252n"
+            }
+          ],
+          "text": "gone"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "no longer present; departed"
+                  ],
+                  "examples": [
+                    {
+                      "text": "you were gone a long time"
+                    },
+                    {
+                      "text": "the bad old days are gone"
+                    }
+                  ],
+                  "id": "m_en_gbus0422630.008",
+                  "notes": [
+                    {
+                      "text": "predicative",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "no longer present"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "no longer in existence; dead or extinct"
+                      ],
+                      "examples": [
+                        {
+                          "text": "an aunt of mine, long since gone"
+                        }
+                      ],
+                      "id": "m_en_gbus0422630.010",
+                      "short_definitions": [
+                        "no longer in existence"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "gone",
+                          "sense_id": "t_en_gb0006428.004"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "no longer available; consumed or used up"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the food's all gone, I'm afraid"
+                        }
+                      ],
+                      "id": "m_en_gbus0422630.011",
+                      "short_definitions": [
+                        "consumed or used up"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "gone",
+                          "sense_id": "t_en_gb0006428.003"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "in a trance or stupor, especially through exhaustion, drink, or drugs"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she sat, half-gone, on a folding chair"
+                        }
+                      ],
+                      "id": "m_en_gbus0422630.012",
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "in trance or stupor"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "beyond help; in a hopeless state"
+                      ],
+                      "examples": [
+                        {
+                          "text": "spending time and effort on a gone sucker like Galindez"
+                        }
+                      ],
+                      "id": "m_en_gbus0422630.013",
+                      "notes": [
+                        {
+                          "text": "attributive",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "regions": [
+                        "US"
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "in a hopeless state"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "gone",
+                          "sense_id": "t_en_gb0006428.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "excellent; inspired"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a bunch of real gone cats"
+                        }
+                      ],
+                      "id": "m_en_gbus0422630.014",
+                      "regions": [
+                        "US"
+                      ],
+                      "registers": [
+                        "dated",
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "excellent"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "gone",
+                      "sense_id": "t_en_gb0006428.001"
+                    },
+                    {
+                      "entry_id": "gone",
+                      "sense_id": "t_en_gb0006428.002"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "having reached a specified time in a pregnancy"
+                  ],
+                  "examples": [
+                    {
+                      "text": "she is now four months gone"
+                    }
+                  ],
+                  "id": "m_en_gbus0422630.016",
+                  "notes": [
+                    {
+                      "text": "predicative",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "having reached specified time in pregnancy"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adjective",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gone_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261\u0252n"
+            }
+          ],
+          "text": "gone"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "002",
+              "senses": [
+                {
+                  "definitions": [
+                    "(of time) past"
+                  ],
+                  "domains": [
+                    "Hunting"
+                  ],
+                  "examples": [
+                    {
+                      "text": "it's gone half past eleven"
+                    }
+                  ],
+                  "id": "m_en_gbus0422630.018",
+                  "regions": [
+                    "British"
+                  ],
+                  "short_definitions": [
+                    "(of time) past"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "(of age) older than"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she was gone sixty by then"
+                        }
+                      ],
+                      "id": "m_en_gbus0422630.020",
+                      "short_definitions": [
+                        "(of age) older than"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Preposition",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gone_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261\u0252n"
+            }
+          ],
+          "text": "gone"
+        }
+      ],
+      "type": "headword",
+      "word": "gone"
+    }
+  ]
+}

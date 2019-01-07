@@ -13,4 +13,4 @@ auxilliary_verbs = [
 ]
 
 # punctuation words
-punctuation_words = ['?', '!']
+punctuation_symbols = [',', '.', ';', '!', '?']

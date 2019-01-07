@@ -1,0 +1,531 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "dead",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "derivatives": [
+            {
+              "id": "deadness",
+              "text": "deadness"
+            }
+          ],
+          "entries": [
+            {
+              "etymologies": [
+                "Old English d\u0113ad, of Germanic origin: related to Dutch dood and German tot, also to die"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "no longer alive"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a dead body"
+                    },
+                    {
+                      "text": "there was no time to bury the dead with decency"
+                    },
+                    {
+                      "text": "he was shot dead by a sniper"
+                    }
+                  ],
+                  "id": "m_en_gbus0253630.006",
+                  "short_definitions": [
+                    "no longer alive"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "(of a part of the body) having lost sensation; numb"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I severed nerves in my leg so part of my foot is dead"
+                        }
+                      ],
+                      "id": "m_en_gbus0253630.008",
+                      "short_definitions": [
+                        "numb"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "dead",
+                          "sense_id": "t_en_gb0003441.005"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "lacking emotion, sympathy, or sensitivity"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a cold, dead voice"
+                        }
+                      ],
+                      "id": "m_en_gbus0253630.012",
+                      "short_definitions": [
+                        "lacking emotion etc."
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "dead",
+                          "sense_id": "t_en_gb0003441.006"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "no longer current, relevant, or important"
+                      ],
+                      "examples": [
+                        {
+                          "text": "pollution had become a dead issue"
+                        }
+                      ],
+                      "id": "m_en_gbus0253630.013",
+                      "short_definitions": [
+                        "no longer current"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "devoid of living things"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a dead planet"
+                        }
+                      ],
+                      "id": "m_en_gbus0253630.014",
+                      "short_definitions": [
+                        "without living things"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "dead",
+                          "sense_id": "t_en_gb0003441.007"
+                        },
+                        {
+                          "entry_id": "dead",
+                          "sense_id": "t_en_gb0003441.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of a place or time) characterized by a lack of activity or excitement"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Brussels isn't dead after dark, if you know where to look"
+                        }
+                      ],
+                      "id": "m_en_gbus0253630.016",
+                      "short_definitions": [
+                        "unexciting"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "dead",
+                          "sense_id": "t_en_gb0003441.008"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of money) not financially productive"
+                      ],
+                      "examples": [
+                        {
+                          "text": "far from being dead money, it is available to be spent or invested"
+                        }
+                      ],
+                      "id": "m_en_gbus0253630.017",
+                      "short_definitions": [
+                        "(of money) not productive"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of sound) without resonance; dull"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the earth hit the coffin with a peculiarly dead sound"
+                        }
+                      ],
+                      "id": "m_en_gbus0253630.018",
+                      "short_definitions": [
+                        "without resonance"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of a colour) not glossy or bright"
+                      ],
+                      "examples": [
+                        {
+                          "text": "higher up, the marble becomes of a dull, dead colour"
+                        }
+                      ],
+                      "id": "m_en_gbus0253630.019",
+                      "short_definitions": [
+                        "(of colour) dull"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of a piece of equipment) no longer functioning"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the phone had gone dead"
+                        }
+                      ],
+                      "id": "m_en_gbus0253630.020",
+                      "short_definitions": [
+                        "not functioning"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "dead",
+                          "sense_id": "t_en_gb0003441.004"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of an electric circuit or conductor) carrying or transmitting no current"
+                      ],
+                      "domains": [
+                        "Electrical"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the batteries are dead"
+                        }
+                      ],
+                      "id": "m_en_gbus0253630.021",
+                      "short_definitions": [
+                        "carrying no electric current"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "no longer alight"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the fire had been dead for some days"
+                        }
+                      ],
+                      "id": "m_en_gbus0253630.022",
+                      "short_definitions": [
+                        "not alight"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of a glass or bottle) empty or no longer being used"
+                      ],
+                      "examples": [
+                        {
+                          "text": "they got all the dead glasses and put them on the table"
+                        }
+                      ],
+                      "id": "m_en_gbus0253630.024",
+                      "short_definitions": [
+                        "(of bottle etc.) empty"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "dead",
+                          "sense_id": "t_en_gb0003441.002"
+                        }
+                      ]
+                    },
+                    {
+                      "crossReferenceMarkers": [
+                        "See also dead ball"
+                      ],
+                      "crossReferences": [
+                        {
+                          "id": "dead_ball",
+                          "text": "dead ball",
+                          "type": "see also"
+                        },
+                        {
+                          "id": "dead_ball",
+                          "text": "dead ball",
+                          "type": "see also"
+                        }
+                      ],
+                      "definitions": [
+                        "(of the ball in a game) out of play"
+                      ],
+                      "domains": [
+                        "Sport"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the ball had gone dead"
+                        }
+                      ],
+                      "id": "m_en_gbus0253630.025",
+                      "short_definitions": [
+                        "(of ball) out of play"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(of a cricket pitch or other surface) lacking springiness or bounce"
+                      ],
+                      "domains": [
+                        "Cricket"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the pitch was so utterly dead that Pollock could hardly get the ball bail-high"
+                        }
+                      ],
+                      "id": "m_en_gbus0253630.026",
+                      "short_definitions": [
+                        "(of cricket pitch) lacking bounce"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "dead",
+                      "sense_id": "t_en_gb0003441.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "complete; absolute"
+                  ],
+                  "examples": [
+                    {
+                      "text": "we sat in dead silence"
+                    }
+                  ],
+                  "id": "m_en_gbus0253630.028",
+                  "notes": [
+                    {
+                      "text": "attributive",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "complete"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "dead",
+                      "sense_id": "t_en_gb0003441.009"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adjective",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/dead_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "d\u025bd"
+            }
+          ],
+          "text": "dead"
+        },
+        {
+          "derivatives": [
+            {
+              "id": "deadness",
+              "text": "deadness"
+            }
+          ],
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "absolutely; completely"
+                  ],
+                  "examples": [
+                    {
+                      "text": "you're dead right"
+                    },
+                    {
+                      "text": "he was dead against the idea"
+                    }
+                  ],
+                  "id": "m_en_gbus0253630.030",
+                  "notes": [
+                    {
+                      "text": "often as submodifier",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "completely"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "exactly"
+                      ],
+                      "examples": [
+                        {
+                          "text": "they arrived dead on time"
+                        }
+                      ],
+                      "id": "m_en_gbus0253630.032",
+                      "short_definitions": [
+                        "exactly"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "prompt",
+                          "sense_id": "t_en_gb0011703.005"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "straight; directly"
+                      ],
+                      "examples": [
+                        {
+                          "text": "red flares were seen dead ahead"
+                        }
+                      ],
+                      "id": "m_en_gbus0253630.033",
+                      "short_definitions": [
+                        "directly"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "dead",
+                          "sense_id": "t_en_gb0003441.012"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "very"
+                      ],
+                      "examples": [
+                        {
+                          "text": "omelettes are dead easy to prepare"
+                        }
+                      ],
+                      "id": "m_en_gbus0253630.034",
+                      "regions": [
+                        "British"
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "very"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "dead",
+                          "sense_id": "t_en_gb0003441.013"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "dead",
+                      "sense_id": "t_en_gb0003441.011"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adverb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/dead_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "d\u025bd"
+            }
+          ],
+          "text": "dead"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    ""
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "dead",
+                      "text": "dead",
+                      "type": "see also"
+                    }
+                  ],
+                  "id": "m_en_gbus0253630.006"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gave_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261e\u026av"
+            }
+          ]
+        }
+      ],
+      "type": "headword",
+      "word": "dead"
+    }
+  ]
+}
