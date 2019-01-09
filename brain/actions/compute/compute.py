@@ -8,6 +8,80 @@ import json
 # humans do it this way
 
 
+# computes the words and what they are
+def compute_words(words, words_dir):
+
+    # setting up the main variable
+    _words = []
+
+    # initial general for loop
+    for word_index, word in enumerate(words):
+
+        # adds '_' to punctuations
+        if word in known_words.punctuation_symbols:
+            word = '_' + word
+
+        # sets the json_path
+        json_path = memory.return_json_word_path(word, words_dir)
+
+        # gets the file json_word
+        json_word = json.loads(open(json_path).read())
+
+        # gets the lexical_entries
+        lexical_entries = json_word['results'][0]['lexicalEntries']
+
+        # sets up possibilities variable
+        possibilities = []
+
+        # loops through each and appends to possibilities
+        for le in lexical_entries:
+            possibilities.append({le['lexicalCategory']: 0})
+
+        # appends to word_order
+        _words.append(("{}".format(word), possibilities, word_index))
+
+        print("{} - {}".format(word, possibilities))
+
+    print(_words)
+
+    # loop to start computing its confidence
+    for _word_index, _word in enumerate(_words):
+
+        # handles determiners
+        determiner = [d for d in _word[1] if 'Determiner' in d]
+        if len(determiner) > 0:
+
+            # looks to the next word and checks if it is a noun
+            next_word = _words[_word_index + 1]
+            noun = [n for n in next_word[1] if 'Noun' in n]
+            if len(noun) > 0:
+                determiner[0]['Determiner'] += 1
+
+        # handles pronouns
+        pronoun = [p for p in _word[1] if 'Pronoun' in p]
+        if len(pronoun) > 0:
+
+            # looks to next word and checks if it is a verb
+            next_word = _words[_word_index + 1]
+            verb = [v for v in next_word[1] if 'Verb' in v]
+            if len(verb) > 0:
+                pronoun[0]['Pronoun'] += 1
+
+        # handles nouns
+        noun = [p for p in _word[1] if 'Noun' in p]
+        if len(noun) > 0:
+
+            # looks to next word and checks if it is a verb
+            next_word = _words[_word_index + 1]
+            verb = [v for v in next_word[1] if 'Verb' in v]
+            if len(verb) > 0:
+                noun[0]['Noun'] += 1
+
+    print(_words)
+
+    return _words
+
+
 # computes the subject
 def compute_subject(words, words_dir):
 
@@ -19,31 +93,13 @@ def compute_subject(words, words_dir):
     simple_subject = ''
 
     # setting the initial word order
-    word_order = []
-
-    # initial general for loop
-    for word_index, word in enumerate(words):
-
-        # sets the json_path
-        json_path = memory.return_json_word_path(word, words_dir)
-
-        # gets the file json_word
-        json_word = json.loads(open(json_path).read())
-
-        # gets the word_type
-        word_type = json_word['results'][0]['lexicalEntries'][0][
-            'lexicalCategory']
-
-        # appends to word_order
-        word_order.append(("{}".format(word), word_type, word_index))
-
-        print("{} - {}".format(word, word_type))
+    _words = compute_words(words, words_dir)
 
     # sets the first_noun_or_pronoun
     first_noun_or_pronoun = None
 
     # finds the noun and sets it
-    for word_index, word in enumerate(word_order):
+    for word_index, word in enumerate(_words):
 
         # sets the space
         space = ''
@@ -56,7 +112,10 @@ def compute_subject(words, words_dir):
             break
 
     # checks the words to the left of the first_noun_or_pronoun for determiners & modifiers
-    for word_left in word_order[:first_noun_or_pronoun[2] + 1]:
+    for word_left in _words[:first_noun_or_pronoun[2] + 1]:
+
+        # sets the space
+        space = ''
 
         # stop condition
         if word_left[1] not in [
@@ -65,20 +124,29 @@ def compute_subject(words, words_dir):
             continue
 
         # checks if subject is empty
-        if subject != '':
+        if subject != '' and word_left[0].strip(
+                '_') not in known_words.punctuation_symbols:
             space = ' '
 
         # appends noun to subject
         subject += space + word_left[0].strip('_')
 
     # checks the words to the right of the first_noun_or_pronoun for prepositions & complete subjects
-    for word_right in word_order[first_noun_or_pronoun[2] + 1:]:
+    for word_right in _words[first_noun_or_pronoun[2] + 1:]:
+
+        # sets the space
+        space = ''
+
+        # appends a comma, if there is
+        if word_right[0] == '_,':
+            subject += word_right[0].strip('_')
+            continue
 
         # handles if it finds a pronoun
         if word_right[1] == 'Pronoun':
 
             # if the word right after it is a verb
-            if word_order[word_right[2] + 1][1] == 'Verb':
+            if _words[word_right[2] + 1][1] == 'Verb':
 
                 # sets the initial sub_words
                 sub_words = []
@@ -88,7 +156,7 @@ def compute_subject(words, words_dir):
                 sub_words.append(word_right)
 
                 # appends all words to the right of word_right until a verb
-                for sub_word_right in word_order[word_right[2] + 1:]:
+                for sub_word_right in _words[word_right[2] + 1:]:
 
                     # stops if it finds a verb
                     if sub_word_right[1] == 'Verb':
@@ -105,8 +173,12 @@ def compute_subject(words, words_dir):
                 # appends sub_words to subject
                 for sub_word in sub_words:
 
+                    # sets the space
+                    space = ''
+
                     # appends to subject
-                    if subject != '':
+                    if subject != '' and sub_word[0].strip(
+                            '_') not in known_words.punctuation_symbols:
                         space = ' '
 
                     subject += space + sub_word[0].strip('_')
@@ -118,7 +190,8 @@ def compute_subject(words, words_dir):
             break
 
         # appends to subject
-        if subject != '':
+        if subject != '' and word_right[0].strip(
+                '_') not in known_words.punctuation_symbols:
             space = ' '
 
         # appends to subject

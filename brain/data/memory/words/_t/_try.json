@@ -1,0 +1,447 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "try",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Middle English: from Old French trier \u2018sift\u2019, of unknown origin. Sense 1 of the noun dates from the early 17th century"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "000",
+              "notes": [
+                {
+                  "text": "Is there any difference between try to plus infinitive and try and plus infinitive in sentences such as we should try to (or try and) help them? In practice there is little discernible difference in meaning, although there is a difference in formality, with try to being regarded as more formal than try and. The construction try and is grammatically odd, however, in that it cannot be inflected for tense (e.g. sentences like she tried and fix it or they are trying and renew their visa are not acceptable, while their equivalents she tried to fix it or they are trying to renew their visa undoubtedly are). For this reason try and is best regarded as a fixed idiom used only in its infinitive and imperative form. See also and",
+                  "type": "editorialNote"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "make an attempt or effort to do something"
+                  ],
+                  "examples": [
+                    {
+                      "text": "I started to try and untangle the mystery"
+                    },
+                    {
+                      "text": "I decided to try writing fiction"
+                    },
+                    {
+                      "text": "he tried to regain his breath"
+                    },
+                    {
+                      "text": "three times he tried the manoeuvre and three times he failed"
+                    }
+                  ],
+                  "id": "m_en_gbus1079310.007",
+                  "notes": [
+                    {
+                      "text": "no object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "make attempt or effort to do something"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "use, test, or do (something new or different) in order to see if it is suitable, effective, or pleasant"
+                      ],
+                      "examples": [
+                        {
+                          "text": "everyone wanted to know if I'd tried jellied eel"
+                        },
+                        {
+                          "text": "these methods are tried and tested"
+                        }
+                      ],
+                      "id": "m_en_gbus1079310.013",
+                      "notes": [
+                        {
+                          "text": "with object",
+                          "type": "grammaticalNote"
+                        },
+                        {
+                          "text": "also \"try something out\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "use, test, or do"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "try_something_out",
+                          "sense_id": "t_en_gb0015225.006"
+                        },
+                        {
+                          "entry_id": "try",
+                          "sense_id": "t_en_gb0015225.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "attempt to achieve or attain"
+                      ],
+                      "examples": [
+                        {
+                          "text": "they decided to try for another baby"
+                        }
+                      ],
+                      "id": "m_en_gbus1079310.014",
+                      "notes": [
+                        {
+                          "text": "\"try for\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "attempt to achieve or attain"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "compete or audition for (a post or place on a team)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she tried out for the team"
+                        }
+                      ],
+                      "id": "m_en_gbus1079310.015",
+                      "notes": [
+                        {
+                          "text": "\"try out for\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "regions": [
+                        "North American"
+                      ],
+                      "short_definitions": [
+                        "compete or audition for"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "attempt to contact"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I've tried the apartment, but the number is engaged"
+                        }
+                      ],
+                      "id": "m_en_gbus1079310.016",
+                      "notes": [
+                        {
+                          "text": "with object",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "attempt to contact"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "push or pull (a door or window) to determine whether it is locked"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I tried the doors, but they were locked"
+                        }
+                      ],
+                      "id": "m_en_gbus1079310.017",
+                      "notes": [
+                        {
+                          "text": "with object",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "push or pull door or window to determine whether it is locked"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "make severe demands on (a person or a quality, typically patience)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Mary tried everyone's patience to the limit"
+                        }
+                      ],
+                      "id": "m_en_gbus1079310.018",
+                      "notes": [
+                        {
+                          "text": "with object",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "make severe demands on"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "try",
+                          "sense_id": "t_en_gb0015225.003"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "try",
+                      "sense_id": "t_en_gb0015225.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "subject (someone) to trial"
+                  ],
+                  "domains": [
+                    "Law"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he was arrested and tried for the murder"
+                    }
+                  ],
+                  "id": "m_en_gbus1079310.020",
+                  "notes": [
+                    {
+                      "text": "with object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "subject someone to trial"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "investigate and decide (a case or issue) in a formal trial"
+                      ],
+                      "domains": [
+                        "Law"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the case is to be tried by a jury in the Crown Court"
+                        }
+                      ],
+                      "id": "m_en_gbus1079310.021",
+                      "short_definitions": [
+                        "investigate and decide case or issue in formal trial"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "try",
+                          "sense_id": "t_en_gb0015225.004"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "smooth (roughly planed wood) with a plane to give an accurately flat surface."
+                  ],
+                  "domains": [
+                    "Carpentry"
+                  ],
+                  "id": "m_en_gbus1079310.023",
+                  "notes": [
+                    {
+                      "text": "with object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "smooth roughly planed wood with plane to give accurately flat surface"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "extract (oil or fat) by heating"
+                  ],
+                  "domains": [
+                    "Cooking"
+                  ],
+                  "examples": [
+                    {
+                      "text": "some of the fat may be tried out and used"
+                    }
+                  ],
+                  "id": "m_en_gbus1079310.025",
+                  "notes": [
+                    {
+                      "text": "with object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "extract oil or fat by heating"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/try_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "tr\u028c\u026a"
+            }
+          ],
+          "text": "try"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "001",
+              "notes": [
+                {
+                  "text": "Is there any difference between try to plus infinitive and try and plus infinitive in sentences such as we should try to (or try and) help them? In practice there is little discernible difference in meaning, although there is a difference in formality, with try to being regarded as more formal than try and. The construction try and is grammatically odd, however, in that it cannot be inflected for tense (e.g. sentences like she tried and fix it or they are trying and renew their visa are not acceptable, while their equivalents she tried to fix it or they are trying to renew their visa undoubtedly are). For this reason try and is best regarded as a fixed idiom used only in its infinitive and imperative form. See also and",
+                  "type": "editorialNote"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "an effort to accomplish something; an attempt"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he got his membership card on his third try"
+                    }
+                  ],
+                  "id": "m_en_gbus1079310.028",
+                  "short_definitions": [
+                    "effort to accomplish something"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "an act of trying something new or different to see if it is suitable, effective, or pleasant"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she agreed that they should give the idea a try"
+                        }
+                      ],
+                      "id": "m_en_gbus1079310.031",
+                      "short_definitions": [
+                        "act of trying something new or different to see if it is suitable or pleasant"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "try",
+                      "sense_id": "t_en_gb0015225.007"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "an act of touching the ball down behind the opposing goal line, scoring points and entitling the scoring side to a kick at goal."
+                  ],
+                  "domains": [
+                    "Rugby"
+                  ],
+                  "id": "m_en_gbus1079310.033",
+                  "short_definitions": [
+                    "act of touching ball down behind opposing goal line"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "an attempt to score an extra point after a touchdown."
+                      ],
+                      "domains": [
+                        "American Football"
+                      ],
+                      "id": "m_en_gbus1079310.034",
+                      "short_definitions": [
+                        "attempt to score extra point after touchdown"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/try_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "tr\u028c\u026a"
+            }
+          ],
+          "text": "try"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Abbreviation",
+                  "type": "Residual"
+                }
+              ],
+              "homographNumber": "002",
+              "senses": [
+                {
+                  "definitions": [
+                    "Turkish lira (or lire)."
+                  ],
+                  "id": "m_en_gbus1079320.002",
+                  "short_definitions": [
+                    "Turkish lira (or lire)"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Residual",
+          "text": "TRY"
+        }
+      ],
+      "type": "headword",
+      "word": "try"
+    }
+  ]
+}

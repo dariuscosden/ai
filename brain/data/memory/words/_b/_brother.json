@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "brother",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "derivatives": [
+            {
+              "id": "brotherless",
+              "text": "brotherless"
+            }
+          ],
+          "entries": [
+            {
+              "etymologies": [
+                "Old English br\u014dthor, of Germanic origin; related to Dutch broeder and German Bruder, from an Indo-European root shared by Latin frater"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "a man or boy in relation to other sons and daughters of his parents"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he recognized her from her strong resemblance to her brother"
+                    }
+                  ],
+                  "id": "m_en_gbus0129010.006",
+                  "short_definitions": [
+                    "man or boy in relation to siblings"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a male associate or fellow member of an organization"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the time is coming, brothers, for us to act"
+                        }
+                      ],
+                      "id": "m_en_gbus0129010.011",
+                      "short_definitions": [
+                        "male associate"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "brother",
+                          "sense_id": "t_en_gb0001792.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a black man (often used as a term of address by other black people)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "there I was with one white boy and this other brother"
+                        }
+                      ],
+                      "id": "m_en_gbus0129010.012",
+                      "regions": [
+                        "North American"
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "black man"
+                      ],
+                      "variantForms": [
+                        {
+                          "text": "brotha"
+                        },
+                        {
+                          "text": "brutha"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a thing which resembles or is connected to another thing"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the machine is almost identical to its larger brother"
+                        }
+                      ],
+                      "id": "m_en_gbus0129010.018",
+                      "short_definitions": [
+                        "thing resembling another"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "brother",
+                      "sense_id": "t_en_gb0001792.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a (male) fellow Christian."
+                  ],
+                  "domains": [
+                    "Christian"
+                  ],
+                  "id": "m_en_gbus0129010.020",
+                  "short_definitions": [
+                    "(male) fellow Christian"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a member of a religious order of men"
+                      ],
+                      "domains": [
+                        "Christian"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a Benedictine brother"
+                        }
+                      ],
+                      "id": "m_en_gbus0129010.025",
+                      "short_definitions": [
+                        "member of men's religious order"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "brother",
+                          "sense_id": "t_en_gb0001792.003"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a member of a fundamentalist Protestant denomination"
+                      ],
+                      "domains": [
+                        "Christian"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the Plymouth Brethren"
+                        }
+                      ],
+                      "id": "m_en_gbus0129010.026",
+                      "short_definitions": [
+                        "member of fundamentalist Protestant denomination"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/brother_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u02c8br\u028c\u00f0\u0259"
+            }
+          ],
+          "text": "brother"
+        },
+        {
+          "derivatives": [
+            {
+              "id": "brotherless",
+              "text": "brotherless"
+            }
+          ],
+          "entries": [
+            {
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "used to express annoyance or surprise"
+                  ],
+                  "examples": [
+                    {
+                      "text": "oh brother!"
+                    }
+                  ],
+                  "id": "m_en_gbus0129010.028",
+                  "regions": [
+                    "North American"
+                  ],
+                  "short_definitions": [
+                    "expressing annoyance or surprise"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Interjection",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/brother_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u02c8br\u028c\u00f0\u0259"
+            }
+          ],
+          "text": "brother"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    ""
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "brother",
+                      "text": "brother",
+                      "type": "see also"
+                    }
+                  ],
+                  "id": "m_en_gbus0129010.006"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gave_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261e\u026av"
+            }
+          ]
+        }
+      ],
+      "type": "headword",
+      "word": "brother"
+    }
+  ]
+}

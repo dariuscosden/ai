@@ -1,0 +1,312 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "friend",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English fr\u0113ond, of Germanic origin; related to Dutch vriend and German Freund, from an Indo-European root meaning \u2018to love\u2019, shared by free"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "a person with whom one has a bond of mutual affection, typically one exclusive of sexual or family relations"
+                  ],
+                  "examples": [
+                    {
+                      "text": "she's a friend of mine"
+                    },
+                    {
+                      "text": "we were close friends"
+                    }
+                  ],
+                  "id": "m_en_gbus0390230.006",
+                  "short_definitions": [
+                    "person one has affectionate bond with"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "(used as a polite form of address or in ironic reference) an acquaintance or a stranger one comes across"
+                      ],
+                      "examples": [
+                        {
+                          "text": "my friends, let me introduce myself"
+                        }
+                      ],
+                      "id": "m_en_gbus0390230.009",
+                      "short_definitions": [
+                        "person being addressed or referred to"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "one's close relatives."
+                      ],
+                      "id": "m_en_gbus0390230.011",
+                      "notes": [
+                        {
+                          "text": "\"one's friends\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "registers": [
+                        "archaic"
+                      ],
+                      "short_definitions": [
+                        "close relatives"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a person who supports a cause, organization, or country by giving financial or other help"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the Friends of the Welsh National Opera"
+                        }
+                      ],
+                      "id": "m_en_gbus0390230.013",
+                      "short_definitions": [
+                        "supporter of cause etc."
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "friend",
+                          "sense_id": "t_en_gb0006076.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a person who is not an enemy or opponent; an ally"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she was unsure whether he was friend or foe"
+                        }
+                      ],
+                      "id": "m_en_gbus0390230.014",
+                      "short_definitions": [
+                        "person who is not enemy"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a familiar or helpful thing"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he settled for that old friend the compensation grant"
+                        }
+                      ],
+                      "id": "m_en_gbus0390230.015",
+                      "short_definitions": [
+                        "familiar thing"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a contact on a social networking website"
+                      ],
+                      "domains": [
+                        "Computing"
+                      ],
+                      "examples": [
+                        {
+                          "text": "all of a sudden you've got 50 friends online who need to stay connected"
+                        }
+                      ],
+                      "id": "m_en_gbus0390230.016",
+                      "short_definitions": [
+                        "contact on social networking website"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "friend",
+                      "sense_id": "t_en_gb0006076.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a member of the Religious Society of Friends; a Quaker."
+                  ],
+                  "domains": [
+                    "Christian"
+                  ],
+                  "id": "m_en_gbus0390230.018",
+                  "short_definitions": [
+                    "Quaker"
+                  ],
+                  "variantForms": [
+                    {
+                      "text": "Friend"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/friend_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "fr\u025bnd"
+            }
+          ],
+          "text": "friend"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Transitive",
+                  "type": "Subcategorization"
+                },
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "add (someone) to a list of friends or contacts on a social networking website"
+                  ],
+                  "examples": [
+                    {
+                      "text": "I am friended by 29 people who I have not friended back"
+                    }
+                  ],
+                  "id": "m_en_gbus0390230.024",
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "add someone to list of friends or contacts on social networking website"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "befriend (someone)."
+                  ],
+                  "id": "m_en_gbus0390230.026",
+                  "registers": [
+                    "archaic"
+                  ],
+                  "short_definitions": [
+                    "befriend"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "have a sexual relationship with"
+                      ],
+                      "domains": [
+                        "Sex"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the woman got married and you still used to friend with she?"
+                        }
+                      ],
+                      "id": "m_en_gbus0390230.032",
+                      "notes": [
+                        {
+                          "text": "no object",
+                          "type": "grammaticalNote"
+                        },
+                        {
+                          "text": "\"friend with\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "regions": [
+                        "West Indian"
+                      ],
+                      "short_definitions": [
+                        "have sexual relationship with"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/friend_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "fr\u025bnd"
+            }
+          ],
+          "text": "friend"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    ""
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "friend",
+                      "text": "friend",
+                      "type": "see also"
+                    }
+                  ],
+                  "id": "m_en_gbus0390230.006"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gave_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261e\u026av"
+            }
+          ]
+        }
+      ],
+      "type": "headword",
+      "word": "friend"
+    }
+  ]
+}

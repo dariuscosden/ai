@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    ""
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "dog",
+                      "text": "dog",
+                      "type": "see also"
+                    }
+                  ],
+                  "id": "m_en_gbus0287810.007"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gave_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261e\u026av"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,921 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "have",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English habban, of Germanic origin; related to Dutch hebben and German haben, also probably to heave"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Transitive",
+                  "type": "Subcategorization"
+                },
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "000",
+              "notes": [
+                {
+                  "text": "Have and have got: there is a great deal of debate on the difference between these two forms; a traditional view is that have got is chiefly British, but not correct in formal writing, while have is chiefly American. Actual usage is more complicated: have got is in fact also widely used in US English. In both British and US usage have is more formal than have got and it is more appropriate in writing to use constructions such as don't have rather than haven't got. A common mistake is to write the word of instead of have or 've: I could of told you that instead of I could've told you that. The reason for the mistake is that the pronunciation of have in unstressed contexts is the same as that of of, and the two words are confused when it comes to writing them down. The error was recorded as early as 1837 and, though common, is unacceptable in standard English. Another controversial issue is the insertion of have where it is superfluous, as for example I might have missed it if you hadn't have pointed it out (rather than the standard \u2026 if you hadn't pointed it out). This construction has been around since at least the 15th and 16th centuries, but only where a hypothetical situation is presented (e.g. statements starting with if). More recently, there has been speculation among grammarians and linguists that this insertion of have may represent a kind of subjunctive and is actually making a useful distinction in the language. However, it is still regarded as an error in standard English. See also usage at gotten",
+                  "type": "editorialNote"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "possess, own, or hold"
+                  ],
+                  "examples": [
+                    {
+                      "text": "have you got a job yet?"
+                    },
+                    {
+                      "text": "he had a new car and a boat"
+                    },
+                    {
+                      "text": "I don't have that much money on me"
+                    }
+                  ],
+                  "id": "m_en_gbus0454270.023",
+                  "short_definitions": [
+                    "possess, own, or hold"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "possess (a quality, characteristic, or feature)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the ham had a sweet, smoky flavour"
+                        },
+                        {
+                          "text": "the house has gas-fired central heating"
+                        },
+                        {
+                          "text": "she's got blue eyes"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.030",
+                      "short_definitions": [
+                        "possess quality etc."
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "provide or indulge oneself with (something)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he had himself two highballs"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.031",
+                      "notes": [
+                        {
+                          "text": "\"have oneself\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "regions": [
+                        "North American"
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "indulge oneself with"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "be made up of; comprise"
+                      ],
+                      "examples": [
+                        {
+                          "text": "in 1989 the party had 10,000 members"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.032",
+                      "short_definitions": [
+                        "comprise"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "have",
+                          "sense_id": "t_en_gb0006818.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "used to indicate a particular relationship"
+                      ],
+                      "examples": [
+                        {
+                          "text": "do you have a client named Peters?"
+                        },
+                        {
+                          "text": "he's got three children"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.033",
+                      "short_definitions": [
+                        "indicating relationship"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "be able to make use of (something available or at one's disposal)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "how much time have I got for the presentation?"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.034",
+                      "short_definitions": [
+                        "be able to make use of"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "have gained (a qualification)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he's got a BA in English"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.035",
+                      "short_definitions": [
+                        "have gained qualification"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "possess as an intellectual attainment; know (a language or subject)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he knew Latin and Greek; I had only a little French"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.036",
+                      "short_definitions": [
+                        "know language or subject"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "have",
+                      "sense_id": "t_en_gb0006818.001"
+                    }
+                  ],
+                  "variantForms": [
+                    {
+                      "text": "have got"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "experience; undergo"
+                  ],
+                  "examples": [
+                    {
+                      "text": "I went to a few parties and had a good time"
+                    },
+                    {
+                      "text": "I was having difficulty in keeping awake"
+                    }
+                  ],
+                  "id": "m_en_gbus0454270.038",
+                  "short_definitions": [
+                    "experience or undergo"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "suffer from (an illness, ailment, or disability)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I've got a headache"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.039",
+                      "short_definitions": [
+                        "suffer from"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "have",
+                          "sense_id": "t_en_gb0006818.009"
+                        }
+                      ],
+                      "variantForms": [
+                        {
+                          "text": "have got"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "let (a feeling or thought) come into one's mind; hold in the mind"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he had the strong impression that someone was watching him"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.041",
+                      "short_definitions": [
+                        "hold in the mind"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "have",
+                          "sense_id": "t_en_gb0006818.011"
+                        }
+                      ],
+                      "variantForms": [
+                        {
+                          "text": "have got"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "experience or suffer the specified action happening or being done to (something)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she had her bag stolen"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.043",
+                      "notes": [
+                        {
+                          "text": "with past participle",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "suffer specified thing being done to"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "cause to be in a particular state or condition"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I want to have everything ready in good time"
+                        },
+                        {
+                          "text": "I had the TV on with the sound turned down"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.044",
+                      "notes": [
+                        {
+                          "text": "with object and complement",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "cause to be in particular state"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "cause (something) to be done for one by someone else"
+                      ],
+                      "examples": [
+                        {
+                          "text": "it is advisable to have your carpet laid by a professional"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.045",
+                      "notes": [
+                        {
+                          "text": "with past participle",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "cause something to be done for one"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "have",
+                          "sense_id": "t_en_gb0006818.013"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "tell or arrange for (someone) to do something for one"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he had his bodyguards throw Chris out"
+                        },
+                        {
+                          "text": "she's always having the builders in to do something or other"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.046",
+                      "short_definitions": [
+                        "arrange for someone to do something"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "have put (someone) at a disadvantage in an argument"
+                      ],
+                      "examples": [
+                        {
+                          "text": "you've got me there; I've never given the matter much thought"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.047",
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "have someone at disadvantage in argument"
+                      ],
+                      "variantForms": [
+                        {
+                          "text": "have got"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "cheat or deceive (someone)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I realized I'd been had"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.049",
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "cheat or deceive"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "have",
+                          "sense_id": "t_en_gb0006818.016"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "engage in sexual intercourse with."
+                      ],
+                      "domains": [
+                        "Sex"
+                      ],
+                      "id": "m_en_gbus0454270.050",
+                      "registers": [
+                        "vulgar slang"
+                      ],
+                      "short_definitions": [
+                        "have sex with"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "have_sex_%28with%29",
+                          "sense_id": "t_en_gb0013299.004"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "have",
+                      "sense_id": "t_en_gb0006818.010"
+                    },
+                    {
+                      "entry_id": "have",
+                      "sense_id": "t_en_gb0006818.008"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "be obliged or find it necessary to do the specified thing"
+                  ],
+                  "examples": [
+                    {
+                      "text": "sorry, we've got to dash"
+                    },
+                    {
+                      "text": "you don't have to accept this situation"
+                    }
+                  ],
+                  "id": "m_en_gbus0454270.052",
+                  "notes": [
+                    {
+                      "text": "\"have to\" or \"have got to do something\"",
+                      "type": "wordFormNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "be obliged to"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "be strongly recommended to do something"
+                      ],
+                      "examples": [
+                        {
+                          "text": "if you think that place is great, you have to try our summer house"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.054",
+                      "short_definitions": [
+                        "be strongly recommended to"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "be certain or inevitable to happen or be the case"
+                      ],
+                      "examples": [
+                        {
+                          "text": "there has to be a catch"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.055",
+                      "short_definitions": [
+                        "be certain or inevitable to"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "have",
+                      "sense_id": "t_en_gb0006818.015"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "perform the action indicated by the noun specified (used especially in spoken English as an alternative to a more specific verb)"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he had a look round"
+                    },
+                    {
+                      "text": "the colour green has a restful effect"
+                    }
+                  ],
+                  "id": "m_en_gbus0454270.057",
+                  "short_definitions": [
+                    "perform specified action"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "organize and bring about"
+                      ],
+                      "examples": [
+                        {
+                          "text": "are you going to have a party?"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.058",
+                      "short_definitions": [
+                        "organize and bring about"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "have",
+                          "sense_id": "t_en_gb0006818.005"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "eat or drink"
+                      ],
+                      "examples": [
+                        {
+                          "text": "they had beans on toast"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.059",
+                      "short_definitions": [
+                        "eat or drink"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "have",
+                          "sense_id": "t_en_gb0006818.003"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "give birth to or be due to give birth to"
+                      ],
+                      "examples": [
+                        {
+                          "text": "she's going to have a baby"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.060",
+                      "short_definitions": [
+                        "give birth to"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "have",
+                          "sense_id": "t_en_gb0006818.006"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "take",
+                      "sense_id": "t_en_gb0014593.029"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "show (a personal attribute or quality) by one's actions or attitude"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he had little patience with technological gadgetry"
+                    },
+                    {
+                      "text": "you never even phoned, and now you've got the cheek to come back"
+                    }
+                  ],
+                  "id": "m_en_gbus0454270.062",
+                  "notes": [
+                    {
+                      "text": "also \"have got\"",
+                      "type": "wordFormNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "show attribute or quality"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "exercise or show (mercy, pity, etc.) towards another person"
+                      ],
+                      "examples": [
+                        {
+                          "text": "God have mercy on me!"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.063",
+                      "notes": [
+                        {
+                          "text": "often in imperative",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "exercise mercy, pity, etc. towards another"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "accept or tolerate"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I can't have you insulting Tom like that"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.064",
+                      "notes": [
+                        {
+                          "text": "with negative",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "accept or tolerate"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "have",
+                          "sense_id": "t_en_gb0006818.014"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "have",
+                      "sense_id": "t_en_gb0006818.012"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "place or keep (something) in a particular position"
+                  ],
+                  "examples": [
+                    {
+                      "text": "Mary had her back to me"
+                    },
+                    {
+                      "text": "I soon had the trout in a net"
+                    }
+                  ],
+                  "id": "m_en_gbus0454270.066",
+                  "notes": [
+                    {
+                      "text": "with object and adverbial of place",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "place or keep in particular position"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "hold or grasp in a particular way"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he had me by the throat"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.068",
+                      "short_definitions": [
+                        "hold or grasp in particular way"
+                      ]
+                    }
+                  ],
+                  "variantForms": [
+                    {
+                      "text": "have got"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "be the recipient of (something sent, given, or done)"
+                  ],
+                  "examples": [
+                    {
+                      "text": "she had a letter from Mark"
+                    }
+                  ],
+                  "id": "m_en_gbus0454270.070",
+                  "short_definitions": [
+                    "be recipient of"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "take or invite into one's home so as to provide care or entertainment"
+                      ],
+                      "examples": [
+                        {
+                          "text": "we're having the children for the weekend"
+                        }
+                      ],
+                      "id": "m_en_gbus0454270.071",
+                      "short_definitions": [
+                        "invite into one's home"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "have",
+                          "sense_id": "t_en_gb0006818.007"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "have",
+                      "sense_id": "t_en_gb0006818.004"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Auxiliary",
+                  "type": "Verb"
+                },
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "001",
+              "notes": [
+                {
+                  "text": "Have and have got: there is a great deal of debate on the difference between these two forms; a traditional view is that have got is chiefly British, but not correct in formal writing, while have is chiefly American. Actual usage is more complicated: have got is in fact also widely used in US English. In both British and US usage have is more formal than have got and it is more appropriate in writing to use constructions such as don't have rather than haven't got. A common mistake is to write the word of instead of have or 've: I could of told you that instead of I could've told you that. The reason for the mistake is that the pronunciation of have in unstressed contexts is the same as that of of, and the two words are confused when it comes to writing them down. The error was recorded as early as 1837 and, though common, is unacceptable in standard English. Another controversial issue is the insertion of have where it is superfluous, as for example I might have missed it if you hadn't have pointed it out (rather than the standard \u2026 if you hadn't pointed it out). This construction has been around since at least the 15th and 16th centuries, but only where a hypothetical situation is presented (e.g. statements starting with if). More recently, there has been speculation among grammarians and linguists that this insertion of have may represent a kind of subjunctive and is actually making a useful distinction in the language. However, it is still regarded as an error in standard English. See also usage at gotten",
+                  "type": "editorialNote"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "used with a past participle to form the perfect, pluperfect, and future perfect tenses, and the conditional mood"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he had asked her"
+                    },
+                    {
+                      "text": "I have finished"
+                    },
+                    {
+                      "text": "she will have left by now"
+                    },
+                    {
+                      "text": "\u2018Have you seen him?\u2019 \u2018Yes, I have.\u2019"
+                    },
+                    {
+                      "text": "I could have helped, had I known"
+                    }
+                  ],
+                  "id": "m_en_gbus0454270.073",
+                  "short_definitions": [
+                    "used with past participle to form tenses"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/have_gb_3.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "hav"
+            }
+          ],
+          "text": "have"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "002",
+              "notes": [
+                {
+                  "text": "Have and have got: there is a great deal of debate on the difference between these two forms; a traditional view is that have got is chiefly British, but not correct in formal writing, while have is chiefly American. Actual usage is more complicated: have got is in fact also widely used in US English. In both British and US usage have is more formal than have got and it is more appropriate in writing to use constructions such as don't have rather than haven't got. A common mistake is to write the word of instead of have or 've: I could of told you that instead of I could've told you that. The reason for the mistake is that the pronunciation of have in unstressed contexts is the same as that of of, and the two words are confused when it comes to writing them down. The error was recorded as early as 1837 and, though common, is unacceptable in standard English. Another controversial issue is the insertion of have where it is superfluous, as for example I might have missed it if you hadn't have pointed it out (rather than the standard \u2026 if you hadn't pointed it out). This construction has been around since at least the 15th and 16th centuries, but only where a hypothetical situation is presented (e.g. statements starting with if). More recently, there has been speculation among grammarians and linguists that this insertion of have may represent a kind of subjunctive and is actually making a useful distinction in the language. However, it is still regarded as an error in standard English. See also usage at gotten",
+                  "type": "editorialNote"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "people with plenty of money and possessions"
+                  ],
+                  "examples": [
+                    {
+                      "text": "an increasing gap between the haves and have-nots"
+                    }
+                  ],
+                  "id": "m_en_gbus0454270.081",
+                  "notes": [
+                    {
+                      "text": "\"the haves\"",
+                      "type": "wordFormNote"
+                    }
+                  ],
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "wealthy people"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a swindle."
+                  ],
+                  "domains": [
+                    "Crime"
+                  ],
+                  "id": "m_en_gbus0454270.084",
+                  "notes": [
+                    {
+                      "text": "in singular",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "regions": [
+                    "British"
+                  ],
+                  "registers": [
+                    "dated",
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "swindle"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "rip-off",
+                      "sense_id": "t_en_gb0012663.001"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/have_gb_3.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "hav"
+            }
+          ],
+          "text": "have"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    ""
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "have",
+                      "text": "have",
+                      "type": "see also"
+                    }
+                  ],
+                  "id": "m_en_gbus0454270.023"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gave_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261e\u026av"
+            }
+          ]
+        }
+      ],
+      "type": "headword",
+      "word": "have"
+    }
+  ]
+}

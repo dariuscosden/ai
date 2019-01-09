@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "baby",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "derivatives": [
+            {
+              "id": "babyhood",
+              "text": "babyhood"
+            }
+          ],
+          "entries": [
+            {
+              "etymologies": [
+                "late Middle English: probably imitative of an infant's first attempts at speech"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "a very young child"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a baby girl"
+                    },
+                    {
+                      "text": "his wife's just had a baby"
+                    }
+                  ],
+                  "id": "m_en_gbus0063410.006",
+                  "short_definitions": [
+                    "very young child"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a very young animal"
+                      ],
+                      "examples": [
+                        {
+                          "text": "bats only have one baby a year"
+                        },
+                        {
+                          "text": "baby rabbits"
+                        }
+                      ],
+                      "id": "m_en_gbus0063410.009",
+                      "short_definitions": [
+                        "very young animal"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "the youngest member of a family or group"
+                      ],
+                      "examples": [
+                        {
+                          "text": "Clara was the baby of the family"
+                        }
+                      ],
+                      "id": "m_en_gbus0063410.010",
+                      "short_definitions": [
+                        "youngest member of group"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "baby",
+                          "sense_id": "t_en_gb0001063.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a timid or childish person"
+                      ],
+                      "examples": [
+                        {
+                          "text": "\u2018Don't be such a baby!\u2019 she said witheringly"
+                        }
+                      ],
+                      "id": "m_en_gbus0063410.011",
+                      "short_definitions": [
+                        "timid or childish person"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "wet",
+                          "sense_id": "t_en_gb0016209.009"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "one's particular responsibility or concern"
+                      ],
+                      "examples": [
+                        {
+                          "text": "\u2018This is your baby, Gerry,\u2019 she said, handing him the brief"
+                        }
+                      ],
+                      "id": "m_en_gbus0063410.012",
+                      "notes": [
+                        {
+                          "text": "\"one's baby\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "one's responsibility or concern"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "concern",
+                          "sense_id": "t_en_gb0002726.007"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "baby",
+                      "sense_id": "t_en_gb0001063.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a lover or spouse (often as a form of address)"
+                  ],
+                  "examples": [
+                    {
+                      "text": "my baby left me for another guy"
+                    }
+                  ],
+                  "id": "m_en_gbus0063410.015",
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "lover or spouse"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a thing regarded with affection or familiarity"
+                      ],
+                      "examples": [
+                        {
+                          "text": "this baby can reach speeds of 120 mph"
+                        }
+                      ],
+                      "id": "m_en_gbus0063410.016",
+                      "short_definitions": [
+                        "thing regarded with affection"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "baby",
+                          "sense_id": "t_en_gb0001063.003"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "baby",
+                      "sense_id": "t_en_gb0001063.003"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/baby_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u02c8be\u026abi"
+            }
+          ],
+          "text": "baby"
+        },
+        {
+          "derivatives": [
+            {
+              "id": "babyhood",
+              "text": "babyhood"
+            }
+          ],
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "comparatively small or immature of its kind"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a baby version of the Oxford Movement"
+                    }
+                  ],
+                  "id": "m_en_gbus0063410.018",
+                  "notes": [
+                    {
+                      "text": "attributive",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "comparatively small or immature"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "(of vegetables) picked before reaching their usual size"
+                      ],
+                      "examples": [
+                        {
+                          "text": "baby carrots"
+                        }
+                      ],
+                      "id": "m_en_gbus0063410.020",
+                      "short_definitions": [
+                        "(of vegetables) picked when small"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "baby",
+                      "sense_id": "t_en_gb0001063.004"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adjective",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/baby_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u02c8be\u026abi"
+            }
+          ],
+          "text": "baby"
+        },
+        {
+          "derivatives": [
+            {
+              "id": "babyhood",
+              "text": "babyhood"
+            }
+          ],
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Transitive",
+                  "type": "Subcategorization"
+                },
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "002",
+              "senses": [
+                {
+                  "definitions": [
+                    "treat (someone) as a baby; pamper or be overprotective towards"
+                  ],
+                  "examples": [
+                    {
+                      "text": "her aunt babied her and fussed over her clothes"
+                    }
+                  ],
+                  "id": "m_en_gbus0063410.022",
+                  "short_definitions": [
+                    "treat someone as baby"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "baby",
+                      "sense_id": "t_en_gb0001063.005"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/baby_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u02c8be\u026abi"
+            }
+          ],
+          "text": "baby"
+        }
+      ],
+      "type": "headword",
+      "word": "baby"
+    }
+  ]
+}

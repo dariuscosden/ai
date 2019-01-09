@@ -29,7 +29,9 @@
                   "definitions": [
                     "a small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws. It is widely kept as a pet or for catching mice, and many breeds have been developed."
                   ],
-                  "domains": ["Mammal"],
+                  "domains": [
+                    "Mammal"
+                  ],
                   "id": "m_en_gbus0158200.008",
                   "notes": [
                     {
@@ -37,10 +39,14 @@
                       "type": "technicalNote"
                     }
                   ],
-                  "short_definitions": ["domesticated carnivtyorous mammal"],
+                  "short_definitions": [
+                    "domesticated carnivtyorous mammal"
+                  ],
                   "subsenses": [
                     {
-                      "crossReferenceMarkers": ["See also big cat"],
+                      "crossReferenceMarkers": [
+                        "See also big cat"
+                      ],
                       "crossReferences": [
                         {
                           "id": "big_cat",
@@ -48,37 +54,55 @@
                           "type": "see also"
                         }
                       ],
-                      "definitions": ["a wild animal of the cat family"],
-                      "domains": ["Mammal"],
+                      "definitions": [
+                        "a wild animal of the cat family"
+                      ],
+                      "domains": [
+                        "Mammal"
+                      ],
                       "examples": [
                         {
                           "text": "a marbled cat"
                         }
                       ],
                       "id": "m_en_gbus0158200.015",
-                      "short_definitions": ["member of cat family"]
+                      "short_definitions": [
+                        "member of cat family"
+                      ]
                     },
                     {
                       "definitions": [
                         "used in names of catlike animals of other families, e.g. native cat, ring-tailed cat."
                       ],
-                      "domains": ["Mammal"],
+                      "domains": [
+                        "Mammal"
+                      ],
                       "id": "m_en_gbus0158200.016",
-                      "short_definitions": ["catlike animal"]
+                      "short_definitions": [
+                        "catlike animal"
+                      ]
                     },
                     {
-                      "definitions": ["a malicious or spiteful woman"],
+                      "definitions": [
+                        "a malicious or spiteful woman"
+                      ],
                       "examples": [
                         {
                           "text": "his mother called me an old cat"
                         }
                       ],
                       "id": "m_en_gbus0158200.020",
-                      "registers": ["informal"],
-                      "short_definitions": ["spiteful woman"]
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "spiteful woman"
+                      ]
                     },
                     {
-                      "crossReferenceMarkers": ["short for cat-o'-nine-tails"],
+                      "crossReferenceMarkers": [
+                        "short for cat-o'-nine-tails"
+                      ],
                       "crossReferences": [
                         {
                           "id": "cat-o%27-nine-tails",
@@ -87,11 +111,17 @@
                         }
                       ],
                       "id": "m_en_gbus0158200.021",
-                      "registers": ["historical"],
-                      "short_definitions": ["cat-o'-nine-tails"]
+                      "registers": [
+                        "historical"
+                      ],
+                      "short_definitions": [
+                        "cat-o'-nine-tails"
+                      ]
                     },
                     {
-                      "crossReferenceMarkers": ["short for catfish"],
+                      "crossReferenceMarkers": [
+                        "short for catfish"
+                      ],
                       "crossReferences": [
                         {
                           "id": "catfish",
@@ -100,10 +130,14 @@
                         }
                       ],
                       "id": "m_en_gbus0158200.022",
-                      "short_definitions": ["catfish"]
+                      "short_definitions": [
+                        "catfish"
+                      ]
                     },
                     {
-                      "crossReferenceMarkers": ["short for cathead"],
+                      "crossReferenceMarkers": [
+                        "short for cathead"
+                      ],
                       "crossReferences": [
                         {
                           "id": "cathead",
@@ -112,10 +146,14 @@
                         }
                       ],
                       "id": "m_en_gbus0158200.023",
-                      "short_definitions": ["cathead"]
+                      "short_definitions": [
+                        "cathead"
+                      ]
                     },
                     {
-                      "crossReferenceMarkers": ["short for catboat"],
+                      "crossReferenceMarkers": [
+                        "short for catboat"
+                      ],
                       "crossReferences": [
                         {
                           "id": "catboat",
@@ -124,7 +162,9 @@
                         }
                       ],
                       "id": "m_en_gbus0158200.024",
-                      "short_definitions": ["catboat"]
+                      "short_definitions": [
+                        "catboat"
+                      ]
                     }
                   ],
                   "thesaurusLinks": [
@@ -135,8 +175,12 @@
                   ]
                 },
                 {
-                  "definitions": ["(especially among jazz enthusiasts) a man"],
-                  "domains": ["Jazz"],
+                  "definitions": [
+                    "(especially among jazz enthusiasts) a man"
+                  ],
+                  "domains": [
+                    "Jazz"
+                  ],
                   "examples": [
                     {
                       "text": "this West Coast cat had managed him since the early 80s"
@@ -146,18 +190,30 @@
                     }
                   ],
                   "id": "m_en_gbus0158200.026",
-                  "regions": ["North American"],
-                  "registers": ["informal"],
-                  "short_definitions": ["man"]
+                  "regions": [
+                    "North American"
+                  ],
+                  "registers": [
+                    "informal"
+                  ],
+                  "short_definitions": [
+                    "man"
+                  ]
                 },
                 {
                   "definitions": [
                     "a short tapered stick used in the game of tipcat."
                   ],
-                  "domains": ["Games"],
+                  "domains": [
+                    "Games"
+                  ],
                   "id": "m_en_gbus0158200.028",
-                  "registers": ["historical"],
-                  "short_definitions": ["stick used in game"]
+                  "registers": [
+                    "historical"
+                  ],
+                  "short_definitions": [
+                    "stick used in game"
+                  ]
                 }
               ]
             },
@@ -175,7 +231,9 @@
               "homographNumber": "200",
               "senses": [
                 {
-                  "crossReferenceMarkers": ["short for catalytic converter"],
+                  "crossReferenceMarkers": [
+                    "short for catalytic converter"
+                  ],
                   "crossReferences": [
                     {
                       "id": "catalytic_converter",
@@ -206,7 +264,9 @@
               "homographNumber": "300",
               "senses": [
                 {
-                  "crossReferenceMarkers": ["short for catamaran"],
+                  "crossReferenceMarkers": [
+                    "short for catamaran"
+                  ],
                   "crossReferences": [
                     {
                       "id": "catamaran",
@@ -224,7 +284,9 @@
           "pronunciations": [
             {
               "audioFile": "http://audio.oxforddictionaries.com/en/mp3/cat_gb_1.mp3",
-              "dialects": ["British English"],
+              "dialects": [
+                "British English"
+              ],
               "phoneticNotation": "IPA",
               "phoneticSpelling": "kat"
             }
@@ -250,14 +312,18 @@
                   "definitions": [
                     "raise (an anchor) from the surface of the water to the cathead"
                   ],
-                  "domains": ["Nautical"],
+                  "domains": [
+                    "Nautical"
+                  ],
                   "examples": [
                     {
                       "text": "I kept her off the wind and sailing free until I had the anchor catted"
                     }
                   ],
                   "id": "m_en_gbus0158200.032",
-                  "short_definitions": ["raise anchor"]
+                  "short_definitions": [
+                    "raise anchor"
+                  ]
                 }
               ]
             }
@@ -267,7 +333,9 @@
           "pronunciations": [
             {
               "audioFile": "http://audio.oxforddictionaries.com/en/mp3/cat_gb_1.mp3",
-              "dialects": ["British English"],
+              "dialects": [
+                "British English"
+              ],
               "phoneticNotation": "IPA",
               "phoneticSpelling": "kat"
             }
@@ -289,21 +357,37 @@
                   "crossReferenceMarkers": [
                     "short for \"computerized axial tomography\""
                   ],
-                  "domains": ["Medicine"],
+                  "domains": [
+                    "Medicine"
+                  ],
                   "id": "m_en_gbus0158190.011",
-                  "short_definitions": ["computerized axial tomography"]
+                  "short_definitions": [
+                    "computerized axial tomography"
+                  ]
                 },
                 {
-                  "definitions": ["computer-assisted (or -aided) testing."],
-                  "domains": ["Computing"],
+                  "definitions": [
+                    "computer-assisted (or -aided) testing."
+                  ],
+                  "domains": [
+                    "Computing"
+                  ],
                   "id": "m_en_gbus0158190.009",
-                  "short_definitions": ["computer-assisted or -aided testing"]
+                  "short_definitions": [
+                    "computer-assisted or -aided testing"
+                  ]
                 },
                 {
-                  "definitions": ["clear air turbulence."],
-                  "domains": ["Aviation"],
+                  "definitions": [
+                    "clear air turbulence."
+                  ],
+                  "domains": [
+                    "Aviation"
+                  ],
                   "id": "m_en_gbus0158190.006",
-                  "short_definitions": ["clear air turbulence"]
+                  "short_definitions": [
+                    "clear air turbulence"
+                  ]
                 }
               ]
             }
@@ -313,7 +397,9 @@
           "pronunciations": [
             {
               "audioFile": "http://audio.oxforddictionaries.com/en/mp3/cat_gb_1.mp3",
-              "dialects": ["British English"],
+              "dialects": [
+                "British English"
+              ],
               "phoneticNotation": "IPA",
               "phoneticSpelling": "kat"
             }

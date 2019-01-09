@@ -4,7 +4,7 @@
   },
   "results": [
     {
-      "id": "are",
+      "id": "candies",
       "language": "en",
       "lexicalEntries": [
         {
@@ -14,16 +14,16 @@
               "senses": [
                 {
                   "crossReferenceMarkers": [
-                    "conjugated form of be"
+                    "conjugated form of candy"
                   ],
                   "crossReferences": [
                     {
-                      "id": "be",
-                      "text": "be",
+                      "id": "candy",
+                      "text": "candy",
                       "type": "see also"
                     }
                   ],
-                  "id": "m_en_gbus0079990.040"
+                  "id": "m_en_gbus0147810.012"
                 }
               ]
             }
@@ -48,16 +48,16 @@
               "senses": [
                 {
                   "crossReferenceMarkers": [
-                    "plural of are"
+                    "plural of candy"
                   ],
                   "crossReferences": [
                     {
-                      "id": "are",
-                      "text": "are",
+                      "id": "candy",
+                      "text": "candy",
                       "type": "see also"
                     }
                   ],
-                  "id": "m_en_gbus0045700.008"
+                  "id": "m_en_gbus0147810.005"
                 }
               ]
             }

@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "his",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English, genitive singular form of he, h\u0113 \u2018he\u2019 and hit \u2018it\u2019"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Possessive",
+                  "type": "Referential"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "belonging to or associated with a male person or animal previously mentioned or easily identified"
+                  ],
+                  "examples": [
+                    {
+                      "text": "James sold his business"
+                    }
+                  ],
+                  "id": "m_en_gbus0470360.006",
+                  "short_definitions": [
+                    "relating to male person or animal"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "belonging to or associated with a person or animal of unspecified sex (in modern use chiefly replaced by \u2018his or her\u2019 or \u2018their\u2019)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "any child with delayed speech should have his hearing checked"
+                        }
+                      ],
+                      "id": "m_en_gbus0470360.008",
+                      "short_definitions": [
+                        "relating to person or animal of unspecified sex"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used in titles"
+                  ],
+                  "examples": [
+                    {
+                      "text": "His Lordship"
+                    },
+                    {
+                      "text": "His Excellency"
+                    }
+                  ],
+                  "id": "m_en_gbus0470360.010",
+                  "short_definitions": [
+                    "used in titles"
+                  ],
+                  "variantForms": [
+                    {
+                      "text": "His"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Determiner",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/his_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "h\u026az"
+            }
+          ],
+          "text": "his"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Possessive",
+                  "type": "Referential"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "definitions": [
+                    "used to refer to a thing or things belonging to or associated with a male person or animal previously mentioned"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he took my hand in his"
+                    },
+                    {
+                      "text": "some friends of his"
+                    }
+                  ],
+                  "id": "m_en_gbus0470360.014",
+                  "short_definitions": [
+                    "referring to things belonging to male previously mentioned"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Pronoun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/his_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "h\u026az"
+            }
+          ],
+          "text": "his"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    ""
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "hi",
+                      "text": "hi",
+                      "type": "see also"
+                    }
+                  ],
+                  "id": "m_en_gbus0465760.005"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gave_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261e\u026av"
+            }
+          ]
+        }
+      ],
+      "type": "headword",
+      "word": "his"
+    }
+  ]
+}
