@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "expensive",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    "plural of expensive"
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "expensive",
+                      "text": "expensive",
+                      "type": "see also"
+                    }
+                  ],
+                  "id": "m_en_gbus0342360.006"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adjective",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gave_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261e\u026av"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

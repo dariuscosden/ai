@@ -10,16 +10,14 @@ def sanitize_input(string):
         string = string.replace("?", "")
         string += '?'
 
-    print('What I understood: {}\n'.format(string))
+    print(f'What I understood: {string}\n')
 
     return string
 
 
 # returns words from string
 def return_words_from_input(input):
-    words = []
-    question = False
-    exclamation = False
+    words_list = []
 
     # starts building the words list
     string_words = re.split('(\W+)', input)
@@ -27,8 +25,8 @@ def return_words_from_input(input):
     # iterates through each item in the list
     for word_index, word in enumerate(string_words):
 
-        # removes any empty spaces
-        if word == ' ' or word == '':
+        # ignores any empty spaces
+        if word in [' ', '']:
             continue
 
         # removes any extra space
@@ -36,10 +34,10 @@ def return_words_from_input(input):
 
         # appends to the words list
         if word in known_words.punctuation_symbols:
-            words.append(word)
+            words_list.append(word)
         else:
-            words.append('_' + word)
+            words_list.append(word)
 
-    print('I generated the following words list: {}\n'.format(words))
+    print(f'I generated the following words list: {words_list}\n')
 
-    return words
+    return words_list

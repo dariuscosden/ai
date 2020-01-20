@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "dogs",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    "conjugated form of dog"
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "dog",
+                      "text": "dog",
+                      "type": "see also"
+                    }
+                  ],
+                  "id": "m_en_gbus0287810.041"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gave_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261e\u026av"
+            }
+          ]
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    "plural of dog"
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "dog",
+                      "text": "dog",
+                      "type": "see also"
+                    }
+                  ],
+                  "id": "m_en_gbus0287810.007"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gave_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "\u0261e\u026av"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
