@@ -39,6 +39,6 @@ SQLAlchemy==1.2.14
 tempora==1.14
 Unidecode==1.0.22
 urllib3==1.24.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 yapf==0.25.0
 zc.lockfile==1.4
