@@ -4,7 +4,10 @@ import copy
 import requests
 import pattern.en
 from . import known_words
-from server.models import Word
+
+from flask import current_app as app
+from server.models import Word, Category
+from server.database import db
 
 # can compute how many chances there are for each len of subject
 
@@ -13,6 +16,63 @@ from server.models import Word
 # humans do it this way
 
 # if you use the relationships between the words with mathematical operations and since we have them segmented by subject, definition, predicate, etc.. it is mathematically predictable
+
+
+# adds words to memory if they don't already exist
+def add_words_to_memory(words):
+    db_words = []
+
+    for w in words:
+
+        # checks for existing word and creates one if needed
+        word = Word.query.filter_by(string=w).first()
+
+        if not word:
+
+            # adds the word to the database
+            word = Word(string=w)
+            db.session.add(word)
+
+            # gets the word from oxford dictionaries api
+            url = f"https://od-api.oxforddictionaries.com/api/v2/entries/en-us/{w.lower()}"
+            r = requests.get(
+                url,
+                headers={
+                    "app_id": app.config['OXFORD_APP_ID'],
+                    "app_key": app.config['OXFORD_APP_KEY']
+                }
+            )
+
+            # to json
+            r = r.json()
+
+            # gets the lexical categories
+            for entry in r['results'][0]['lexicalEntries']:
+
+                # sets the lexical category
+                category = entry['lexicalCategory']['id']
+
+                category = Category(string=category)
+                db.session.add(category)
+                word.categories.append(category)
+
+                db.session.commit()
+
+                if app.config['DEBUG']:
+                    print(f'Added {word} to the {category} category')
+
+            if app.config['DEBUG']:
+                print(f'Added {word} to the database')
+
+        # debug
+        else:
+
+            if app.config['DEBUG']:
+                print(f'Already have {word} in the database')
+
+        db_words.append(word)
+
+    return db_words
 
 
 # returns a json word file for a given word

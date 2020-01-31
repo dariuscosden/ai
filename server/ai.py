@@ -1,10 +1,13 @@
 from flask import current_app as app
 from flask import Response, request
+from server.database import db
 import json
 import os
-from .actions.input import input
-from .actions.memory import memory
-from .actions.compute import compute
+from server.actions.input import input
+from server.actions.memory import memory
+from server.actions.compute import compute
+
+from server.models import Word
 
 # directories
 current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -17,21 +20,31 @@ tasks_dir = memory_dir + '/tasks'
 @app.route('/listen', methods=['POST'])
 def listen():
 
-    user_input = request.form['input']
-
-    # sanitizes the input
-    user_input = input.sanitize_input(user_input)
-
-    # converts string to word list
+    # this section takes in user input, sanitizes it
+    # and creates database entries based on what
+    # has been submitted
+    #
+    # this uses various functions from the 'input' and 'memory'
+    # folders
+    #
+    #
+    user_input = input.sanitize_input(request.form['input'])
     words = input.return_words_from_input(user_input)
 
-    # gets word data and creates a file for each word
-    for index, word in enumerate(words):
-        memory.save_word_to_memory(word, words_dir)
+    if app.config['DEBUG']:
+        print('\nNow adding words to the database...\n')
 
-    return
+    words = memory.add_words_to_memory(words)
 
-    # computes the word tree
-    subject, predicate = compute.compute_word_tree(words, words_dir)
+    # this section computes the subject, predicate,
+    # and eventually the word tree of the current input
+    #
+    # it uses various functions from the 'compute' folders
+    #
+    # note: at this point the words contain the database
+    # entries
+    #
+    #
+    subject = compute.compute_subject(words)
 
     return Response(status=200)

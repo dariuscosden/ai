@@ -1,6 +1,9 @@
 from ..memory import memory, known_words
 import json
 
+from flask import current_app as app
+from server.models import Category
+
 # can compute how many chances there are for each len of subject
 
 # any word that's not a verb left of the noun is part of the subject until.. ',', '.', verb?, 'conjunction'
@@ -191,17 +194,66 @@ def compute_words(words, words_dir):
 
 
 # computes the subject
-def compute_subject(words, words_dir):
+def compute_subject(words):
 
-    # printing stuff
-    print("\nAnalyzing for the subject\n")
+    if app.config['DEBUG']:
+        print("\nAnalyzing for the subject...\n")
 
-    # setting the initial variables
     subject = ''
     simple_subject = ''
 
-    # setting the initial word order
-    _words = compute_words(words, words_dir)
+    # this section computes the word categories
+    # based on their existing potential lexical
+    # categories
+    #
+    # for example: fire can be both a 'verb' and a
+    # 'noun'. This section figures out with a certain
+    # level of confidence which one it is
+    #
+    #
+    enhanced_words = []
+    for index, word in enumerate(words):
+
+        # computes lexical categories
+        categories = {}
+        for category in word.categories:
+            categories[category] = 0
+
+        word_object = {
+            "string": word,
+            "categories": categories,
+            "index": index,
+        }
+
+        enhanced_words.append(word_object)
+
+    # brings everything back to words
+    words = enhanced_words
+
+    # sets word categories
+    adjective = Category.query.filter_by(string='adjective').first()
+    determiner = Category.query.filter_by(string='determiner').first()
+    noun = Category.query.filter_by(string='noun').first()
+
+    # word computation begins here
+    for word in words:
+
+        # handles nouns
+        if noun in word['categories']:
+
+            # check the word to the left for determiner, adjective
+            if word['index'] > 0:
+                previous_word = words[word['index'] - 1]
+
+                if determiner in previous_word['categories'] or adjective in previous_word['categories']:
+                    word['categories'][noun] += 5
+
+    if app.config['DEBUG']:
+        for word in enhanced_words:
+            print(
+                f'{word["string"]}\n------\n{word["categories"]}\n\n')
+
+    return
 
     # sets the first_noun_or_pronoun
     first_noun_or_pronoun = None
@@ -308,23 +360,3 @@ def compute_subject(words, words_dir):
     print("\nThe subject is: \"{}\"\n".format(subject))
 
     return subject
-
-
-# computes the predicate
-def compute_predicate(words, words_dir):
-
-    predicate = ''
-
-    return predicate
-
-
-# computes the word tree
-def compute_word_tree(words, words_dir):
-
-    # computes the subject
-    subject = compute_subject(words, words_dir)
-
-    # computes the predicate
-    predicate = compute_predicate(words, words_dir)
-
-    return subject, predicate

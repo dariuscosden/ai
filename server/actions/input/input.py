@@ -1,3 +1,4 @@
+from flask import current_app as app
 import re
 from ..memory import known_words
 
@@ -10,34 +11,33 @@ def sanitize_input(string):
         string = string.replace("?", "")
         string += '?'
 
-    print(f'What I understood: {string}\n')
+    if app.config['DEBUG']:
+        print(f'\nWhat I understood: {string}')
 
     return string
 
 
 # returns words from string
 def return_words_from_input(input):
-    words_list = []
 
-    # starts building the words list
-    string_words = re.split('(\W+)', input)
+    # sets up words list
+    words = []
+    input = re.split('(\W+)', input)
 
     # iterates through each item in the list
-    for word_index, word in enumerate(string_words):
+    for word in input:
 
         # ignores any empty spaces
-        if word in [' ', '']:
+        if not word or ' ' in word:
             continue
 
         # removes any extra space
         word = word.strip(' ')
 
         # appends to the words list
-        if word in known_words.punctuation_symbols:
-            words_list.append(word)
-        else:
-            words_list.append(word)
+        words.append(word)
 
-    print(f'I generated the following words list: {words_list}\n')
+    if app.config['DEBUG']:
+        print(f'\nI generated the following words list: {words}')
 
-    return words_list
+    return words
