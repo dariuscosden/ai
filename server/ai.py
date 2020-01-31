@@ -31,9 +31,6 @@ def listen():
     user_input = input.sanitize_input(request.form['input'])
     words = input.return_words_from_input(user_input)
 
-    if app.config['DEBUG']:
-        print('\nNow adding words to the database...\n')
-
     words = memory.add_words_to_memory(words)
 
     # this section computes the subject, predicate,
@@ -45,6 +42,8 @@ def listen():
     # entries
     #
     #
-    subject = compute.compute_subject(words)
+    words, complete_subject, last_index = compute.compute_subject(words)
+
+    predicate = compute.compute_predicate(words, last_index)
 
     return Response(status=200)

@@ -12,7 +12,7 @@ def sanitize_input(string):
         string += '?'
 
     if app.config['DEBUG']:
-        print(f'\nWhat I understood: {string}')
+        print(f'\nWhat I understood: {string}\n')
 
     return string
 
@@ -22,6 +22,8 @@ def return_words_from_input(input):
 
     # sets up words list
     words = []
+
+    # TODO: sanitize input to remove numbers and unwanted characters
     input = re.split('(\W+)', input)
 
     # iterates through each item in the list
@@ -38,6 +40,7 @@ def return_words_from_input(input):
         words.append(word)
 
     if app.config['DEBUG']:
-        print(f'\nI generated the following words list: {words}')
+        print('********************\n')
+        print(f'I generated the following words list: {words}\n')
 
     return words

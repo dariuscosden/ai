@@ -9,23 +9,25 @@ from flask import current_app as app
 from server.models import Word, Category
 from server.database import db
 
-# can compute how many chances there are for each len of subject
-
-# any word that's not a verb left of the noun is part of the subject until.. ',', '.', verb?, 'conjunction'
-# any word that's not a '.', ',', 'preposition', noun?, 'conjunction' is part of the predicate
-# humans do it this way
-
-# if you use the relationships between the words with mathematical operations and since we have them segmented by subject, definition, predicate, etc.. it is mathematically predictable
-
 
 # adds words to memory if they don't already exist
 def add_words_to_memory(words):
     db_words = []
 
+    if app.config['DEBUG']:
+        print('********************\n')
+        print('Now adding words to the database...\n')
+
     for w in words:
 
         # checks for existing word and creates one if needed
         word = Word.query.filter_by(string=w).first()
+
+        # checks if conjugated
+        conjugated = False
+        infinitive = pattern.en.conjugate(w, 'INFINITIVE')
+        if infinitive != w:
+            conjugated = True
 
         if not word:
 
@@ -52,14 +54,31 @@ def add_words_to_memory(words):
                 # sets the lexical category
                 category = entry['lexicalCategory']['id']
 
-                category = Category(string=category)
-                db.session.add(category)
-                word.categories.append(category)
+                # checks for existing category
+                c = Category.query.filter_by(string=category).first()
+                if not c:
+                    c = Category(string=category)
+                    db.session.add(c)
 
-                db.session.commit()
+                word.categories.append(c)
 
                 if app.config['DEBUG']:
                     print(f'Added {word} to the {category} category')
+
+            # adds verb category if conjugated
+            if conjugated:
+                verb = Category.query.filter_by(string='verb').first()
+
+                if not verb:
+                    verb = Category(string='verb')
+                    db.session.add(verb)
+
+                word.categories.append(verb)
+
+                if app.config['DEBUG']:
+                    print(f'Added {word} to the {verb} category')
+
+            db.session.commit()
 
             if app.config['DEBUG']:
                 print(f'Added {word} to the database')
@@ -72,42 +91,11 @@ def add_words_to_memory(words):
 
         db_words.append(word)
 
+    if app.config['DEBUG']:
+        print('\n')
+
     return db_words
 
-
-# returns a json word file for a given word
-def return_json_word_path(word, words_dir):
-    _w = word[:2]
-    file_name = word + '.json'
-
-    # checks if word file exists
-    file_path = os.path.join(words_dir, _w, file_name)
-    if os.path.isfile(file_path):
-        return file_path
-    else:
-        return None
-
-
-# creates a word file
-def create_word_file(word, words_dir, json_word):
-
-    # starting letter
-    _w = word[:2]
-
-    # _w dir
-    word_dir = os.path.join(words_dir, _w)
-
-    # makes letter directory if it doesn't exist
-    if not os.path.isdir(word_dir):
-        os.mkdir(word_dir)
-
-    # setting the file_path
-    file_path = os.path.join(word_dir, '{}.json'.format(word))
-
-    # creating file
-    file = open(file_path, 'w')
-    file.write(json_word)
-    file.close()
 
 # creates a regular conjugated verb file
 
