@@ -1,6 +1,5 @@
 from flask import current_app as app
 import re
-from ..memory import known_words
 
 
 # sanitizes the string before passing it on

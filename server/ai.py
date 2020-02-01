@@ -43,7 +43,28 @@ def listen():
     #
     #
     words, complete_subject, last_index = compute.compute_subject(words)
-
     predicate = compute.compute_predicate(words, last_index)
+
+    # this section computes the tense of the subject
+    # and feeds it onwards
+    #
+    #
+    subject_tense = compute.compute_subject_tense(complete_subject)
+
+    # this section computes the connection between the
+    # subject and predicate of the input
+    #
+    # this connection will then be used by the intelligence
+    # to figure out what the intention of the input was
+    #
+    #
+    returned_subject = compute.compute_subject_return(
+        complete_subject, subject_tense)
+
+    returned_predicate = compute.compute_predicate_return(
+        predicate, subject_tense)
+
+    returned_input = compute.compute_input_return(
+        returned_subject, returned_predicate)
 
     return Response(status=200)

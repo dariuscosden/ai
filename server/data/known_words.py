@@ -1,3 +1,20 @@
+# singular determiners
+singular_determiners = [
+    "a",
+    "an",
+    "that",
+    'the',
+    "this",
+]
+
+# plural determiners
+plural_determiners = [
+    "the",
+    "these",
+    "those",
+
+]
+
 # words that indicate a question
 interrogativewords = [
     'how', 'what', 'when', 'whence', 'where', 'whether', 'whither'

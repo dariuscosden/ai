@@ -3,7 +3,6 @@ import json
 import copy
 import requests
 import pattern.en
-from . import known_words
 
 from flask import current_app as app
 from server.models import Word, Category
@@ -29,11 +28,23 @@ def add_words_to_memory(words):
         if infinitive != w:
             conjugated = True
 
+        # checks if plural
+        plural = False
+        singularized = pattern.en.singularize(w)
+        if singularized != w:
+            plural = True
+            w = singularized
+
         if not word:
 
             # adds the word to the database
             word = Word(string=w)
             db.session.add(word)
+
+            # adds the plural form
+            if plural:
+                plural_word = Word(string=pattern.en.pluralize(w))
+                db.session.add(plural_word)
 
             # gets the word from oxford dictionaries api
             url = f"https://od-api.oxforddictionaries.com/api/v2/entries/en-us/{w.lower()}"
@@ -62,8 +73,17 @@ def add_words_to_memory(words):
 
                 word.categories.append(c)
 
+                # handles plural
+                if plural:
+                    plural_word.categories.append(c)
+
                 if app.config['DEBUG']:
                     print(f'Added {word} to the {category} category')
+
+                    # plural
+                    if plural:
+                        print(
+                            f'Added {plural_word} to the {category} category')
 
             # adds verb category if conjugated
             if conjugated:
@@ -98,8 +118,6 @@ def add_words_to_memory(words):
 
 
 # creates a regular conjugated verb file
-
-
 def get_regular_verb_conjugated_json(word, words_dir, infinitive, infinitive_id):
 
     # sets json_word

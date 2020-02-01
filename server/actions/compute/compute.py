@@ -1,9 +1,10 @@
-from ..memory import memory, known_words
-import json
-
 from flask import current_app as app
-from server.models import Category
+from server.models import Category, Word
+from server.actions.memory import memory
+from server.data import known_words
+import json
 import operator
+import pattern.en
 
 # any word that's not a verb left of the noun is part of the subject until.. ',', '.', verb?, 'conjunction'
 # any word that's not a '.', ',', 'preposition', noun?, 'conjunction' is part of the predicate
@@ -11,10 +12,11 @@ import operator
 
 
 # computes categories
-def assign_points(category, words, word, direction, values, points):
+def compute_points(category, words, word, direction, values, points):
 
-    # sets word categories
+    # gets categories
     adjective = Category.query.filter_by(string='adjective').first()
+    adverb = Category.query.filter_by(string='adverb').first()
     conjunction = Category.query.filter_by(string='conjunction').first()
     determiner = Category.query.filter_by(string='determiner').first()
     noun = Category.query.filter_by(string='noun').first()
@@ -30,7 +32,8 @@ def assign_points(category, words, word, direction, values, points):
 
             for value in values:
                 if any(v in previous_word['categories'] for v in values):
-                    word['categories'][category] += points
+                    if category in word['categories']:
+                        word['categories'][category] += points
                     break
 
     # handles right direction
@@ -41,7 +44,8 @@ def assign_points(category, words, word, direction, values, points):
 
             for value in values:
                 if any(v in next_word['categories'] for v in values):
-                    word['categories'][category] += points
+                    if category in word['categories']:
+                        word['categories'][category] += points
                     break
 
     return
@@ -75,7 +79,7 @@ def compute_subject(words):
             categories[category] = 0
 
         word_object = {
-            "string": word,
+            "word": word,
             "categories": categories,
             "index": index,
         }
@@ -85,8 +89,9 @@ def compute_subject(words):
     # brings everything back to words
     words = enhanced_words
 
-    # sets word categories
+    # gets categories
     adjective = Category.query.filter_by(string='adjective').first()
+    adverb = Category.query.filter_by(string='adverb').first()
     conjunction = Category.query.filter_by(string='conjunction').first()
     determiner = Category.query.filter_by(string='determiner').first()
     noun = Category.query.filter_by(string='noun').first()
@@ -101,7 +106,7 @@ def compute_subject(words):
         if determiner in word['categories']:
 
             # check the word to the right for noun, adjective
-            assign_points(
+            compute_points(
                 determiner,
                 words,
                 word,
@@ -110,11 +115,34 @@ def compute_subject(words):
                 5
             )
 
+        # handles pronouns
+        if pronoun in word['categories']:
+
+            # check the word to the right for verb
+            compute_points(
+                pronoun,
+                words,
+                word,
+                'right',
+                [verb],
+                5
+            )
+
+            # check the word to the right for verb
+            compute_points(
+                noun,
+                words,
+                word,
+                'right',
+                [verb],
+                -5
+            )
+
         # handles nouns
         if noun in word['categories']:
 
             # check the word to the left for determiner, adjective
-            assign_points(
+            compute_points(
                 noun,
                 words,
                 word,
@@ -124,7 +152,7 @@ def compute_subject(words):
             )
 
             # check the word to the right for verb
-            assign_points(
+            compute_points(
                 noun,
                 words,
                 word,
@@ -134,7 +162,7 @@ def compute_subject(words):
             )
 
             # check the word to the right for noun
-            assign_points(
+            compute_points(
                 noun,
                 words,
                 word,
@@ -147,7 +175,7 @@ def compute_subject(words):
         if adjective in word['categories']:
 
             # check the word to the left for verb or determiner
-            assign_points(
+            compute_points(
                 adjective,
                 words,
                 word,
@@ -157,7 +185,7 @@ def compute_subject(words):
             )
 
             # check the word to the right for a determiner, pronoun, or noun
-            assign_points(
+            compute_points(
                 adjective,
                 words,
                 word,
@@ -170,7 +198,7 @@ def compute_subject(words):
         if verb in word['categories']:
 
             # check the word to the left for determiner, pronoun, noun
-            assign_points(
+            compute_points(
                 verb,
                 words,
                 word,
@@ -180,7 +208,7 @@ def compute_subject(words):
             )
 
             # check the word to the right for a determiner, pronoun, or noun
-            assign_points(
+            compute_points(
                 verb,
                 words,
                 word,
@@ -189,11 +217,34 @@ def compute_subject(words):
                 5
             )
 
+        # handles adverbs
+        if adverb in word['categories']:
+
+            # check the word to the left for verb
+            compute_points(
+                adverb,
+                words,
+                word,
+                'left',
+                [verb],
+                5
+            )
+
+            # check the word to the right for an adjective
+            compute_points(
+                adverb,
+                words,
+                word,
+                'right',
+                [adjective],
+                5
+            )
+
         # handles conjunctions
         if conjunction in word['categories']:
 
             # check the word to the right for a determiner, pronoun, or noun
-            assign_points(
+            compute_points(
                 conjunction,
                 words,
                 word,
@@ -206,7 +257,7 @@ def compute_subject(words):
         if preposition in word['categories']:
 
             # check the word to the right for a determiner, pronoun, or noun
-            assign_points(
+            compute_points(
                 preposition,
                 words,
                 word,
@@ -218,7 +269,7 @@ def compute_subject(words):
     if app.config['DEBUG']:
         for word in words:
             print(
-                f'{word["string"]}\n------\n{word["categories"]}\n')
+                f'{word["word"]}\n------\n{word["categories"]}\n')
 
     # here we compile the words into the
     # maximum value computed for each object
@@ -234,7 +285,7 @@ def compute_subject(words):
                        key=operator.itemgetter(1))[0]
 
         word_object = {
-            "string": word['string'],
+            "word": word['word'],
             "category": category,
             "index": word['index'],
         }
@@ -249,7 +300,7 @@ def compute_subject(words):
 
     if app.config['DEBUG']:
         for word in words:
-            print(f'{word["string"]} | {word["category"]}\n')
+            print(f'{word["word"]} | {word["category"]}\n')
 
     # this section finds the subject of the input
     # by assuming that the first noun in the
@@ -264,19 +315,20 @@ def compute_subject(words):
 
     # loops through the words to find the first noun
     for word in words:
-        if word['category'] == noun:
+        if word['category'] in [noun, pronoun]:
             simple_subject = word
             break
 
     if app.config['DEBUG']:
         print('********************\n')
-        print(f'The simple subject is: {simple_subject["string"]}\n')
+        print(f'The simple subject is: {simple_subject["word"]}\n')
 
     if app.config['DEBUG']:
         print('********************\n')
         print(f'Finding the complete subject...\n')
 
     complete_subject = []
+    debug_complete_subject = []
     last_index = simple_subject['index']
 
     # loops through the words to the left of the subject until
@@ -286,7 +338,8 @@ def compute_subject(words):
         if word['category'] == verb:
             break
 
-        complete_subject.insert(0, word['string'])
+        complete_subject.insert(0, word)
+        debug_complete_subject.insert(0, word['word'])
 
     # loops through the words to the right of the subject until
     # it finds a verb
@@ -295,11 +348,12 @@ def compute_subject(words):
         if word['category'] == verb:
             break
 
-        complete_subject.append(word['string'])
+        complete_subject.append(word)
+        debug_complete_subject.append(word['word'])
         last_index = word['index']
 
     if app.config['DEBUG']:
-        print(f'The complete subject is: {complete_subject}\n')
+        print(f'The complete subject is: {debug_complete_subject}\n')
 
     return words, complete_subject, last_index
 
@@ -318,11 +372,189 @@ def compute_predicate(words, last_index):
     #
     #
     predicate = []
+    debug_predicate = []
     for word in words[last_index + 1:]:
 
-        predicate.append(word['string'])
+        predicate.append(word)
+        debug_predicate.append(word['word'])
 
     if app.config['DEBUG']:
-        print(f'The predicate is: {predicate}\n')
+        print(f'The predicate is: {debug_predicate}\n')
+
+    return predicate
+
+
+# computes the tense of the subject
+def compute_subject_tense(words):
+
+    # creates the tense object
+    tense = {
+        "person": {
+            1: 0,
+            2: 0,
+            3: 0,
+        },
+        "number": {
+            "singular": 0,
+            "plural": 0
+        }
+    }
+
+    # loops through the words
+    for word in words:
+
+        # handles determiners
+        determiner = Category.query.filter_by(string="determiner").first()
+        if word['category'] == determiner:
+
+            # handles singular determiners
+            if word['word'].string in known_words.singular_determiners:
+                tense["person"][3] += 5
+                tense["number"]["singular"] += 5
+
+            # handles plural determiners
+            if word['word'].string in known_words.plural_determiners:
+                tense["person"][3] += 5
+                tense["number"]["plural"] += 5
+
+        # handles pronouns
+        pronoun = Category.query.filter_by(string="pronoun").first()
+        if word['category'] == pronoun:
+
+            # checks for singular pronouns
+            if word['word'].string in ['you']:
+                tense["person"][2] += 5
+                tense["number"]["singular"] += 5
+
+            # checks for singular pronouns
+            if word['word'].string in ['he', 'she']:
+                tense["person"][3] += 5
+                tense["number"]["singular"] += 5
+
+        # handles nouns
+        noun = Category.query.filter_by(string="noun").first()
+        if word['category'] == noun:
+
+            # checks for i
+            if word['word'].string == 'i':
+                tense["person"][1] += 5
+                tense["number"]["singular"] += 5
+
+            # checks if it can get the singular
+            singular = pattern.en.singularize(word['word'].string)
+            if singular != word['word'].string:
+                tense["number"]["singular"] -= 5
+                tense["number"]["plural"] += 5
+
+    # computes the tense
+    computed_tense = {
+        "person": max(tense['person'].items(),
+                      key=operator.itemgetter(1))[0],
+        "number": max(tense['number'].items(),
+                      key=operator.itemgetter(1))[0],
+    }
+
+    return computed_tense
+
+
+# computes the return of a given set of words
+def compute_subject_return(words, tense):
+
+    # handles first person
+    if tense['person'] == 1 and tense["number"] == 'singular':
+
+        # loops through the words
+        for word in words:
+
+            # personal pronouns
+            noun = Category.query.filter_by(string='noun').first()
+            if word['word'].string == 'i' and noun in word['word'].categories:
+
+                # adds you to dictionary
+                memory.add_words_to_memory(['you'])
+                you = Word.query.filter_by(string='you').first()
+
+                # replaces the word i to you
+                words[words.index(word)]['word'] = you
+
+                break
+
+    # handles second person
+    if tense['person'] == 2 and tense["number"] == 'singular':
+
+        # loops through the words
+        for word in words:
+
+            # personal pronouns
+            pronoun = Category.query.filter_by(string='pronoun').first()
+            if word['word'].string == 'you' and pronoun in word['word'].categories:
+
+                # adds you to dictionary
+                memory.add_words_to_memory(['i'])
+                i = Word.query.filter_by(string='i').first()
+
+                # replaces the word i to you
+                words[words.index(word)]['word'] = i
+
+                break
+
+    return words
+
+
+# computes the return of a given set of words
+def compute_predicate_return(words, tense):
+
+    # sets reverse conjugation tense
+    reverse_tense = {
+        "person": tense["person"],
+        "number": tense["number"]
+    }
+
+    # first person
+    if tense["person"] == 1:
+        reverse_tense["person"] = 2
+
+    # second person
+    if tense["person"] == 2:
+        reverse_tense["person"] = 1
+
+    main_verb = None
+
+    # loops through the words
+    verb = Category.query.filter_by(string='verb').first()
+    for word in words:
+
+        if verb in word['word'].categories:
+            main_verb = word
+            break
+
+    # runs an infinitive function
+    conjugation = pattern.en.conjugate(
+        main_verb['word'].string,
+        person=reverse_tense["person"],
+        number=reverse_tense["number"],
+    )
+
+    memory.add_words_to_memory([conjugation])
+    conjugation = Word.query.filter_by(string=conjugation).first()
+
+    # replaces the word
+    words[words.index(main_verb)]['word'] = conjugation
+
+    return words
+
+
+# computes the reply between the subject and the predicate
+def compute_input_return(subject, predicate):
+
+    if app.config['DEBUG']:
+        print('********************\n')
+        print("Computing the connection between the subject and the predicate...\n")
+
+    debug_subject = [s['word'] for s in subject]
+    debug_predicate = [p['word'] for p in predicate]
+
+    # prints the connection
+    print(f'You said that {debug_subject} {debug_predicate}.')
 
     return
