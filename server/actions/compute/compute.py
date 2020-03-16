@@ -51,15 +51,8 @@ def compute_points(category, words, word, direction, values, points):
     return
 
 
-# computes the subject
-def compute_subject(words):
-
-    if app.config['DEBUG']:
-        print('********************\n')
-        print("Analyzing for the subject...\n")
-
-    subject = ''
-    simple_subject = ''
+# computes and collapses the word categories
+def compute_word_categories(words):
 
     # this section computes the word categories
     # based on their existing potential lexical
@@ -296,11 +289,32 @@ def compute_subject(words):
 
     if app.config['DEBUG']:
         print('********************\n')
-        print('Collapsing the word categories...\n')
+        print('Collapsing word categories...\n')
 
     if app.config['DEBUG']:
         for word in words:
-            print(f'{word["word"]} | {word["category"]}\n')
+            print(f'{word["word"]} | {word["category"]}')
+
+    if app.config['DEBUG']:
+        print('\n')
+
+    return words
+
+
+# computes the subject
+def compute_subject(words):
+
+    if app.config['DEBUG']:
+        print('********************\n')
+        print("Analyzing for the subject...\n")
+
+    # gets categories
+    noun = Category.query.filter_by(string='noun').first()
+    pronoun = Category.query.filter_by(string='pronoun').first()
+    verb = Category.query.filter_by(string='verb').first()
+
+    subject = ''
+    simple_subject = ''
 
     # this section finds the subject of the input
     # by assuming that the first noun in the
@@ -445,6 +459,9 @@ def compute_subject_tense(words):
             if singular != word['word'].string:
                 tense["number"]["singular"] -= 5
                 tense["number"]["plural"] += 5
+
+            # if it's a noun, it probably is 3rd person
+            tense["person"][3] += 5
 
     # computes the tense
     computed_tense = {

@@ -13,7 +13,7 @@ def sanitize_input(string):
     if app.config['DEBUG']:
         print(f'\nWhat I understood: {string}\n')
 
-    return string
+    return string.lower()
 
 
 # returns words from string

@@ -6,6 +6,7 @@ import os
 from server.actions.input import input
 from server.actions.memory import memory
 from server.actions.compute import compute
+from server.actions.create import create
 
 from server.models import Word
 
@@ -32,6 +33,29 @@ def listen():
     words = input.return_words_from_input(user_input)
 
     words = memory.add_words_to_memory(words)
+
+    # this section computes and collapses the word
+    # categories.
+    #
+    # i.e. it checks with a certain level of confidence
+    # if a word is a noun or a verb or etc.
+    words = compute.compute_word_categories(words)
+
+    # this section creates concepts based on the words
+    # received.
+    #
+    # it creates the appropriate concepts and assigns
+    # the related words to it as well as the related
+    # concepts to it
+    concepts = create.create_concepts(words)
+
+    # this section creates concept relationships between
+    # the concepts and links them based on the type
+    # of concept it is.
+    #
+    # for example, it will link nouns and adjectives used together
+    # to create relationships between these two
+    create.create_concept_relationships(concepts)
 
     # this section computes the subject, predicate,
     # and eventually the word tree of the current input
