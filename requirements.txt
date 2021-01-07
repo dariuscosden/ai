@@ -15,7 +15,7 @@ idna==2.8
 itsdangerous==1.1.0
 jaraco.functools==2.0
 Jinja2==2.10
-lxml==4.3.0
+lxml==4.6.2
 MarkupSafe==1.1.0
 more-itertools==5.0.0
 mysql-connector-python==8.0.13
